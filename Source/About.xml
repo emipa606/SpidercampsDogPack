@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Spidercamp's Dog Pack</name>
+  <author>Spidercamp</author>
+  <packageId>SpiderCamp.SpiderCampDogPack</packageId>
+  <supportedVersions>
+    <li>1.0</li>
+    <li>1.1</li>
+  </supportedVersions>
+  <description>Includes all Spidercamp dog releases. Will be updated with additional breeds as they are released.
+    
+		Included Breeds:
+			Afghan Hound
+			Border Collie
+			Borzoi
+			Bull Terrier
+			Bull Mastiff
+			Caucasian Shepherd
+			Chow Chow
+			Collie
+			Doberman
+			Golden Retriever
+			Greyhound
+			Miniature Dachshund
+			Miniature Schnauzer
+			Old English Sheepdog
+			Saint Bernard
+			Standard Poodle
+			Pug
+			Welsh Corgi
+
+  Additional Features:
+	To use with A Dog Said...
+		*Step 1: Subscribe to LBE's A Dog Said Easy Patcher
+		*Step 2: Load mods in the following order
+			A Dog Said...
+			LBE's A Dog Said Easy Patcher
+			
+	Use as battle mount or as a mount in caravans - 
+	Giddy-Up by roolo:
+		http://steamcommunity.com/sharedfiles/filedetails/?id=1216999901
+		http://steamcommunity.com/sharedfiles/filedetails/?id=1217001091
+		http://steamcommunity.com/sharedfiles/filedetails/?id=1253251478
+
+  </description>
+</ModMetaData>

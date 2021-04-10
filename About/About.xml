@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Spidercamp's Dog Pack (Continued)</name>
+  <packageId>Mlie.SpidercampsDogPack</packageId>
+  <author>Spidercamp</author>
+  <url>https://github.com/emipa606/SpidercampsDogPack</url>
+  <supportedVersions>
+    <li>1.0</li>
+    <li>1.1</li>
+    <li>1.2</li>
+  </supportedVersions>
+  <modDependencies />
+  <loadAfter />
+  <description>[img]https://i.imgur.com/WAEzk68.png[/img]
+Update of Spidercamps mod
+https://steamcommunity.com/sharedfiles/filedetails/?id=1256708879
+
+- Fixed the pack-texture names
+
+[img]https://i.imgur.com/7Gzt3Rg.png[/img]
+
+[table]
+    [tr]
+        [td][url=https://invite.gg/Mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
+        [td][url=https://github.com/emipa606/SpidercampsDogPack][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
+    [/tr]
+[/table]
+	
+[img]https://i.imgur.com/NOW7jU1.png[/img]
+Includes all Spidercamp dog releases. Will be updated with additional breeds as they are released.
+
+        [h1]Features (vary per breed):[/h1]
+                Advanced trainability
+                Cold-hardy breeds
+                Larger breeds can be used to carry weight in caravans
+                Some breeds have strong melee to assist with protection and hunting
+
+	[h1]Included Breeds:[/h1]
+			Afghan Hound
+			Border Collie
+			Borzoi
+			Bull Mastiff
+			Bull Terrier
+			Caucasian Shepherd
+			Chow Chow
+			Collie
+			Doberman
+			Golden Retriever
+			Greyhound
+			Old English Sheepdog
+			Saint Bernard
+			Standard Poodle
+			Miniature Schnauzer
+			Miniature Dachshund
+			Newfoundland
+			Pug
+			Welsh Corgi
+
+  [h1]Additional Features:[/h1]
+        [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2108362126] Animals Are Fun[/url]
+        The best part about owning dogs is hanging out with them. Revolus has made a mod that lets your colonists reap the rewards of pet ownership including:
+         -Playing fetch
+         -Going on bff walks
+         -Gaining animal handling skill the more they hang out with their 4 legged pals
+
+        [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2101205559] Animals sleep in bed[/url]
+        Revolus claps back at loneliness and discomfort with this mod which lets dogs sleep in beds just like they deserve.
+
+        [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2109362835] Dogs Mate[/url]
+        As if the first two weren't enough, Revolus hits us with a third instant classic which lets different dog breeds breed and have puppies. The liters will be half mom's breed, half dad's breed. 
+
+
+	[b]A DOG SAID[/b]
+        [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1550059802] A Dog Said Patch, kindly made by @Cypress[/url] (I haven't tested this functionality in a few releases. If it's broken and someone wants to fix it, I'll happily take your fixes and upload here.)
+
+	[b]Use as battle mount or as a mount in caravans - Giddy-Up by roolo:[/b]
+	[url=http://steamcommunity.com/sharedfiles/filedetails/?id=1216999901] Giddy-Up Core	[/url]
+	[url=http://steamcommunity.com/sharedfiles/filedetails/?id=1217001091] Giddy-Up Combat[/url]
+	[url=http://steamcommunity.com/sharedfiles/filedetails/?id=1253251478] Giddy-Up Caravan  [/url]
+
+----------------------------------------------------------
+
+If you subscribe to this release you don't need to subscribe to the individual breed releases. If you were previously using the individual breed mods, you can substitute this one in to a current save and disable the individual subscriptions.
+
+[b]For instance[/b] - You have the following enabled:
+Collie
+Golden Retriver
+
+You subscribe to Spidercamp's Dog Pack.
+
+You disable 
+Collie
+Golden Retriver
+
+You enable 
+Spidercamp's Dog Pack
+
+---------------------------------------------------------------------
+[b]If you encounter any bugs:[/b]
+
+Please note - this mod is about as close to the vanilla game as you can get. Many of the bugs reported in the comments cannot be recreated when using vanilla + this mod only. Before commenting about a bug, please test with only this mod enabled and see if you're able to recreate. Any bugs that exist in the vanilla version will carry over to this mod. 
+
+B18 version available here: https://www.dropbox.com/sh/eb11z2nnebknko5/AAB3Quyx8V11DPv_OlF4s1wTa?dl=0
+B19 version available here: https://www.dropbox.com/sh/ck625r0tl4cmcuo/AAD_rcm_WSlJYR_rKND_azJXa?dl=0
+
+[img]https://i.imgur.com/Rs6T6cr.png[/img]
+[list]
+[*] See if the the error persists if you just have this mod and its requirements active.
+[*] If not, try adding your other mods until it happens again.
+[*] Post your error-log using [url=https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib[/url] and command Ctrl+F12
+[*] For best support, please use the Discord-channel for error-reporting.
+[*] Do not report errors by making a discussion-thread, I get no notification of that.
+[*] If you have the solution for a problem, please post it to the GitHub repository.
+[/list]
+</description>
+</ModMetaData>
+
