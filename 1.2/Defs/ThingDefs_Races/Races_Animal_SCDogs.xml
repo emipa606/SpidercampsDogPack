@@ -1291,7 +1291,7 @@
         <label>Chow Chow Puppy</label>
         <labelPlural>Chow Chow Puppies</labelPlural>
         <bodyGraphicData>
-          <texPath>Things/Chowchowpuppy</texPath>
+          <texPath>Things/Chowchow</texPath>
           <drawSize>1.25</drawSize>
           <color>(255,255,255)</color>
           <shadowData>
