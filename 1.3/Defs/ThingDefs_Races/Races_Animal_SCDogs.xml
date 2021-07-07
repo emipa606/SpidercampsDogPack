@@ -1,0 +1,3034 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!--Smol Dogs-->
+  <!--Beagle - sorry, not this release.
+ <ThingDef ParentName="AnimalThingBase" ADogSaidBody="LegsTail">
+    <defName>Beagle</defName>
+    <label>beagle</label>
+    <description>A small hound bred for scent work, beagles have uses ranging from rabbit hunting to search and rescue. Their small size makes them ideal for chasing small prey but they should be closely watched when larger predators are nearby.</description>
+    <statBases>
+      <MoveSpeed>5.2</MoveSpeed>
+      <ComfyTemperatureMin>-20</ComfyTemperatureMin>
+      <MarketValue>300</MarketValue>
+    </statBases>
+    <tools>
+      <li>
+        <label>left claw</label>
+        <capacities>
+          <li>Scratch</li>
+        </capacities>
+        <power>4</power>
+        <cooldownTime>1.65</cooldownTime>
+        <linkedBodyPartsGroup>FrontLeftPaw</linkedBodyPartsGroup>
+      </li>
+      <li>
+        <label>right claw</label>
+        <capacities>
+          <li>Scratch</li>
+        </capacities>
+        <power>4</power>
+        <cooldownTime>1.65</cooldownTime>
+        <linkedBodyPartsGroup>FrontRightPaw</linkedBodyPartsGroup>
+      </li>
+      <li>
+        <capacities>
+          <li>Bite</li>
+        </capacities>
+        <power>6</power>
+        <cooldownTime>1.65</cooldownTime>
+        <linkedBodyPartsGroup>Teeth</linkedBodyPartsGroup>
+      </li>
+    </tools>
+    <race>
+      <body>QuadrupedAnimalWithPawsAndTail</body>
+      <petness>1</petness>
+      <herdAnimal>true</herdAnimal>
+      <baseBodySize>.38</baseBodySize>
+      <baseHungerRate>0.5</baseHungerRate>
+      <baseHealthScale>1.05</baseHealthScale>
+      <foodType>OmnivoreAnimal, OvivoreAnimal</foodType>
+      <leatherDef>Leather_Dog</leatherDef>
+      <gestationPeriodDays>15</gestationPeriodDays>
+      <nameOnTameChance>1</nameOnTameChance>
+      <trainability>Advanced</trainability>
+      <wildness>0</wildness>
+      <nuzzleMtbHours>24</nuzzleMtbHours>
+      <litterSizeCurve>
+        <points>
+          <li>(3, 0)</li>
+          <li>(4, 1)</li>
+          <li>(6, 1.7)</li>
+          <li>(7, 0.7)</li>
+          <li>(10, 0)</li>
+        </points>
+      </litterSizeCurve>
+      <lifeExpectancy>14</lifeExpectancy>
+      <lifeStageAges>
+        <li>
+          <def>AnimalBaby</def>
+          <minAge>0</minAge>
+        </li>
+        <li>
+          <def>AnimalJuvenile</def>
+          <minAge>0.25</minAge>
+        </li>
+        <li>
+          <def>AnimalAdult</def>
+          <minAge>0.5</minAge>
+          <soundWounded>Pawn_Dog_Injured</soundWounded>
+          <soundDeath>Pawn_Dog_Death</soundDeath>
+          <soundCall>Pawn_Dog_Call</soundCall>
+          <soundAngry>Pawn_Dog_Angry</soundAngry>
+        </li>
+      </lifeStageAges>
+      <soundMeleeHitPawn>Pawn_Melee_SmallScratch_HitPawn</soundMeleeHitPawn>
+      <soundMeleeHitBuilding>Pawn_Melee_SmallScratch_HitBuilding</soundMeleeHitBuilding>
+      <soundMeleeMiss>Pawn_Melee_SmallScratch_Miss</soundMeleeMiss>
+    </race>
+    <tradeTags>
+      <li>AnimalCommon</li><li>AnimalPet</li>
+    </tradeTags>
+  </ThingDef>
+ <PawnKindDef ParentName="AnimalKindBase">
+      <defName>Beagle</defName>
+    <label>beagle</label>
+    <race>Beagle</race>
+    <combatPower>65</combatPower>
+    <lifeStages>
+      <li>
+	    <label>Beagle Puppy</label>
+        <labelPlural>Beagle Puppies</labelPlural>
+        <bodyGraphicData>
+          <texPath>Things/Beagle</texPath>
+          <drawSize>.50</drawSize>
+          <color>(255,255,255)</color>
+		  <shadowData>
+            <volume>(0.2, 0.1, 0.2)</volume>
+            <offset>(0,0,-0.2)</offset>
+          </shadowData>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Labrador/Dessicated_Labrador</texPath>
+          <drawSize>.25</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+	  <li>
+        <bodyGraphicData>
+          <texPath>Things/Beagle</texPath>
+          <drawSize>.75</drawSize>
+          <color>(255,255,255)</color>
+          <shadowData>
+            <volume>(0.3, 0.3, 0.3)</volume>
+            <offset>(0,0,-0.3)</offset>
+          </shadowData>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Labrador/Dessicated_Labrador</texPath>
+          <drawSize>.50</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+      <li>
+        <bodyGraphicData>
+          <texPath>Things/Beagle</texPath>
+          <drawSize>1.0</drawSize>
+          <color>(255,255,255)</color>
+          <shadowData>
+            <volume>(0.4, 0.4, 0.4)</volume>
+            <offset>(0,0,-0.2)</offset>
+          </shadowData>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Labrador/Dessicated_Labrador</texPath>
+          <drawSize>1</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+    </lifeStages>
+  </PawnKindDef> 
+  -->
+  <!--Miniature Dachshund-->
+  <ThingDef ParentName="AnimalThingBase" ADogSaidBody="LegsTail">
+    <defName>SCMiniatureDachshund</defName>
+    <label>miniature dachshund</label>
+    <description>An adorable miniature of the standard Dachshund, these comically shaped dogs were developed to assist in pest control on stately grounds. They quickly dug their place into the hearts of even the most steely and rugged groundskeepers.</description>
+    <statBases>
+      <MoveSpeed>5.2</MoveSpeed>
+      <ComfyTemperatureMin>-10</ComfyTemperatureMin>
+      <MarketValue>300</MarketValue>
+    </statBases>
+    <tools>
+      <li>
+        <label>left claw</label>
+        <capacities>
+          <li>Scratch</li>
+        </capacities>
+        <power>5</power>
+        <cooldownTime>1.65</cooldownTime>
+        <linkedBodyPartsGroup>FrontLeftPaw</linkedBodyPartsGroup>
+      </li>
+      <li>
+        <label>right claw</label>
+        <capacities>
+          <li>Scratch</li>
+        </capacities>
+        <power>5</power>
+        <cooldownTime>1.65</cooldownTime>
+        <linkedBodyPartsGroup>FrontRightPaw</linkedBodyPartsGroup>
+      </li>
+      <li>
+        <capacities>
+          <li>Bite</li>
+        </capacities>
+        <power>5</power>
+        <cooldownTime>1.65</cooldownTime>
+        <linkedBodyPartsGroup>Teeth</linkedBodyPartsGroup>
+      </li>
+    </tools>
+    <race>
+      <body>QuadrupedAnimalWithPawsAndTail</body>
+      <petness>1</petness>
+      <herdAnimal>true</herdAnimal>
+      <baseBodySize>.25</baseBodySize>
+      <baseHungerRate>0.5</baseHungerRate>
+      <baseHealthScale>1.05</baseHealthScale>
+      <foodType>OmnivoreAnimal, OvivoreAnimal</foodType>
+      <leatherDef>Leather_Dog</leatherDef>
+      <gestationPeriodDays>15</gestationPeriodDays>
+      <nameOnTameChance>1</nameOnTameChance>
+      <trainability>Advanced</trainability>
+      <wildness>0</wildness>
+      <nuzzleMtbHours>24</nuzzleMtbHours>
+      <litterSizeCurve>
+        <points>
+          <li>(.3, 0)</li>
+          <li>(4, 1)</li>
+          <li>(4.5, 1.7)</li>
+          <li>(5, 0.7)</li>
+          <li>(10, 0)</li>
+        </points>
+      </litterSizeCurve>
+      <lifeExpectancy>14</lifeExpectancy>
+      <lifeStageAges>
+        <li>
+          <def>AnimalBaby</def>
+          <minAge>0</minAge>
+        </li>
+        <li>
+          <def>AnimalJuvenile</def>
+          <minAge>0.25</minAge>
+        </li>
+        <li>
+          <def>AnimalAdult</def>
+          <minAge>0.5</minAge>
+          <soundWounded>Pawn_Dog_Injured</soundWounded>
+          <soundDeath>Pawn_Dog_Death</soundDeath>
+          <soundCall>Pawn_Dog_Call</soundCall>
+          <soundAngry>Pawn_Dog_Angry</soundAngry>
+        </li>
+      </lifeStageAges>
+      <soundMeleeHitPawn>Pawn_Melee_SmallScratch_HitPawn</soundMeleeHitPawn>
+      <soundMeleeHitBuilding>Pawn_Melee_SmallScratch_HitBuilding</soundMeleeHitBuilding>
+      <soundMeleeMiss>Pawn_Melee_SmallScratch_Miss</soundMeleeMiss>
+    </race>
+    <tradeTags>
+      <li>AnimalCommon</li>
+      <li>AnimalPet</li>
+    </tradeTags>
+  </ThingDef>
+  <PawnKindDef ParentName="AnimalKindBase">
+    <defName>SCMiniatureDachshund</defName>
+    <label>miniature dachshund</label>
+    <labelPlural>miniature dachshunds</labelPlural>
+    <race>SCMiniatureDachshund</race>
+    <combatPower>65</combatPower>
+    <alternateGraphicChance>0.8</alternateGraphicChance>
+    <!--<alternateGraphics>
+      <li><texPath>Things/Pawn/Animal/Horse/Horse1</texPath></li>
+      <li><texPath>Things/Pawn/Animal/Horse/Horse2</texPath></li>
+      <li><texPath>Things/Pawn/Animal/Horse/Horse3</texPath></li>
+      <li><texPath>Things/Pawn/Animal/Horse/Horse4</texPath></li>
+      <li><texPath>Things/Pawn/Animal/Horse/Horse5</texPath></li>
+      <li><texPath>Things/Pawn/Animal/Horse/Horse6</texPath></li>
+    </alternateGraphics>-->
+    <lifeStages>
+      <li>
+        <label>Miniature Dachshund Puppy</label>
+        <labelPlural>Miniature Dachshund Puppies</labelPlural>
+        <bodyGraphicData>
+          <texPath>Things/MiniatureDachshund</texPath>
+          <drawSize>.75</drawSize>
+          <color>(255,255,255)</color>
+          <shadowData>
+            <volume>(0.2, 0.1, 0.2)</volume>
+            <offset>(0,0,-0.2)</offset>
+          </shadowData>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/YorkshireTerrier/Dessicated_YorkshireTerrier</texPath>
+          <drawSize>.25</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+      <li>
+        <bodyGraphicData>
+          <texPath>Things/MiniatureDachshund</texPath>
+          <drawSize>1</drawSize>
+          <color>(255,255,255)</color>
+          <shadowData>
+            <volume>(0.3, 0.3, 0.3)</volume>
+            <offset>(0,0,-0.3)</offset>
+          </shadowData>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/YorkshireTerrier/Dessicated_YorkshireTerrier</texPath>
+          <drawSize>1.25</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+      <li>
+        <bodyGraphicData>
+          <texPath>Things/MiniatureDachshund</texPath>
+          <drawSize>1.0</drawSize>
+          <color>(255,255,255)</color>
+          <shadowData>
+            <volume>(0.4, 0.4, 0.4)</volume>
+            <offset>(0,0,-0.2)</offset>
+          </shadowData>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/YorkshireTerrier/Dessicated_YorkshireTerrier</texPath>
+          <drawSize>1</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+    </lifeStages>
+  </PawnKindDef>
+  <!--Miniature Schnauzer-->
+  <ThingDef ParentName="AnimalThingBase" ADogSaidBody="LegsTail">
+    <defName>SCSchnauzer</defName>
+    <label>miniature schnauzer</label>
+    <description>A breed typically kept for hunting small rodents. Small dog with a big bite. Not recommended for small children.</description>
+    <statBases>
+      <MoveSpeed>5.2</MoveSpeed>
+      <ComfyTemperatureMin>-20</ComfyTemperatureMin>
+      <MarketValue>300</MarketValue>
+    </statBases>
+    <tools>
+      <li>
+        <label>left claw</label>
+        <capacities>
+          <li>Scratch</li>
+        </capacities>
+        <power>4</power>
+        <cooldownTime>1.65</cooldownTime>
+        <linkedBodyPartsGroup>FrontLeftPaw</linkedBodyPartsGroup>
+      </li>
+      <li>
+        <label>right claw</label>
+        <capacities>
+          <li>Scratch</li>
+        </capacities>
+        <power>4</power>
+        <cooldownTime>1.65</cooldownTime>
+        <linkedBodyPartsGroup>FrontRightPaw</linkedBodyPartsGroup>
+      </li>
+      <li>
+        <capacities>
+          <li>Bite</li>
+        </capacities>
+        <power>5</power>
+        <cooldownTime>1.65</cooldownTime>
+        <linkedBodyPartsGroup>Teeth</linkedBodyPartsGroup>
+      </li>
+    </tools>
+    <race>
+      <body>QuadrupedAnimalWithPawsAndTail</body>
+      <petness>1</petness>
+      <herdAnimal>true</herdAnimal>
+      <baseBodySize>.25</baseBodySize>
+      <baseHungerRate>0.5</baseHungerRate>
+      <baseHealthScale>1.05</baseHealthScale>
+      <foodType>OmnivoreAnimal, OvivoreAnimal</foodType>
+      <leatherDef>Leather_Dog</leatherDef>
+      <gestationPeriodDays>15</gestationPeriodDays>
+      <nameOnTameChance>1</nameOnTameChance>
+      <trainability>Advanced</trainability>
+      <wildness>0</wildness>
+      <nuzzleMtbHours>24</nuzzleMtbHours>
+      <litterSizeCurve>
+        <points>
+          <li>(0.5, 0)</li>
+          <li>(3, 1)</li>
+          <li>(6, 1.7)</li>
+          <li>(8, 0.7)</li>
+          <li>(10.5, 0)</li>
+        </points>
+      </litterSizeCurve>
+      <lifeExpectancy>14</lifeExpectancy>
+      <lifeStageAges>
+        <li>
+          <def>AnimalBaby</def>
+          <minAge>0</minAge>
+        </li>
+        <li>
+          <def>AnimalJuvenile</def>
+          <minAge>0.25</minAge>
+        </li>
+        <li>
+          <def>AnimalAdult</def>
+          <minAge>0.5</minAge>
+          <soundWounded>Pawn_Dog_Injured</soundWounded>
+          <soundDeath>Pawn_Dog_Death</soundDeath>
+          <soundCall>Pawn_Dog_Call</soundCall>
+          <soundAngry>Pawn_Dog_Angry</soundAngry>
+        </li>
+      </lifeStageAges>
+      <soundMeleeHitPawn>Pawn_Melee_SmallScratch_HitPawn</soundMeleeHitPawn>
+      <soundMeleeHitBuilding>Pawn_Melee_SmallScratch_HitBuilding</soundMeleeHitBuilding>
+      <soundMeleeMiss>Pawn_Melee_SmallScratch_Miss</soundMeleeMiss>
+    </race>
+    <tradeTags>
+      <li>AnimalCommon</li>
+      <li>AnimalPet</li>
+    </tradeTags>
+  </ThingDef>
+  <PawnKindDef ParentName="AnimalKindBase">
+    <defName>SCSchnauzer</defName>
+    <label>miniature schnauzer</label>
+    <labelPlural>miniature schnauzers</labelPlural>
+    <race>SCSchnauzer</race>
+    <combatPower>65</combatPower>
+    <lifeStages>
+      <li>
+        <label>Schnauzer Puppy</label>
+        <labelPlural>Schnauzer Puppies</labelPlural>
+        <bodyGraphicData>
+          <texPath>Things/Schnauzer</texPath>
+          <drawSize>.50</drawSize>
+          <color>(255,255,255)</color>
+          <shadowData>
+            <volume>(0.2, 0.1, 0.2)</volume>
+            <offset>(0,0,-0.2)</offset>
+          </shadowData>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/YorkshireTerrier/Dessicated_YorkshireTerrier</texPath>
+          <drawSize>.25</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+      <li>
+        <bodyGraphicData>
+          <texPath>Things/Schnauzer</texPath>
+          <drawSize>.75</drawSize>
+          <color>(255,255,255)</color>
+          <shadowData>
+            <volume>(0.3, 0.3, 0.3)</volume>
+            <offset>(0,0,-0.3)</offset>
+          </shadowData>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/YorkshireTerrier/Dessicated_YorkshireTerrier</texPath>
+          <drawSize>.50</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+      <li>
+        <bodyGraphicData>
+          <texPath>Things/Schnauzer</texPath>
+          <drawSize>1.0</drawSize>
+          <color>(255,255,255)</color>
+          <shadowData>
+            <volume>(0.4, 0.4, 0.4)</volume>
+            <offset>(0,0,-0.2)</offset>
+          </shadowData>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/YorkshireTerrier/Dessicated_YorkshireTerrier</texPath>
+          <drawSize>1</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+    </lifeStages>
+  </PawnKindDef>
+  <!--Pug-->
+  <ThingDef ParentName="AnimalThingBase" ADogSaidBody="LegsTail">
+    <defName>SCPug</defName>
+    <label>pug</label>
+    <description>A popular breed with royalty, pugs are humorous and family-friendly companions.</description>
+    <statBases>
+      <MoveSpeed>4.2</MoveSpeed>
+      <ComfyTemperatureMin>-20</ComfyTemperatureMin>
+      <MarketValue>300</MarketValue>
+    </statBases>
+    <tools>
+      <li>
+        <label>left claw</label>
+        <capacities>
+          <li>Scratch</li>
+        </capacities>
+        <power>3</power>
+        <cooldownTime>1.65</cooldownTime>
+        <linkedBodyPartsGroup>FrontLeftPaw</linkedBodyPartsGroup>
+      </li>
+      <li>
+        <label>right claw</label>
+        <capacities>
+          <li>Scratch</li>
+        </capacities>
+        <power>3</power>
+        <cooldownTime>1.65</cooldownTime>
+        <linkedBodyPartsGroup>FrontRightPaw</linkedBodyPartsGroup>
+      </li>
+      <li>
+        <capacities>
+          <li>Bite</li>
+        </capacities>
+        <power>4</power>
+        <cooldownTime>1.65</cooldownTime>
+        <linkedBodyPartsGroup>Teeth</linkedBodyPartsGroup>
+      </li>
+    </tools>
+    <race>
+      <body>QuadrupedAnimalWithPawsAndTail</body>
+      <petness>1</petness>
+      <herdAnimal>true</herdAnimal>
+      <baseBodySize>.25</baseBodySize>
+      <baseHungerRate>0.5</baseHungerRate>
+      <baseHealthScale>1.05</baseHealthScale>
+      <foodType>OmnivoreAnimal, OvivoreAnimal</foodType>
+      <leatherDef>Leather_Dog</leatherDef>
+      <gestationPeriodDays>15</gestationPeriodDays>
+      <nameOnTameChance>1</nameOnTameChance>
+      <trainability>Advanced</trainability>
+      <wildness>0</wildness>
+      <nuzzleMtbHours>24</nuzzleMtbHours>
+      <litterSizeCurve>
+        <points>
+          <li>(0.5, 0)</li>
+          <li>(3, 1)</li>
+          <li>(5, 1.7)</li>
+          <li>(6, 0.7)</li>
+          <li>(6.5, 0)</li>
+        </points>
+      </litterSizeCurve>
+      <lifeExpectancy>14</lifeExpectancy>
+      <lifeStageAges>
+        <li>
+          <def>AnimalBaby</def>
+          <minAge>0</minAge>
+        </li>
+        <li>
+          <def>AnimalJuvenile</def>
+          <minAge>0.25</minAge>
+        </li>
+        <li>
+          <def>AnimalAdult</def>
+          <minAge>0.5</minAge>
+          <soundWounded>Pawn_Dog_Injured</soundWounded>
+          <soundDeath>Pawn_Dog_Death</soundDeath>
+          <soundCall>Pawn_Dog_Call</soundCall>
+          <soundAngry>Pawn_Dog_Angry</soundAngry>
+        </li>
+      </lifeStageAges>
+      <soundMeleeHitPawn>Pawn_Melee_SmallScratch_HitPawn</soundMeleeHitPawn>
+      <soundMeleeHitBuilding>Pawn_Melee_SmallScratch_HitBuilding</soundMeleeHitBuilding>
+      <soundMeleeMiss>Pawn_Melee_SmallScratch_Miss</soundMeleeMiss>
+    </race>
+    <tradeTags>
+      <li>AnimalCommon</li>
+      <li>AnimalPet</li>
+    </tradeTags>
+  </ThingDef>
+  <PawnKindDef ParentName="AnimalKindBase">
+    <defName>SCPug</defName>
+    <label>pug</label>
+    <labelPlural>pugs</labelPlural>
+    <race>SCPug</race>
+    <combatPower>65</combatPower>
+    <lifeStages>
+      <li>
+        <label>Pug Puppy</label>
+        <labelPlural>Pug Puppies</labelPlural>
+        <bodyGraphicData>
+          <texPath>Things/Pug</texPath>
+          <drawSize>.50</drawSize>
+          <color>(255,255,255)</color>
+          <shadowData>
+            <volume>(0.2, 0.1, 0.2)</volume>
+            <offset>(0,0,-0.2)</offset>
+          </shadowData>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/YorkshireTerrier/Dessicated_YorkshireTerrier</texPath>
+          <drawSize>.25</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+      <li>
+        <bodyGraphicData>
+          <texPath>Things/Pug</texPath>
+          <drawSize>.75</drawSize>
+          <color>(255,255,255)</color>
+          <shadowData>
+            <volume>(0.3, 0.3, 0.3)</volume>
+            <offset>(0,0,-0.3)</offset>
+          </shadowData>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/YorkshireTerrier/Dessicated_YorkshireTerrier</texPath>
+          <drawSize>.50</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+      <li>
+        <bodyGraphicData>
+          <texPath>Things/Pug</texPath>
+          <drawSize>1.0</drawSize>
+          <color>(255,255,255)</color>
+          <shadowData>
+            <volume>(0.4, 0.4, 0.4)</volume>
+            <offset>(0,0,-0.2)</offset>
+          </shadowData>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/YorkshireTerrier/Dessicated_YorkshireTerrier</texPath>
+          <drawSize>1</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+    </lifeStages>
+  </PawnKindDef>
+  <!--Welsh Corgi-->
+  <ThingDef ParentName="AnimalThingBase" ADogSaidBody="LegsTail">
+    <defName>SCWelshCorgi</defName>
+    <label>welsh corgi</label>
+    <description>Known for being the favorite breed of the oldest queen on record, the Welsh Corgi makes a spunky, independent companion with an affinity for finding trouble.
+	
+	In memory of Nugget - the sweetest, orneriest, candy-thievingest dog to ever trot the galaxy.</description>
+    <statBases>
+      <MoveSpeed>5.2</MoveSpeed>
+      <ComfyTemperatureMin>-20</ComfyTemperatureMin>
+      <MarketValue>300</MarketValue>
+    </statBases>
+    <tools>
+      <li>
+        <label>left claw</label>
+        <capacities>
+          <li>Scratch</li>
+        </capacities>
+        <power>4</power>
+        <cooldownTime>1.65</cooldownTime>
+        <linkedBodyPartsGroup>FrontLeftPaw</linkedBodyPartsGroup>
+      </li>
+      <li>
+        <label>right claw</label>
+        <capacities>
+          <li>Scratch</li>
+        </capacities>
+        <power>4</power>
+        <cooldownTime>1.65</cooldownTime>
+        <linkedBodyPartsGroup>FrontRightPaw</linkedBodyPartsGroup>
+      </li>
+      <li>
+        <capacities>
+          <li>Bite</li>
+        </capacities>
+        <power>6</power>
+        <cooldownTime>1.65</cooldownTime>
+        <linkedBodyPartsGroup>Teeth</linkedBodyPartsGroup>
+      </li>
+    </tools>
+    <race>
+      <body>QuadrupedAnimalWithPawsAndTail</body>
+      <petness>1</petness>
+      <herdAnimal>true</herdAnimal>
+      <baseBodySize>.42</baseBodySize>
+      <baseHungerRate>0.5</baseHungerRate>
+      <baseHealthScale>1.05</baseHealthScale>
+      <foodType>OmnivoreAnimal, OvivoreAnimal</foodType>
+      <leatherDef>Leather_Dog</leatherDef>
+      <gestationPeriodDays>15</gestationPeriodDays>
+      <nameOnTameChance>1</nameOnTameChance>
+      <trainability>Advanced</trainability>
+      <wildness>0</wildness>
+      <nuzzleMtbHours>24</nuzzleMtbHours>
+      <litterSizeCurve>
+        <points>
+          <li>(3, 0)</li>
+          <li>(5, 1)</li>
+          <li>(6, 1.7)</li>
+          <li>(8, 0.7)</li>
+          <li>(10, 0)</li>
+        </points>
+      </litterSizeCurve>
+      <lifeExpectancy>13</lifeExpectancy>
+      <lifeStageAges>
+        <li>
+          <def>AnimalBaby</def>
+          <minAge>0</minAge>
+        </li>
+        <li>
+          <def>AnimalJuvenile</def>
+          <minAge>0.25</minAge>
+        </li>
+        <li>
+          <def>AnimalAdult</def>
+          <minAge>0.5</minAge>
+          <soundWounded>Pawn_Dog_Injured</soundWounded>
+          <soundDeath>Pawn_Dog_Death</soundDeath>
+          <soundCall>Pawn_Dog_Call</soundCall>
+          <soundAngry>Pawn_Dog_Angry</soundAngry>
+        </li>
+      </lifeStageAges>
+      <soundMeleeHitPawn>Pawn_Melee_SmallScratch_HitPawn</soundMeleeHitPawn>
+      <soundMeleeHitBuilding>Pawn_Melee_SmallScratch_HitBuilding</soundMeleeHitBuilding>
+      <soundMeleeMiss>Pawn_Melee_SmallScratch_Miss</soundMeleeMiss>
+    </race>
+    <tradeTags>
+      <li>AnimalCommon</li>
+      <li>AnimalPet</li>
+    </tradeTags>
+  </ThingDef>
+  <PawnKindDef ParentName="AnimalKindBase">
+    <defName>SCWelshCorgi</defName>
+    <label>welsh corgi</label>
+    <labelPlural>welsh corgis</labelPlural>
+    <race>SCWelshCorgi</race>
+    <combatPower>65</combatPower>
+    <lifeStages>
+      <li>
+        <label>Welsh Corgi Puppy</label>
+        <labelPlural>Welsh Corgi Puppies</labelPlural>
+        <bodyGraphicData>
+          <texPath>Things/WelshCorgi</texPath>
+          <drawSize>.50</drawSize>
+          <color>(255,255,255)</color>
+          <shadowData>
+            <volume>(0.2, 0.1, 0.2)</volume>
+            <offset>(0,0,-0.2)</offset>
+          </shadowData>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/YorkshireTerrier/Dessicated_YorkshireTerrier</texPath>
+          <drawSize>.25</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+      <li>
+        <bodyGraphicData>
+          <texPath>Things/WelshCorgi</texPath>
+          <drawSize>.75</drawSize>
+          <color>(255,255,255)</color>
+          <shadowData>
+            <volume>(0.3, 0.3, 0.3)</volume>
+            <offset>(0,0,-0.3)</offset>
+          </shadowData>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/YorkshireTerrier/Dessicated_YorkshireTerrier</texPath>
+          <drawSize>.50</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+      <li>
+        <bodyGraphicData>
+          <texPath>Things/WelshCorgi</texPath>
+          <drawSize>1.0</drawSize>
+          <color>(255,255,255)</color>
+          <shadowData>
+            <volume>(0.4, 0.4, 0.4)</volume>
+            <offset>(0,0,-0.2)</offset>
+          </shadowData>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/YorkshireTerrier/Dessicated_YorkshireTerrier</texPath>
+          <drawSize>1</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+    </lifeStages>
+  </PawnKindDef>
+  <!--Medium/Large Puppers-->
+  <!--Afghan Hound-->
+  <ThingDef ParentName="AnimalThingBase" ADogSaidBody="LegsTail">
+    <defName>SCAfghanHound</defName>
+    <label>afghan hound</label>
+    <description>An ancient hound originating from deserts in far-away lands. The majority of sighthounds can trace their linage back to these majestic creatures. Sadly, their intelligence is not as awe-inspiring as their appearance.</description>
+    <statBases>
+      <MoveSpeed>7.0</MoveSpeed>
+      <ComfyTemperatureMin>-30</ComfyTemperatureMin>
+      <MarketValue>300</MarketValue>
+    </statBases>
+    <tools>
+      <li>
+        <label>left claw</label>
+        <capacities>
+          <li>Scratch</li>
+        </capacities>
+        <power>5</power>
+        <cooldownTime>1.65</cooldownTime>
+        <linkedBodyPartsGroup>FrontLeftPaw</linkedBodyPartsGroup>
+      </li>
+      <li>
+        <label>right claw</label>
+        <capacities>
+          <li>Scratch</li>
+        </capacities>
+        <power>5</power>
+        <cooldownTime>1.65</cooldownTime>
+        <linkedBodyPartsGroup>FrontRightPaw</linkedBodyPartsGroup>
+      </li>
+      <li>
+        <capacities>
+          <li>Bite</li>
+        </capacities>
+        <power>7</power>
+        <cooldownTime>1.65</cooldownTime>
+        <linkedBodyPartsGroup>Teeth</linkedBodyPartsGroup>
+      </li>
+    </tools>
+    <race>
+      <body>QuadrupedAnimalWithPawsAndTail</body>
+      <petness>1</petness>
+      <herdAnimal>true</herdAnimal>
+      <baseBodySize>0.5</baseBodySize>
+      <baseHungerRate>0.5</baseHungerRate>
+      <baseHealthScale>1.00</baseHealthScale>
+      <foodType>OmnivoreAnimal, OvivoreAnimal</foodType>
+      <leatherDef>Leather_Dog</leatherDef>
+      <gestationPeriodDays>22.5</gestationPeriodDays>
+      <nameOnTameChance>1</nameOnTameChance>
+      <trainability>Advanced</trainability>
+      <wildness>0</wildness>
+      <nuzzleMtbHours>24</nuzzleMtbHours>
+      <litterSizeCurve>
+        <points>
+          <li>(0.5, 0)</li>
+          <li>(1, 1)</li>
+          <li>(8, 1.7)</li>
+          <li>(15, 0.7)</li>
+          <li>(15.5, 0)</li>
+        </points>
+      </litterSizeCurve>
+      <lifeExpectancy>13</lifeExpectancy>
+      <lifeStageAges>
+        <li>
+          <def>AnimalBaby</def>
+          <minAge>0</minAge>
+        </li>
+        <li>
+          <def>AnimalJuvenile</def>
+          <minAge>0.25</minAge>
+        </li>
+        <li>
+          <def>AnimalAdult</def>
+          <minAge>0.5</minAge>
+          <soundWounded>Pawn_Dog_Injured</soundWounded>
+          <soundDeath>Pawn_Dog_Death</soundDeath>
+          <soundCall>Pawn_Dog_Call</soundCall>
+          <soundAngry>Pawn_Dog_Angry</soundAngry>
+        </li>
+      </lifeStageAges>
+      <soundMeleeHitPawn>Pawn_Melee_SmallScratch_HitPawn</soundMeleeHitPawn>
+      <soundMeleeHitBuilding>Pawn_Melee_SmallScratch_HitBuilding</soundMeleeHitBuilding>
+      <soundMeleeMiss>Pawn_Melee_SmallScratch_Miss</soundMeleeMiss>
+    </race>
+    <tradeTags>
+      <li>AnimalCommon</li>
+      <li>AnimalPet</li>
+    </tradeTags>
+  </ThingDef>
+  <PawnKindDef ParentName="AnimalKindBase">
+    <defName>SCAfghanHound</defName>
+    <label>afghan hound</label>
+    <labelPlural>afghan hounds</labelPlural>
+    <race>SCAfghanHound</race>
+    <combatPower>65</combatPower>
+    <lifeStages>
+      <li>
+        <label>Afghan Hound Puppy</label>
+        <labelPlural>Afghan Hound Puppies</labelPlural>
+        <bodyGraphicData>
+          <texPath>Things/AfghanHound</texPath>
+          <drawSize>1.25</drawSize>
+          <color>(255,255,255)</color>
+          <shadowData>
+            <volume>(0.2, 0.1, 0.2)</volume>
+            <offset>(0,0,-0.2)</offset>
+          </shadowData>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Labrador/Dessicated_Labrador</texPath>
+          <drawSize>1.25</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+      <li>
+        <bodyGraphicData>
+          <texPath>Things/AfghanHound</texPath>
+          <drawSize>1.50</drawSize>
+          <color>(255,255,255)</color>
+          <shadowData>
+            <volume>(0.3, 0.3, 0.3)</volume>
+            <offset>(0,0,-0.3)</offset>
+          </shadowData>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Labrador/Dessicated_Labrador</texPath>
+          <drawSize>2</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+      <li>
+        <bodyGraphicData>
+          <texPath>Things/AfghanHound</texPath>
+          <drawSize>1.75</drawSize>
+          <color>(255,255,255)</color>
+          <shadowData>
+            <volume>(0.4, 0.4, 0.4)</volume>
+            <offset>(0,0,-0.2)</offset>
+          </shadowData>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Labrador/Dessicated_Labrador</texPath>
+          <drawSize>2.5</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+    </lifeStages>
+  </PawnKindDef>
+  <!--Border Collie-->
+  <ThingDef ParentName="AnimalThingBase" ADogSaidBody="LegsTail">
+    <defName>SCBorderCollie</defName>
+    <label>border collie</label>
+    <description>An energetic dog valued for it's loyalty.</description>
+    <statBases>
+      <MoveSpeed>5.2</MoveSpeed>
+      <ComfyTemperatureMin>-25</ComfyTemperatureMin>
+      <MarketValue>300</MarketValue>
+    </statBases>
+    <tools>
+      <li>
+        <label>left claw</label>
+        <capacities>
+          <li>Scratch</li>
+        </capacities>
+        <power>6</power>
+        <cooldownTime>1.65</cooldownTime>
+        <linkedBodyPartsGroup>FrontLeftPaw</linkedBodyPartsGroup>
+      </li>
+      <li>
+        <label>right claw</label>
+        <capacities>
+          <li>Scratch</li>
+        </capacities>
+        <power>6</power>
+        <cooldownTime>1.65</cooldownTime>
+        <linkedBodyPartsGroup>FrontRightPaw</linkedBodyPartsGroup>
+      </li>
+      <li>
+        <capacities>
+          <li>Bite</li>
+        </capacities>
+        <power>7</power>
+        <cooldownTime>1.65</cooldownTime>
+        <linkedBodyPartsGroup>Teeth</linkedBodyPartsGroup>
+      </li>
+    </tools>
+    <race>
+      <body>QuadrupedAnimalWithPawsAndTail</body>
+      <petness>1</petness>
+      <herdAnimal>true</herdAnimal>
+      <baseBodySize>0.5</baseBodySize>
+      <baseHungerRate>0.5</baseHungerRate>
+      <baseHealthScale>1.05</baseHealthScale>
+      <foodType>OmnivoreAnimal, OvivoreAnimal</foodType>
+      <leatherDef>Leather_Dog</leatherDef>
+      <gestationPeriodDays>15.5</gestationPeriodDays>
+      <nameOnTameChance>1</nameOnTameChance>
+      <trainability>Advanced</trainability>
+      <wildness>0</wildness>
+      <nuzzleMtbHours>24</nuzzleMtbHours>
+      <litterSizeCurve>
+        <points>
+          <li>(1, 0)</li>
+          <li>(3, 1)</li>
+          <li>(6, 1.7)</li>
+          <li>(8, 0.7)</li>
+          <li>(10, 0)</li>
+        </points>
+      </litterSizeCurve>
+      <lifeExpectancy>12</lifeExpectancy>
+      <lifeStageAges>
+        <li>
+          <def>AnimalBaby</def>
+          <minAge>0</minAge>
+        </li>
+        <li>
+          <def>AnimalJuvenile</def>
+          <minAge>0.25</minAge>
+        </li>
+        <li>
+          <def>AnimalAdult</def>
+          <minAge>0.5</minAge>
+          <soundWounded>Pawn_Dog_Injured</soundWounded>
+          <soundDeath>Pawn_Dog_Death</soundDeath>
+          <soundCall>Pawn_Dog_Call</soundCall>
+          <soundAngry>Pawn_Dog_Angry</soundAngry>
+        </li>
+      </lifeStageAges>
+      <soundMeleeHitPawn>Pawn_Melee_SmallScratch_HitPawn</soundMeleeHitPawn>
+      <soundMeleeHitBuilding>Pawn_Melee_SmallScratch_HitBuilding</soundMeleeHitBuilding>
+      <soundMeleeMiss>Pawn_Melee_SmallScratch_Miss</soundMeleeMiss>
+    </race>
+    <tradeTags>
+      <li>AnimalCommon</li>
+      <li>AnimalPet</li>
+    </tradeTags>
+  </ThingDef>
+  <PawnKindDef ParentName="AnimalKindBase">
+    <defName>SCBorderCollie</defName>
+    <label>border collie</label>
+    <labelPlural>border collies</labelPlural>
+    <race>SCBorderCollie</race>
+    <combatPower>45</combatPower>
+    <lifeStages>
+      <li>
+        <label>Border Collie Puppy</label>
+        <labelPlural>Border Collie Puppies</labelPlural>
+        <bodyGraphicData>
+          <texPath>Things/BorderCollie</texPath>
+          <drawSize>1.15</drawSize>
+          <color>(255,255,255)</color>
+          <shadowData>
+            <volume>(0.2, 0.1, 0.2)</volume>
+            <offset>(0,0,-0.2)</offset>
+          </shadowData>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Labrador/Dessicated_Labrador</texPath>
+          <drawSize>1.25</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+      <li>
+        <bodyGraphicData>
+          <texPath>Things/BorderCollie</texPath>
+          <drawSize>1.25</drawSize>
+          <color>(255,255,255)</color>
+          <shadowData>
+            <volume>(0.3, 0.3, 0.3)</volume>
+            <offset>(0,0,-0.3)</offset>
+          </shadowData>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Labrador/Dessicated_Labrador</texPath>
+          <drawSize>2</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+      <li>
+        <bodyGraphicData>
+          <texPath>Things/BorderCollie</texPath>
+          <drawSize>1.50</drawSize>
+          <color>(255,255,255)</color>
+          <shadowData>
+            <volume>(0.4, 0.4, 0.4)</volume>
+            <offset>(0,0,-0.2)</offset>
+          </shadowData>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Labrador/Dessicated_Labrador</texPath>
+          <drawSize>2.5</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+    </lifeStages>
+  </PawnKindDef>
+  <!--Bull Terrier-->
+  <ThingDef ParentName="AnimalThingBase" ADogSaidBody="LegsTail">
+    <defName>SCBullTerrier</defName>
+    <label>bull terrier</label>
+    <description>An energetic dog valued for it's loyalty.</description>
+    <statBases>
+      <MoveSpeed>5.2</MoveSpeed>
+      <ComfyTemperatureMin>-25</ComfyTemperatureMin>
+      <MarketValue>300</MarketValue>
+    </statBases>
+    <tools>
+      <li>
+        <label>left claw</label>
+        <capacities>
+          <li>Scratch</li>
+        </capacities>
+        <power>7</power>
+        <cooldownTime>1.65</cooldownTime>
+        <linkedBodyPartsGroup>FrontLeftPaw</linkedBodyPartsGroup>
+      </li>
+      <li>
+        <label>right claw</label>
+        <capacities>
+          <li>Scratch</li>
+        </capacities>
+        <power>7</power>
+        <cooldownTime>1.65</cooldownTime>
+        <linkedBodyPartsGroup>FrontRightPaw</linkedBodyPartsGroup>
+      </li>
+      <li>
+        <capacities>
+          <li>Bite</li>
+        </capacities>
+        <power>9</power>
+        <cooldownTime>1.65</cooldownTime>
+        <linkedBodyPartsGroup>Teeth</linkedBodyPartsGroup>
+      </li>
+    </tools>
+    <race>
+      <body>QuadrupedAnimalWithPawsAndTail</body>
+      <petness>1</petness>
+      <herdAnimal>true</herdAnimal>
+      <baseBodySize>0.5</baseBodySize>
+      <baseHungerRate>0.5</baseHungerRate>
+      <baseHealthScale>1.05</baseHealthScale>
+      <foodType>OmnivoreAnimal, OvivoreAnimal</foodType>
+      <leatherDef>Leather_Dog</leatherDef>
+      <gestationPeriodDays>15.5</gestationPeriodDays>
+      <nameOnTameChance>1</nameOnTameChance>
+      <trainability>Advanced</trainability>
+      <wildness>0</wildness>
+      <nuzzleMtbHours>24</nuzzleMtbHours>
+      <litterSizeCurve>
+        <points>
+          <li>(1, 0)</li>
+          <li>(3, 1)</li>
+          <li>(5, 1.7)</li>
+          <li>(8, 0.7)</li>
+          <li>(10, 0)</li>
+        </points>
+      </litterSizeCurve>
+      <lifeExpectancy>12</lifeExpectancy>
+      <lifeStageAges>
+        <li>
+          <def>AnimalBaby</def>
+          <minAge>0</minAge>
+        </li>
+        <li>
+          <def>AnimalJuvenile</def>
+          <minAge>0.25</minAge>
+        </li>
+        <li>
+          <def>AnimalAdult</def>
+          <minAge>0.5</minAge>
+          <soundWounded>Pawn_Dog_Injured</soundWounded>
+          <soundDeath>Pawn_Dog_Death</soundDeath>
+          <soundCall>Pawn_Dog_Call</soundCall>
+          <soundAngry>Pawn_Dog_Angry</soundAngry>
+        </li>
+      </lifeStageAges>
+      <soundMeleeHitPawn>Pawn_Melee_SmallScratch_HitPawn</soundMeleeHitPawn>
+      <soundMeleeHitBuilding>Pawn_Melee_SmallScratch_HitBuilding</soundMeleeHitBuilding>
+      <soundMeleeMiss>Pawn_Melee_SmallScratch_Miss</soundMeleeMiss>
+    </race>
+    <tradeTags>
+      <li>AnimalCommon</li>
+      <li>AnimalPet</li>
+    </tradeTags>
+  </ThingDef>
+  <PawnKindDef ParentName="AnimalKindBase">
+    <defName>SCBullTerrier</defName>
+    <label>bull terrier</label>
+    <labelPlural>bull terriers</labelPlural>
+    <race>SCBullTerrier</race>
+    <combatPower>45</combatPower>
+    <lifeStages>
+      <li>
+        <label>Bull Terrier Puppy</label>
+        <labelPlural>Bull Terrier Puppies</labelPlural>
+        <bodyGraphicData>
+          <texPath>Things/BullTerrier</texPath>
+          <drawSize>1.15</drawSize>
+          <color>(255,255,255)</color>
+          <shadowData>
+            <volume>(0.2, 0.1, 0.2)</volume>
+            <offset>(0,0,-0.2)</offset>
+          </shadowData>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Labrador/Dessicated_Labrador</texPath>
+          <drawSize>1.25</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+      <li>
+        <bodyGraphicData>
+          <texPath>Things/BullTerrier</texPath>
+          <drawSize>1.25</drawSize>
+          <color>(255,255,255)</color>
+          <shadowData>
+            <volume>(0.3, 0.3, 0.3)</volume>
+            <offset>(0,0,-0.3)</offset>
+          </shadowData>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Labrador/Dessicated_Labrador</texPath>
+          <drawSize>2</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+      <li>
+        <bodyGraphicData>
+          <texPath>Things/BullTerrier</texPath>
+          <drawSize>1.50</drawSize>
+          <color>(255,255,255)</color>
+          <shadowData>
+            <volume>(0.4, 0.4, 0.4)</volume>
+            <offset>(0,0,-0.2)</offset>
+          </shadowData>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Labrador/Dessicated_Labrador</texPath>
+          <drawSize>2.5</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+    </lifeStages>
+  </PawnKindDef>
+  <!--chow chow-->
+  <ThingDef ParentName="AnimalThingBase" ADogSaidBody="LegsTail">
+    <defName>SCChowchow</defName>
+    <label>chow chow</label>
+    <description>An ancient breed known for their fluffy coats and powerful bite. Makes a loyal companion and a formidable foe.</description>
+    <statBases>
+      <MoveSpeed>5.2</MoveSpeed>
+      <ComfyTemperatureMin>-50</ComfyTemperatureMin>
+      <MarketValue>300</MarketValue>
+    </statBases>
+    <tools>
+      <li>
+        <label>left claw</label>
+        <capacities>
+          <li>Scratch</li>
+        </capacities>
+        <power>7</power>
+        <cooldownTime>1.65</cooldownTime>
+        <linkedBodyPartsGroup>FrontLeftPaw</linkedBodyPartsGroup>
+      </li>
+      <li>
+        <label>right claw</label>
+        <capacities>
+          <li>Scratch</li>
+        </capacities>
+        <power>7</power>
+        <cooldownTime>1.65</cooldownTime>
+        <linkedBodyPartsGroup>FrontRightPaw</linkedBodyPartsGroup>
+      </li>
+      <li>
+        <capacities>
+          <li>Bite</li>
+        </capacities>
+        <power>9</power>
+        <cooldownTime>1.65</cooldownTime>
+        <linkedBodyPartsGroup>Teeth</linkedBodyPartsGroup>
+        <surpriseAttack>
+          <extraMeleeDamages>
+            <li>
+              <def>Stun</def>
+              <amount>21</amount>
+            </li>
+          </extraMeleeDamages>
+        </surpriseAttack>
+      </li>
+      <li>
+        <label>head</label>
+        <capacities>
+          <li>Blunt</li>
+        </capacities>
+        <power>6</power>
+        <cooldownTime>1.65</cooldownTime>
+        <linkedBodyPartsGroup>HeadAttackTool</linkedBodyPartsGroup>
+        <chanceFactor>0.2</chanceFactor>
+      </li>
+    </tools>
+    <race>
+      <body>QuadrupedAnimalWithPawsAndTail</body>
+      <petness>1</petness>
+      <herdAnimal>true</herdAnimal>
+      <baseBodySize>0.5</baseBodySize>
+      <baseHungerRate>0.5</baseHungerRate>
+      <baseHealthScale>1.75</baseHealthScale>
+      <foodType>OmnivoreAnimal, OvivoreAnimal</foodType>
+      <leatherDef>Leather_Dog</leatherDef>
+      <gestationPeriodDays>22.5</gestationPeriodDays>
+      <nameOnTameChance>1</nameOnTameChance>
+      <trainability>Advanced</trainability>
+      <wildness>0</wildness>
+      <nuzzleMtbHours>24</nuzzleMtbHours>
+      <litterSizeCurve>
+        <points>
+          <li>(0, 0)</li>
+          <li>(4, 1)</li>
+          <li>(5, 1.7)</li>
+          <li>(7, 0.7)</li>
+          <li>(8, 0)</li>
+        </points>
+      </litterSizeCurve>
+      <lifeExpectancy>15</lifeExpectancy>
+      <lifeStageAges>
+        <li>
+          <def>AnimalBaby</def>
+          <minAge>0</minAge>
+        </li>
+        <li>
+          <def>AnimalJuvenile</def>
+          <minAge>0.25</minAge>
+        </li>
+        <li>
+          <def>AnimalAdult</def>
+          <minAge>0.5</minAge>
+          <soundWounded>Pawn_Dog_Injured</soundWounded>
+          <soundDeath>Pawn_Dog_Death</soundDeath>
+          <soundCall>Pawn_Dog_Call</soundCall>
+          <soundAngry>Pawn_Dog_Angry</soundAngry>
+        </li>
+      </lifeStageAges>
+      <soundMeleeHitPawn>Pawn_Melee_SmallScratch_HitPawn</soundMeleeHitPawn>
+      <soundMeleeHitBuilding>Pawn_Melee_SmallScratch_HitBuilding</soundMeleeHitBuilding>
+      <soundMeleeMiss>Pawn_Melee_SmallScratch_Miss</soundMeleeMiss>
+    </race>
+    <tradeTags>
+      <li>AnimalCommon</li>
+      <li>AnimalPet</li>
+      <li>AnimalFighter</li>
+    </tradeTags>
+  </ThingDef>
+  <PawnKindDef ParentName="AnimalKindBase">
+    <defName>SCChowchow</defName>
+    <label>chow chow</label>
+    <labelPlural>chow chows</labelPlural>
+    <race>SCChowchow</race>
+    <combatPower>65</combatPower>
+    <lifeStages>
+      <li>
+        <label>Chow Chow Puppy</label>
+        <labelPlural>Chow Chow Puppies</labelPlural>
+        <bodyGraphicData>
+          <texPath>Things/Chowchow</texPath>
+          <drawSize>1.25</drawSize>
+          <color>(255,255,255)</color>
+          <shadowData>
+            <volume>(0.2, 0.1, 0.2)</volume>
+            <offset>(0,0,-0.2)</offset>
+          </shadowData>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Labrador/Dessicated_Labrador</texPath>
+          <drawSize>1.25</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+      <li>
+        <bodyGraphicData>
+          <texPath>Things/Chowchow</texPath>
+          <drawSize>1.50</drawSize>
+          <color>(255,255,255)</color>
+          <shadowData>
+            <volume>(0.3, 0.3, 0.3)</volume>
+            <offset>(0,0,-0.3)</offset>
+          </shadowData>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Labrador/Dessicated_Labrador</texPath>
+          <drawSize>2</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+      <li>
+        <bodyGraphicData>
+          <texPath>Things/Chowchow</texPath>
+          <drawSize>1.75</drawSize>
+          <color>(255,255,255)</color>
+          <shadowData>
+            <volume>(0.4, 0.4, 0.4)</volume>
+            <offset>(0,0,-0.2)</offset>
+          </shadowData>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Labrador/Dessicated_Labrador</texPath>
+          <drawSize>2.5</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+    </lifeStages>
+  </PawnKindDef>
+  <!--collie-->
+  <ThingDef ParentName="AnimalThingBase" ADogSaidBody="LegsTail">
+    <defName>SCCollie</defName>
+    <label>collie</label>
+    <description>The most beautiful dog in the galaxy. A valued pet known for its loyalty and bravery. They grow special attachments to their human counterparts and are commonly found underfoot. Collies were popularized after a particularly special merle named Bleu won Man's Best Friend In the Rim 3 years running.</description>
+    <statBases>
+      <MoveSpeed>5.2</MoveSpeed>
+      <ComfyTemperatureMin>-50</ComfyTemperatureMin>
+      <MarketValue>300</MarketValue>
+    </statBases>
+    <tools>
+      <li>
+        <label>left claw</label>
+        <capacities>
+          <li>Scratch</li>
+        </capacities>
+        <power>6</power>
+        <cooldownTime>1.65</cooldownTime>
+        <linkedBodyPartsGroup>FrontLeftPaw</linkedBodyPartsGroup>
+      </li>
+      <li>
+        <label>right claw</label>
+        <capacities>
+          <li>Scratch</li>
+        </capacities>
+        <power>6</power>
+        <cooldownTime>1.65</cooldownTime>
+        <linkedBodyPartsGroup>FrontRightPaw</linkedBodyPartsGroup>
+      </li>
+      <li>
+        <capacities>
+          <li>Bite</li>
+        </capacities>
+        <power>7</power>
+        <cooldownTime>1.65</cooldownTime>
+        <linkedBodyPartsGroup>Teeth</linkedBodyPartsGroup>
+      </li>
+      <li>
+        <label>head</label>
+        <capacities>
+          <li>Blunt</li>
+        </capacities>
+        <power>3</power>
+        <cooldownTime>1.65</cooldownTime>
+        <linkedBodyPartsGroup>HeadAttackTool</linkedBodyPartsGroup>
+        <chanceFactor>0.2</chanceFactor>
+      </li>
+    </tools>
+    <race>
+      <body>QuadrupedAnimalWithPawsAndTail</body>
+      <petness>1</petness>
+      <herdAnimal>true</herdAnimal>
+      <baseBodySize>0.7</baseBodySize>
+      <baseHungerRate>0.5</baseHungerRate>
+      <baseHealthScale>1.05</baseHealthScale>
+      <foodType>OmnivoreAnimal, OvivoreAnimal</foodType>
+      <leatherDef>Leather_Dog</leatherDef>
+      <gestationPeriodDays>22.5</gestationPeriodDays>
+      <nameOnTameChance>1</nameOnTameChance>
+      <trainability>Advanced</trainability>
+      <wildness>0</wildness>
+      <nuzzleMtbHours>24</nuzzleMtbHours>
+      <litterSizeCurve>
+        <points>
+          <li>(3, 0)</li>
+          <li>(5, 1)</li>
+          <li>(7, 0.7)</li>
+          <li>(9, 0)</li>
+        </points>
+      </litterSizeCurve>
+      <lifeExpectancy>14</lifeExpectancy>
+      <lifeStageAges>
+        <li>
+          <def>AnimalBaby</def>
+          <minAge>0</minAge>
+        </li>
+        <li>
+          <def>AnimalJuvenile</def>
+          <minAge>0.25</minAge>
+        </li>
+        <li>
+          <def>AnimalAdult</def>
+          <minAge>0.5</minAge>
+          <soundWounded>Pawn_Dog_Injured</soundWounded>
+          <soundDeath>Pawn_Dog_Death</soundDeath>
+          <soundCall>Pawn_Dog_Call</soundCall>
+          <soundAngry>Pawn_Dog_Angry</soundAngry>
+        </li>
+      </lifeStageAges>
+      <soundMeleeHitPawn>Pawn_Melee_SmallScratch_HitPawn</soundMeleeHitPawn>
+      <soundMeleeHitBuilding>Pawn_Melee_SmallScratch_HitBuilding</soundMeleeHitBuilding>
+      <soundMeleeMiss>Pawn_Melee_SmallScratch_Miss</soundMeleeMiss>
+    </race>
+    <tradeTags>
+      <li>AnimalCommon</li>
+      <li>AnimalPet</li>
+    </tradeTags>
+  </ThingDef>
+  <PawnKindDef ParentName="AnimalKindBase">
+    <defName>SCCollie</defName>
+    <label>collie</label>
+    <labelPlural>collies</labelPlural>
+    <race>SCCollie</race>
+    <combatPower>65</combatPower>
+    <alternateGraphicChance>0.6</alternateGraphicChance>
+    <alternateGraphics>
+      <li>
+        <texPath>Things/CollieMerle</texPath>
+      </li>
+      <li>
+        <texPath>Things/CollieTri</texPath>
+      </li>
+      <li>
+        <texPath>Things/CollieWhite</texPath>
+      </li>
+    </alternateGraphics>
+    <lifeStages>
+      <li>
+        <label>Collie Puppy</label>
+        <labelPlural>Collie Puppies</labelPlural>
+        <bodyGraphicData>
+          <texPath>Things/Collie</texPath>
+          <drawSize>1.25</drawSize>
+          <color>(255,255,255)</color>
+          <shadowData>
+            <volume>(0.2, 0.1, 0.2)</volume>
+            <offset>(0,0,-0.2)</offset>
+          </shadowData>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Labrador/Dessicated_Labrador</texPath>
+          <drawSize>1.25</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+      <li>
+        <bodyGraphicData>
+          <texPath>Things/Collie</texPath>
+          <drawSize>1.50</drawSize>
+          <color>(255,255,255)</color>
+          <shadowData>
+            <volume>(0.3, 0.3, 0.3)</volume>
+            <offset>(0,0,-0.3)</offset>
+          </shadowData>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Labrador/Dessicated_Labrador</texPath>
+          <drawSize>2</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+      <li>
+        <bodyGraphicData>
+          <texPath>Things/Collie</texPath>
+          <drawSize>1.75</drawSize>
+          <color>(255,255,255)</color>
+          <shadowData>
+            <volume>(0.4, 0.4, 0.4)</volume>
+            <offset>(0,0,-0.2)</offset>
+          </shadowData>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Labrador/Dessicated_Labrador</texPath>
+          <drawSize>2.5</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+    </lifeStages>
+  </PawnKindDef>
+  <!--Doberman-->
+  <ThingDef ParentName="AnimalThingBase" ADogSaidBody="LegsTail">
+    <defName>SCDoberman</defName>
+    <label>doberman</label>
+    <description>Known to their owners for their kind nature and goofy personalities, they are fiercely protective of their masters and make excellent escorts in dangerous areas.</description>
+    <statBases>
+      <MoveSpeed>5.2</MoveSpeed>
+      <ComfyTemperatureMin>-50</ComfyTemperatureMin>
+      <MarketValue>300</MarketValue>
+    </statBases>
+    <tools>
+      <li>
+        <label>left claw</label>
+        <capacities>
+          <li>Scratch</li>
+        </capacities>
+        <power>8</power>
+        <cooldownTime>1.65</cooldownTime>
+        <linkedBodyPartsGroup>FrontLeftPaw</linkedBodyPartsGroup>
+      </li>
+      <li>
+        <label>right claw</label>
+        <capacities>
+          <li>Scratch</li>
+        </capacities>
+        <power>8</power>
+        <cooldownTime>1.65</cooldownTime>
+        <linkedBodyPartsGroup>FrontRightPaw</linkedBodyPartsGroup>
+      </li>
+      <li>
+        <capacities>
+          <li>Bite</li>
+        </capacities>
+        <power>10</power>
+        <cooldownTime>1.65</cooldownTime>
+        <linkedBodyPartsGroup>Teeth</linkedBodyPartsGroup>
+        <surpriseAttack>
+          <extraMeleeDamages>
+            <li>
+              <def>Stun</def>
+              <amount>21</amount>
+            </li>
+          </extraMeleeDamages>
+        </surpriseAttack>
+      </li>
+      <li>
+        <label>head</label>
+        <capacities>
+          <li>Blunt</li>
+        </capacities>
+        <power>6</power>
+        <cooldownTime>1.65</cooldownTime>
+        <linkedBodyPartsGroup>HeadAttackTool</linkedBodyPartsGroup>
+        <chanceFactor>0.2</chanceFactor>
+      </li>
+    </tools>
+    <race>
+      <body>QuadrupedAnimalWithPawsAndTail</body>
+      <petness>1</petness>
+      <herdAnimal>true</herdAnimal>
+      <baseBodySize>.5</baseBodySize>
+      <baseHungerRate>0.5</baseHungerRate>
+      <baseHealthScale>1.75</baseHealthScale>
+      <foodType>OmnivoreAnimal, OvivoreAnimal</foodType>
+      <leatherDef>Leather_Dog</leatherDef>
+      <gestationPeriodDays>22.5</gestationPeriodDays>
+      <nameOnTameChance>1</nameOnTameChance>
+      <trainability>Advanced</trainability>
+      <wildness>0</wildness>
+      <nuzzleMtbHours>24</nuzzleMtbHours>
+      <litterSizeCurve>
+        <points>
+          <li>(0.5, 0)</li>
+          <li>(4, 1)</li>
+          <li>(8, 1.7)</li>
+          <li>(12, 0.7)</li>
+          <li>(12.5, 0)</li>
+        </points>
+      </litterSizeCurve>
+      <lifeExpectancy>12</lifeExpectancy>
+      <lifeStageAges>
+        <li>
+          <def>AnimalBaby</def>
+          <minAge>0</minAge>
+        </li>
+        <li>
+          <def>AnimalJuvenile</def>
+          <minAge>0.25</minAge>
+        </li>
+        <li>
+          <def>AnimalAdult</def>
+          <minAge>0.5</minAge>
+          <soundWounded>Pawn_Dog_Injured</soundWounded>
+          <soundDeath>Pawn_Dog_Death</soundDeath>
+          <soundCall>Pawn_Dog_Call</soundCall>
+          <soundAngry>Pawn_Dog_Angry</soundAngry>
+        </li>
+      </lifeStageAges>
+      <soundMeleeHitPawn>Pawn_Melee_SmallScratch_HitPawn</soundMeleeHitPawn>
+      <soundMeleeHitBuilding>Pawn_Melee_SmallScratch_HitBuilding</soundMeleeHitBuilding>
+      <soundMeleeMiss>Pawn_Melee_SmallScratch_Miss</soundMeleeMiss>
+    </race>
+    <tradeTags>
+      <li>AnimalCommon</li>
+      <li>AnimalPet</li>
+      <li>AnimalFighter</li>
+    </tradeTags>
+  </ThingDef>
+  <PawnKindDef ParentName="AnimalKindBase">
+    <defName>SCDoberman</defName>
+    <label>doberman</label>
+    <labelPlural>dobermans</labelPlural>
+    <race>SCDoberman</race>
+    <combatPower>65</combatPower>
+    <lifeStages>
+      <li>
+        <label>Doberman Puppy</label>
+        <labelPlural>Doberman Puppies</labelPlural>
+        <bodyGraphicData>
+          <texPath>Things/Doberman</texPath>
+          <drawSize>1</drawSize>
+          <color>(255,255,255)</color>
+          <shadowData>
+            <volume>(0.2, 0.1, 0.2)</volume>
+            <offset>(0,0,-0.2)</offset>
+          </shadowData>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Labrador/Dessicated_Labrador</texPath>
+          <drawSize>1.25</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+      <li>
+        <bodyGraphicData>
+          <texPath>Things/Doberman</texPath>
+          <drawSize>1.20</drawSize>
+          <color>(255,255,255)</color>
+          <shadowData>
+            <volume>(0.3, 0.3, 0.3)</volume>
+            <offset>(0,0,-0.3)</offset>
+          </shadowData>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Labrador/Dessicated_Labrador</texPath>
+          <drawSize>2</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+      <li>
+        <bodyGraphicData>
+          <texPath>Things/Doberman</texPath>
+          <drawSize>1.55</drawSize>
+          <color>(255,255,255)</color>
+          <shadowData>
+            <volume>(0.4, 0.4, 0.4)</volume>
+            <offset>(0,0,-0.2)</offset>
+          </shadowData>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Labrador/Dessicated_Labrador</texPath>
+          <drawSize>2.5</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+    </lifeStages>
+  </PawnKindDef>
+  <!--Golden Retriever-->
+  <ThingDef ParentName="AnimalThingBase" ADogSaidBody="LegsTail">
+    <defName>SCGoldenRetriever</defName>
+    <label>golden retriever</label>
+    <description>A beautiful dog valued for its loyalty.</description>
+    <statBases>
+      <MoveSpeed>5.2</MoveSpeed>
+      <ComfyTemperatureMin>-30</ComfyTemperatureMin>
+      <MarketValue>300</MarketValue>
+    </statBases>
+    <tools>
+      <li>
+        <label>left claw</label>
+        <capacities>
+          <li>Scratch</li>
+        </capacities>
+        <power>8</power>
+        <cooldownTime>1.65</cooldownTime>
+        <linkedBodyPartsGroup>FrontLeftPaw</linkedBodyPartsGroup>
+      </li>
+      <li>
+        <label>right claw</label>
+        <capacities>
+          <li>Scratch</li>
+        </capacities>
+        <power>8</power>
+        <cooldownTime>1.65</cooldownTime>
+        <linkedBodyPartsGroup>FrontRightPaw</linkedBodyPartsGroup>
+      </li>
+      <li>
+        <capacities>
+          <li>Bite</li>
+        </capacities>
+        <power>9</power>
+        <cooldownTime>1.65</cooldownTime>
+        <linkedBodyPartsGroup>Teeth</linkedBodyPartsGroup>
+      </li>
+    </tools>
+    <race>
+      <body>QuadrupedAnimalWithPawsAndTail</body>
+      <petness>1</petness>
+      <herdAnimal>true</herdAnimal>
+      <baseBodySize>0.5</baseBodySize>
+      <baseHungerRate>0.5</baseHungerRate>
+      <baseHealthScale>1.05</baseHealthScale>
+      <foodType>OmnivoreAnimal, OvivoreAnimal</foodType>
+      <leatherDef>Leather_Dog</leatherDef>
+      <gestationPeriodDays>22.5</gestationPeriodDays>
+      <nameOnTameChance>1</nameOnTameChance>
+      <trainability>Advanced</trainability>
+      <wildness>0</wildness>
+      <nuzzleMtbHours>24</nuzzleMtbHours>
+      <litterSizeCurve>
+        <points>
+          <li>(0.5, 0)</li>
+          <li>(4, 1)</li>
+          <li>(8, 1.7)</li>
+          <li>(12, 0.7)</li>
+          <li>(12.5, 0)</li>
+        </points>
+      </litterSizeCurve>
+      <lifeExpectancy>12</lifeExpectancy>
+      <lifeStageAges>
+        <li>
+          <def>AnimalBaby</def>
+          <minAge>0</minAge>
+        </li>
+        <li>
+          <def>AnimalJuvenile</def>
+          <minAge>0.25</minAge>
+        </li>
+        <li>
+          <def>AnimalAdult</def>
+          <minAge>0.5</minAge>
+          <soundWounded>Pawn_Dog_Injured</soundWounded>
+          <soundDeath>Pawn_Dog_Death</soundDeath>
+          <soundCall>Pawn_Dog_Call</soundCall>
+          <soundAngry>Pawn_Dog_Angry</soundAngry>
+        </li>
+      </lifeStageAges>
+      <soundMeleeHitPawn>Pawn_Melee_SmallScratch_HitPawn</soundMeleeHitPawn>
+      <soundMeleeHitBuilding>Pawn_Melee_SmallScratch_HitBuilding</soundMeleeHitBuilding>
+      <soundMeleeMiss>Pawn_Melee_SmallScratch_Miss</soundMeleeMiss>
+    </race>
+    <tradeTags>
+      <li>AnimalCommon</li>
+      <li>AnimalPet</li>
+    </tradeTags>
+  </ThingDef>
+  <PawnKindDef ParentName="AnimalKindBase">
+    <defName>SCGoldenRetriever</defName>
+    <label>golden retriever</label>
+    <labelPlural>golden retrievers</labelPlural>
+    <race>SCGoldenRetriever</race>
+    <combatPower>65</combatPower>
+    <lifeStages>
+      <li>
+        <label>Golden Retriever Puppy</label>
+        <labelPlural>Golden Retriever Puppies</labelPlural>
+        <bodyGraphicData>
+          <texPath>Things/Golden</texPath>
+          <drawSize>1.25</drawSize>
+          <color>(255,255,255)</color>
+          <shadowData>
+            <volume>(0.2, 0.1, 0.2)</volume>
+            <offset>(0,0,-0.2)</offset>
+          </shadowData>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Labrador/Dessicated_Labrador</texPath>
+          <drawSize>1.25</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+      <li>
+        <bodyGraphicData>
+          <texPath>Things/Golden</texPath>
+          <drawSize>1.50</drawSize>
+          <color>(255,255,255)</color>
+          <shadowData>
+            <volume>(0.3, 0.3, 0.3)</volume>
+            <offset>(0,0,-0.3)</offset>
+          </shadowData>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Labrador/Dessicated_Labrador</texPath>
+          <drawSize>2</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+      <li>
+        <bodyGraphicData>
+          <texPath>Things/Golden</texPath>
+          <drawSize>1.75</drawSize>
+          <color>(255,255,255)</color>
+          <shadowData>
+            <volume>(0.4, 0.4, 0.4)</volume>
+            <offset>(0,0,-0.2)</offset>
+          </shadowData>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Labrador/Dessicated_Labrador</texPath>
+          <drawSize>2.5</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+    </lifeStages>
+  </PawnKindDef>
+  <!--Greyhound-->
+  <ThingDef ParentName="AnimalThingBase" ADogSaidBody="LegsTail">
+    <defName>SCGreyhound</defName>
+    <label>greyhound</label>
+    <description>These popular sighthounds are widely known for their speed. When they are retired from fieldwork they make surprisingly adept couch potatoes.</description>
+    <statBases>
+      <MoveSpeed>7.0</MoveSpeed>
+      <ComfyTemperatureMin>-30</ComfyTemperatureMin>
+      <MarketValue>300</MarketValue>
+    </statBases>
+    <tools>
+      <li>
+        <label>left claw</label>
+        <capacities>
+          <li>Scratch</li>
+        </capacities>
+        <power>5</power>
+        <cooldownTime>1.65</cooldownTime>
+        <linkedBodyPartsGroup>FrontLeftPaw</linkedBodyPartsGroup>
+      </li>
+      <li>
+        <label>right claw</label>
+        <capacities>
+          <li>Scratch</li>
+        </capacities>
+        <power>5</power>
+        <cooldownTime>1.65</cooldownTime>
+        <linkedBodyPartsGroup>FrontRightPaw</linkedBodyPartsGroup>
+      </li>
+      <li>
+        <capacities>
+          <li>Bite</li>
+        </capacities>
+        <power>7</power>
+        <cooldownTime>1.65</cooldownTime>
+        <linkedBodyPartsGroup>Teeth</linkedBodyPartsGroup>
+      </li>
+    </tools>
+    <race>
+      <body>QuadrupedAnimalWithPawsAndTail</body>
+      <petness>1</petness>
+      <herdAnimal>true</herdAnimal>
+      <baseBodySize>0.5</baseBodySize>
+      <baseHungerRate>0.5</baseHungerRate>
+      <baseHealthScale>1.00</baseHealthScale>
+      <foodType>OmnivoreAnimal, OvivoreAnimal</foodType>
+      <leatherDef>Leather_Dog</leatherDef>
+      <gestationPeriodDays>22.5</gestationPeriodDays>
+      <nameOnTameChance>1</nameOnTameChance>
+      <trainability>Advanced</trainability>
+      <wildness>0</wildness>
+      <nuzzleMtbHours>24</nuzzleMtbHours>
+      <litterSizeCurve>
+        <points>
+          <li>(0.5, 0)</li>
+          <li>(5, 1)</li>
+          <li>(8, 1.7)</li>
+          <li>(12, 0.7)</li>
+          <li>(12.5, 0)</li>
+        </points>
+      </litterSizeCurve>
+      <lifeExpectancy>11</lifeExpectancy>
+      <lifeStageAges>
+        <li>
+          <def>AnimalBaby</def>
+          <minAge>0</minAge>
+        </li>
+        <li>
+          <def>AnimalJuvenile</def>
+          <minAge>0.25</minAge>
+        </li>
+        <li>
+          <def>AnimalAdult</def>
+          <minAge>0.5</minAge>
+          <soundWounded>Pawn_Dog_Injured</soundWounded>
+          <soundDeath>Pawn_Dog_Death</soundDeath>
+          <soundCall>Pawn_Dog_Call</soundCall>
+          <soundAngry>Pawn_Dog_Angry</soundAngry>
+        </li>
+      </lifeStageAges>
+      <soundMeleeHitPawn>Pawn_Melee_SmallScratch_HitPawn</soundMeleeHitPawn>
+      <soundMeleeHitBuilding>Pawn_Melee_SmallScratch_HitBuilding</soundMeleeHitBuilding>
+      <soundMeleeMiss>Pawn_Melee_SmallScratch_Miss</soundMeleeMiss>
+    </race>
+    <tradeTags>
+      <li>AnimalCommon</li>
+      <li>AnimalPet</li>
+    </tradeTags>
+  </ThingDef>
+  <PawnKindDef ParentName="AnimalKindBase">
+    <defName>SCGreyhound</defName>
+    <label>greyhound</label>
+    <labelPlural>greyhounds</labelPlural>
+    <race>SCGreyhound</race>
+    <combatPower>65</combatPower>
+    <lifeStages>
+      <li>
+        <label>Greyhound Puppy</label>
+        <labelPlural>Greyhound Puppies</labelPlural>
+        <bodyGraphicData>
+          <texPath>Things/Greyhound</texPath>
+          <drawSize>.75</drawSize>
+          <color>(255,255,255)</color>
+          <shadowData>
+            <volume>(0.2, 0.1, 0.2)</volume>
+            <offset>(0,0,-0.2)</offset>
+          </shadowData>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Labrador/Dessicated_Labrador</texPath>
+          <drawSize>1.25</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+      <li>
+        <bodyGraphicData>
+          <texPath>Things/Greyhound</texPath>
+          <drawSize>1.00</drawSize>
+          <color>(255,255,255)</color>
+          <shadowData>
+            <volume>(0.3, 0.3, 0.3)</volume>
+            <offset>(0,0,-0.3)</offset>
+          </shadowData>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Labrador/Dessicated_Labrador</texPath>
+          <drawSize>2</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+      <li>
+        <bodyGraphicData>
+          <texPath>Things/Greyhound</texPath>
+          <drawSize>1.25</drawSize>
+          <color>(255,255,255)</color>
+          <shadowData>
+            <volume>(0.4, 0.4, 0.4)</volume>
+            <offset>(0,0,-0.2)</offset>
+          </shadowData>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Labrador/Dessicated_Labrador</texPath>
+          <drawSize>2.5</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+    </lifeStages>
+  </PawnKindDef>
+  <!--Old English Sheepdog-->
+  <ThingDef ParentName="AnimalThingBase" ADogSaidBody="LegsTail">
+    <defName>SCOldEnglishSheepdog</defName>
+    <label>old english sheepdog</label>
+    <description>Makes an excellent complement to a field of pristine, fluffy sheep.</description>
+    <statBases>
+      <MoveSpeed>5.0</MoveSpeed>
+      <ComfyTemperatureMin>-30</ComfyTemperatureMin>
+      <MarketValue>300</MarketValue>
+    </statBases>
+    <tools>
+      <li>
+        <label>left claw</label>
+        <capacities>
+          <li>Scratch</li>
+        </capacities>
+        <power>5</power>
+        <cooldownTime>1.65</cooldownTime>
+        <linkedBodyPartsGroup>FrontLeftPaw</linkedBodyPartsGroup>
+      </li>
+      <li>
+        <label>right claw</label>
+        <capacities>
+          <li>Scratch</li>
+        </capacities>
+        <power>5</power>
+        <cooldownTime>1.65</cooldownTime>
+        <linkedBodyPartsGroup>FrontRightPaw</linkedBodyPartsGroup>
+      </li>
+      <li>
+        <capacities>
+          <li>Bite</li>
+        </capacities>
+        <power>7</power>
+        <cooldownTime>1.65</cooldownTime>
+        <linkedBodyPartsGroup>Teeth</linkedBodyPartsGroup>
+      </li>
+    </tools>
+    <race>
+      <body>QuadrupedAnimalWithPawsAndTail</body>
+      <petness>1</petness>
+      <herdAnimal>true</herdAnimal>
+      <baseBodySize>0.6</baseBodySize>
+      <baseHungerRate>0.5</baseHungerRate>
+      <baseHealthScale>1.00</baseHealthScale>
+      <foodType>OmnivoreAnimal, OvivoreAnimal</foodType>
+      <leatherDef>Leather_Dog</leatherDef>
+      <gestationPeriodDays>22.5</gestationPeriodDays>
+      <nameOnTameChance>1</nameOnTameChance>
+      <trainability>Advanced</trainability>
+      <wildness>0</wildness>
+      <nuzzleMtbHours>24</nuzzleMtbHours>
+      <litterSizeCurve>
+        <points>
+          <li>(0.5, 0)</li>
+          <li>(4, 1)</li>
+          <li>(6, 1.7)</li>
+          <li>(8, 0.7)</li>
+          <li>(8.5, 0)</li>
+        </points>
+      </litterSizeCurve>
+      <lifeExpectancy>11</lifeExpectancy>
+      <lifeStageAges>
+        <li>
+          <def>AnimalBaby</def>
+          <minAge>0</minAge>
+        </li>
+        <li>
+          <def>AnimalJuvenile</def>
+          <minAge>0.25</minAge>
+        </li>
+        <li>
+          <def>AnimalAdult</def>
+          <minAge>0.5</minAge>
+          <soundWounded>Pawn_Dog_Injured</soundWounded>
+          <soundDeath>Pawn_Dog_Death</soundDeath>
+          <soundCall>Pawn_Dog_Call</soundCall>
+          <soundAngry>Pawn_Dog_Angry</soundAngry>
+        </li>
+      </lifeStageAges>
+      <soundMeleeHitPawn>Pawn_Melee_SmallScratch_HitPawn</soundMeleeHitPawn>
+      <soundMeleeHitBuilding>Pawn_Melee_SmallScratch_HitBuilding</soundMeleeHitBuilding>
+      <soundMeleeMiss>Pawn_Melee_SmallScratch_Miss</soundMeleeMiss>
+    </race>
+    <tradeTags>
+      <li>AnimalCommon</li>
+      <li>AnimalPet</li>
+    </tradeTags>
+  </ThingDef>
+  <PawnKindDef ParentName="AnimalKindBase">
+    <defName>SCOldEnglishSheepdog</defName>
+    <label>old english sheepdog</label>
+    <labelPlural>old english sheepdogs</labelPlural>
+    <race>SCOldEnglishSheepdog</race>
+    <combatPower>65</combatPower>
+    <lifeStages>
+      <li>
+        <label>Old English Sheepdog Puppy</label>
+        <labelPlural>Old English Sheepdog Puppies</labelPlural>
+        <bodyGraphicData>
+          <texPath>Things/Sheepdog</texPath>
+          <drawSize>1.00</drawSize>
+          <color>(255,255,255)</color>
+          <shadowData>
+            <volume>(0.2, 0.1, 0.2)</volume>
+            <offset>(0,0,-0.2)</offset>
+          </shadowData>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Labrador/Dessicated_Labrador</texPath>
+          <drawSize>1.00</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+      <li>
+        <bodyGraphicData>
+          <texPath>Things/Sheepdog</texPath>
+          <drawSize>1.25</drawSize>
+          <color>(255,255,255)</color>
+          <shadowData>
+            <volume>(0.3, 0.3, 0.3)</volume>
+            <offset>(0,0,-0.3)</offset>
+          </shadowData>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Labrador/Dessicated_Labrador</texPath>
+          <drawSize>2</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+      <li>
+        <bodyGraphicData>
+          <texPath>Things/Sheepdog</texPath>
+          <drawSize>1.50</drawSize>
+          <color>(255,255,255)</color>
+          <shadowData>
+            <volume>(0.4, 0.4, 0.4)</volume>
+            <offset>(0,0,-0.2)</offset>
+          </shadowData>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Labrador/Dessicated_Labrador</texPath>
+          <drawSize>2.5</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+    </lifeStages>
+  </PawnKindDef>
+  <!--Standard Poodle-->
+  <ThingDef ParentName="AnimalThingBase" ADogSaidBody="LegsTail">
+    <defName>SCStandardPoodle</defName>
+    <label>standard poodle</label>
+    <description>Many believe this dog is all glamor no guts, but standard poodles are one of the most intelligent dogs in the galaxy. Highly trainable and make suitable alert dogs.</description>
+    <statBases>
+      <MoveSpeed>5.0</MoveSpeed>
+      <ComfyTemperatureMin>-30</ComfyTemperatureMin>
+      <MarketValue>300</MarketValue>
+    </statBases>
+    <tools>
+      <li>
+        <label>left claw</label>
+        <capacities>
+          <li>Scratch</li>
+        </capacities>
+        <power>5</power>
+        <cooldownTime>1.65</cooldownTime>
+        <linkedBodyPartsGroup>FrontLeftPaw</linkedBodyPartsGroup>
+      </li>
+      <li>
+        <label>right claw</label>
+        <capacities>
+          <li>Scratch</li>
+        </capacities>
+        <power>5</power>
+        <cooldownTime>1.65</cooldownTime>
+        <linkedBodyPartsGroup>FrontRightPaw</linkedBodyPartsGroup>
+      </li>
+      <li>
+        <capacities>
+          <li>Bite</li>
+        </capacities>
+        <power>8</power>
+        <cooldownTime>1.65</cooldownTime>
+        <linkedBodyPartsGroup>Teeth</linkedBodyPartsGroup>
+      </li>
+    </tools>
+    <race>
+      <body>QuadrupedAnimalWithPawsAndTail</body>
+      <petness>1</petness>
+      <herdAnimal>true</herdAnimal>
+      <baseBodySize>0.6</baseBodySize>
+      <baseHungerRate>0.5</baseHungerRate>
+      <baseHealthScale>1.00</baseHealthScale>
+      <foodType>OmnivoreAnimal, OvivoreAnimal</foodType>
+      <leatherDef>Leather_Dog</leatherDef>
+      <gestationPeriodDays>22.5</gestationPeriodDays>
+      <nameOnTameChance>1</nameOnTameChance>
+      <trainability>Advanced</trainability>
+      <wildness>0</wildness>
+      <nuzzleMtbHours>24</nuzzleMtbHours>
+      <litterSizeCurve>
+        <points>
+          <li>(0.5, 0)</li>
+          <li>(2, 1)</li>
+          <li>(6, 1.7)</li>
+          <li>(12, 0.7)</li>
+          <li>(12.5, 0)</li>
+        </points>
+      </litterSizeCurve>
+      <lifeExpectancy>14</lifeExpectancy>
+      <lifeStageAges>
+        <li>
+          <def>AnimalBaby</def>
+          <minAge>0</minAge>
+        </li>
+        <li>
+          <def>AnimalJuvenile</def>
+          <minAge>0.25</minAge>
+        </li>
+        <li>
+          <def>AnimalAdult</def>
+          <minAge>0.5</minAge>
+          <soundWounded>Pawn_Dog_Injured</soundWounded>
+          <soundDeath>Pawn_Dog_Death</soundDeath>
+          <soundCall>Pawn_Dog_Call</soundCall>
+          <soundAngry>Pawn_Dog_Angry</soundAngry>
+        </li>
+      </lifeStageAges>
+      <soundMeleeHitPawn>Pawn_Melee_SmallScratch_HitPawn</soundMeleeHitPawn>
+      <soundMeleeHitBuilding>Pawn_Melee_SmallScratch_HitBuilding</soundMeleeHitBuilding>
+      <soundMeleeMiss>Pawn_Melee_SmallScratch_Miss</soundMeleeMiss>
+    </race>
+    <tradeTags>
+      <li>AnimalCommon</li>
+      <li>AnimalPet</li>
+    </tradeTags>
+  </ThingDef>
+  <PawnKindDef ParentName="AnimalKindBase">
+    <defName>SCStandardPoodle</defName>
+    <label>standard poodle</label>
+    <labelPlural>standard poodles</labelPlural>
+    <race>SCStandardPoodle</race>
+    <combatPower>65</combatPower>
+    <lifeStages>
+      <li>
+        <label>Standard Poodle Puppy</label>
+        <labelPlural>Standard Poodle Puppies</labelPlural>
+        <bodyGraphicData>
+          <texPath>Things/Poodle</texPath>
+          <drawSize>1.25</drawSize>
+          <color>(255,255,255)</color>
+          <shadowData>
+            <volume>(0.2, 0.1, 0.2)</volume>
+            <offset>(0,0,-0.2)</offset>
+          </shadowData>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Labrador/Dessicated_Labrador</texPath>
+          <drawSize>1.25</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+      <li>
+        <bodyGraphicData>
+          <texPath>Things/Poodle</texPath>
+          <drawSize>1.50</drawSize>
+          <color>(255,255,255)</color>
+          <shadowData>
+            <volume>(0.3, 0.3, 0.3)</volume>
+            <offset>(0,0,-0.3)</offset>
+          </shadowData>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Labrador/Dessicated_Labrador</texPath>
+          <drawSize>2</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+      <li>
+        <bodyGraphicData>
+          <texPath>Things/Poodle</texPath>
+          <drawSize>1.75</drawSize>
+          <color>(255,255,255)</color>
+          <shadowData>
+            <volume>(0.4, 0.4, 0.4)</volume>
+            <offset>(0,0,-0.2)</offset>
+          </shadowData>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Labrador/Dessicated_Labrador</texPath>
+          <drawSize>2.5</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+    </lifeStages>
+  </PawnKindDef>
+  <!--XL Pupperonies-->
+  <!--Borzoi-->
+  <ThingDef ParentName="AnimalThingBase" ADogSaidBody="LegsTail">
+    <defName>SCBorzoi</defName>
+    <label>borzoi</label>
+    <description>These large dogs are very similar to greyhounds in personality and ability. They are differentiated most easily by their size and coloring. They are very gentle but independent.</description>
+    <statBases>
+      <MoveSpeed>6.5</MoveSpeed>
+      <ComfyTemperatureMin>-25</ComfyTemperatureMin>
+      <MarketValue>300</MarketValue>
+    </statBases>
+    <tools>
+      <li>
+        <label>left claw</label>
+        <capacities>
+          <li>Scratch</li>
+        </capacities>
+        <power>4</power>
+        <cooldownTime>1.65</cooldownTime>
+        <linkedBodyPartsGroup>FrontLeftPaw</linkedBodyPartsGroup>
+      </li>
+      <li>
+        <label>right claw</label>
+        <capacities>
+          <li>Scratch</li>
+        </capacities>
+        <power>4</power>
+        <cooldownTime>1.65</cooldownTime>
+        <linkedBodyPartsGroup>FrontRightPaw</linkedBodyPartsGroup>
+      </li>
+      <li>
+        <capacities>
+          <li>Bite</li>
+        </capacities>
+        <power>7</power>
+        <cooldownTime>1.65</cooldownTime>
+        <linkedBodyPartsGroup>Teeth</linkedBodyPartsGroup>
+      </li>
+    </tools>
+    <race>
+      <body>QuadrupedAnimalWithPawsAndTail</body>
+      <petness>1</petness>
+      <herdAnimal>true</herdAnimal>
+      <baseBodySize>0.7</baseBodySize>
+      <baseHungerRate>0.5</baseHungerRate>
+      <baseHealthScale>1.05</baseHealthScale>
+      <foodType>OmnivoreAnimal, OvivoreAnimal</foodType>
+      <leatherDef>Leather_Dog</leatherDef>
+      <gestationPeriodDays>15.5</gestationPeriodDays>
+      <nameOnTameChance>1</nameOnTameChance>
+      <trainability>Advanced</trainability>
+      <wildness>0</wildness>
+      <nuzzleMtbHours>24</nuzzleMtbHours>
+      <litterSizeCurve>
+        <points>
+          <li>(1, 0)</li>
+          <li>(3, 1)</li>
+          <li>(6, 1.7)</li>
+          <li>(11, 0.7)</li>
+          <li>(11.5, 0)</li>
+        </points>
+      </litterSizeCurve>
+      <lifeExpectancy>9</lifeExpectancy>
+      <lifeStageAges>
+        <li>
+          <def>AnimalBaby</def>
+          <minAge>0</minAge>
+        </li>
+        <li>
+          <def>AnimalJuvenile</def>
+          <minAge>0.25</minAge>
+        </li>
+        <li>
+          <def>AnimalAdult</def>
+          <minAge>0.5</minAge>
+          <soundWounded>Pawn_Dog_Injured</soundWounded>
+          <soundDeath>Pawn_Dog_Death</soundDeath>
+          <soundCall>Pawn_Dog_Call</soundCall>
+          <soundAngry>Pawn_Dog_Angry</soundAngry>
+        </li>
+      </lifeStageAges>
+      <soundMeleeHitPawn>Pawn_Melee_SmallScratch_HitPawn</soundMeleeHitPawn>
+      <soundMeleeHitBuilding>Pawn_Melee_SmallScratch_HitBuilding</soundMeleeHitBuilding>
+      <soundMeleeMiss>Pawn_Melee_SmallScratch_Miss</soundMeleeMiss>
+    </race>
+    <tradeTags>
+      <li>AnimalCommon</li>
+      <li>AnimalPet</li>
+    </tradeTags>
+  </ThingDef>
+  <PawnKindDef ParentName="AnimalKindBase">
+    <defName>SCBorzoi</defName>
+    <label>borzoi</label>
+    <labelPlural>borzois</labelPlural>
+    <race>SCBorzoi</race>
+    <combatPower>45</combatPower>
+    <lifeStages>
+      <li>
+        <label>Borzoi Puppy</label>
+        <labelPlural>Borzoi Puppies</labelPlural>
+        <bodyGraphicData>
+          <texPath>Things/Borzoi</texPath>
+          <drawSize>1.15</drawSize>
+          <color>(255,255,255)</color>
+          <shadowData>
+            <volume>(0.2, 0.1, 0.2)</volume>
+            <offset>(0,0,-0.2)</offset>
+          </shadowData>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Labrador/Dessicated_Labrador</texPath>
+          <drawSize>1.25</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+      <li>
+        <bodyGraphicData>
+          <texPath>Things/Borzoi</texPath>
+          <drawSize>1.25</drawSize>
+          <color>(255,255,255)</color>
+          <shadowData>
+            <volume>(0.3, 0.3, 0.3)</volume>
+            <offset>(0,0,-0.3)</offset>
+          </shadowData>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Labrador/Dessicated_Labrador</texPath>
+          <drawSize>2</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+      <li>
+        <bodyGraphicData>
+          <texPath>Things/Borzoi</texPath>
+          <drawSize>2</drawSize>
+          <color>(255,255,255)</color>
+          <shadowData>
+            <volume>(0.4, 0.4, 0.4)</volume>
+            <offset>(0,0,-0.2)</offset>
+          </shadowData>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Labrador/Dessicated_Labrador</texPath>
+          <drawSize>1.75</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+    </lifeStages>
+  </PawnKindDef>
+  <!--bull mastiff-->
+  <ThingDef ParentName="AnimalThingBase" ADogSaidBody="LegsTail">
+    <defName>SCBullmastiff</defName>
+    <label>bull mastiff</label>
+    <description>A reliable and courageous companion bred for asset protection by rim planet ranchers. Excellent companion for hunting large game.</description>
+    <statBases>
+      <MoveSpeed>5.2</MoveSpeed>
+      <ComfyTemperatureMin>-50</ComfyTemperatureMin>
+      <MarketValue>300</MarketValue>
+    </statBases>
+    <tools>
+      <li>
+        <label>left claw</label>
+        <capacities>
+          <li>Scratch</li>
+        </capacities>
+        <power>9</power>
+        <cooldownTime>1.65</cooldownTime>
+        <linkedBodyPartsGroup>FrontLeftPaw</linkedBodyPartsGroup>
+      </li>
+      <li>
+        <label>right claw</label>
+        <capacities>
+          <li>Scratch</li>
+        </capacities>
+        <power>9</power>
+        <cooldownTime>1.65</cooldownTime>
+        <linkedBodyPartsGroup>FrontRightPaw</linkedBodyPartsGroup>
+      </li>
+      <li>
+        <capacities>
+          <li>Bite</li>
+        </capacities>
+        <power>13</power>
+        <cooldownTime>1.65</cooldownTime>
+        <linkedBodyPartsGroup>Teeth</linkedBodyPartsGroup>
+        <surpriseAttack>
+          <extraMeleeDamages>
+            <li>
+              <def>Stun</def>
+              <amount>21</amount>
+            </li>
+          </extraMeleeDamages>
+        </surpriseAttack>
+      </li>
+      <li>
+        <label>head</label>
+        <capacities>
+          <li>Blunt</li>
+        </capacities>
+        <power>7</power>
+        <cooldownTime>1.65</cooldownTime>
+        <linkedBodyPartsGroup>HeadAttackTool</linkedBodyPartsGroup>
+        <chanceFactor>0.2</chanceFactor>
+      </li>
+    </tools>
+    <race>
+      <packAnimal>true</packAnimal>
+      <body>QuadrupedAnimalWithPawsAndTail</body>
+      <petness>1</petness>
+      <herdAnimal>true</herdAnimal>
+      <baseBodySize>1.2</baseBodySize>
+      <baseHungerRate>0.5</baseHungerRate>
+      <baseHealthScale>2</baseHealthScale>
+      <foodType>OmnivoreAnimal, OvivoreAnimal</foodType>
+      <leatherDef>Leather_Dog</leatherDef>
+      <gestationPeriodDays>22.5</gestationPeriodDays>
+      <nameOnTameChance>1</nameOnTameChance>
+      <trainability>Advanced</trainability>
+      <wildness>.25</wildness>
+      <nuzzleMtbHours>24</nuzzleMtbHours>
+      <litterSizeCurve>
+        <points>
+          <li>(0.5, 0)</li>
+          <li>(4, 1)</li>
+          <li>(8, 1.7)</li>
+          <li>(12, 0.7)</li>
+          <li>(14, 0)</li>
+        </points>
+      </litterSizeCurve>
+      <lifeExpectancy>12</lifeExpectancy>
+      <lifeStageAges>
+        <li>
+          <def>AnimalBaby</def>
+          <minAge>0</minAge>
+        </li>
+        <li>
+          <def>AnimalJuvenile</def>
+          <minAge>0.25</minAge>
+        </li>
+        <li>
+          <def>AnimalAdult</def>
+          <minAge>0.5</minAge>
+          <soundWounded>Pawn_Dog_Injured</soundWounded>
+          <soundDeath>Pawn_Dog_Death</soundDeath>
+          <soundCall>Pawn_Dog_Call</soundCall>
+          <soundAngry>Pawn_Dog_Angry</soundAngry>
+        </li>
+      </lifeStageAges>
+      <soundMeleeHitPawn>Pawn_Melee_SmallScratch_HitPawn</soundMeleeHitPawn>
+      <soundMeleeHitBuilding>Pawn_Melee_SmallScratch_HitBuilding</soundMeleeHitBuilding>
+      <soundMeleeMiss>Pawn_Melee_SmallScratch_Miss</soundMeleeMiss>
+    </race>
+    <tradeTags>
+      <li>AnimalCommon</li>
+      <li>AnimalPet</li>
+      <li>AnimalFighter</li>
+    </tradeTags>
+  </ThingDef>
+  <PawnKindDef ParentName="AnimalKindBase">
+    <defName>SCBullmastiff</defName>
+    <label>bull mastiff</label>
+    <labelPlural>bull mastiffs</labelPlural>
+    <race>SCBullmastiff</race>
+    <combatPower>65</combatPower>
+    <lifeStages>
+      <li>
+        <label>Bull Mastiff Puppy</label>
+        <labelPlural>Bull Mastiff Puppies</labelPlural>
+        <bodyGraphicData>
+          <texPath>Things/Mastiff</texPath>
+          <drawSize>1.50</drawSize>
+          <color>(255,255,255)</color>
+          <shadowData>
+            <volume>(0.2, 0.1, 0.2)</volume>
+            <offset>(0,0,-0.2)</offset>
+          </shadowData>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Labrador/Dessicated_Labrador</texPath>
+          <drawSize>1.25</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+      <li>
+        <bodyGraphicData>
+          <texPath>Things/Mastiff</texPath>
+          <drawSize>1.75</drawSize>
+          <color>(255,255,255)</color>
+          <shadowData>
+            <volume>(0.3, 0.3, 0.3)</volume>
+            <offset>(0,0,-0.3)</offset>
+          </shadowData>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Labrador/Dessicated_Labrador</texPath>
+          <drawSize>2</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+      <li>
+        <bodyGraphicData>
+          <texPath>Things/Mastiff</texPath>
+          <drawSize>2.25</drawSize>
+          <color>(255,255,255)</color>
+          <shadowData>
+            <volume>(0.4, 0.4, 0.4)</volume>
+            <offset>(0,0,-0.2)</offset>
+          </shadowData>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Labrador/Dessicated_Labrador</texPath>
+          <drawSize>2.5</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+    </lifeStages>
+  </PawnKindDef>
+  <!--Caucasian shepherd-->
+  <ThingDef ParentName="AnimalThingBase" ADogSaidBody="LegsTail">
+    <defName>SCCaucasianshepherd</defName>
+    <label>caucasian shepherd</label>
+    <description>A massive dog originally bred to hunt bears, this canine makes an intimidating addition to any colony.</description>
+    <statBases>
+      <MoveSpeed>5.2</MoveSpeed>
+      <ComfyTemperatureMin>-70</ComfyTemperatureMin>
+      <MarketValue>300</MarketValue>
+    </statBases>
+    <tools>
+      <li>
+        <label>left claw</label>
+        <capacities>
+          <li>Scratch</li>
+        </capacities>
+        <power>10</power>
+        <cooldownTime>1.65</cooldownTime>
+        <linkedBodyPartsGroup>FrontLeftPaw</linkedBodyPartsGroup>
+      </li>
+      <li>
+        <label>right claw</label>
+        <capacities>
+          <li>Scratch</li>
+        </capacities>
+        <power>10</power>
+        <cooldownTime>1.65</cooldownTime>
+        <linkedBodyPartsGroup>FrontRightPaw</linkedBodyPartsGroup>
+      </li>
+      <li>
+        <capacities>
+          <li>Bite</li>
+        </capacities>
+        <power>13</power>
+        <cooldownTime>1.65</cooldownTime>
+        <linkedBodyPartsGroup>Teeth</linkedBodyPartsGroup>
+        <surpriseAttack>
+          <extraMeleeDamages>
+            <li>
+              <def>Stun</def>
+              <amount>21</amount>
+            </li>
+          </extraMeleeDamages>
+        </surpriseAttack>
+      </li>
+      <li>
+        <label>head</label>
+        <capacities>
+          <li>Blunt</li>
+        </capacities>
+        <power>7</power>
+        <cooldownTime>1.65</cooldownTime>
+        <linkedBodyPartsGroup>HeadAttackTool</linkedBodyPartsGroup>
+        <chanceFactor>0.2</chanceFactor>
+      </li>
+    </tools>
+    <race>
+      <packAnimal>true</packAnimal>
+      <body>QuadrupedAnimalWithPawsAndTail</body>
+      <petness>1</petness>
+      <herdAnimal>true</herdAnimal>
+      <baseBodySize>1.2</baseBodySize>
+      <baseHungerRate>0.5</baseHungerRate>
+      <baseHealthScale>2</baseHealthScale>
+      <foodType>OmnivoreAnimal, OvivoreAnimal</foodType>
+      <leatherDef>Leather_Dog</leatherDef>
+      <gestationPeriodDays>22.5</gestationPeriodDays>
+      <nameOnTameChance>1</nameOnTameChance>
+      <trainability>Advanced</trainability>
+      <wildness>.25</wildness>
+      <nuzzleMtbHours>24</nuzzleMtbHours>
+      <litterSizeCurve>
+        <points>
+          <li>(2, 0)</li>
+          <li>(4, 1)</li>
+          <li>(8, 1.7)</li>
+          <li>(12, 0.7)</li>
+          <li>(14, 0)</li>
+        </points>
+      </litterSizeCurve>
+      <lifeExpectancy>12</lifeExpectancy>
+      <lifeStageAges>
+        <li>
+          <def>AnimalBaby</def>
+          <minAge>0</minAge>
+        </li>
+        <li>
+          <def>AnimalJuvenile</def>
+          <minAge>0.25</minAge>
+        </li>
+        <li>
+          <def>AnimalAdult</def>
+          <minAge>0.5</minAge>
+          <soundWounded>Pawn_Dog_Injured</soundWounded>
+          <soundDeath>Pawn_Dog_Death</soundDeath>
+          <soundCall>Pawn_Dog_Call</soundCall>
+          <soundAngry>Pawn_Dog_Angry</soundAngry>
+        </li>
+      </lifeStageAges>
+      <soundMeleeHitPawn>Pawn_Melee_SmallScratch_HitPawn</soundMeleeHitPawn>
+      <soundMeleeHitBuilding>Pawn_Melee_SmallScratch_HitBuilding</soundMeleeHitBuilding>
+      <soundMeleeMiss>Pawn_Melee_SmallScratch_Miss</soundMeleeMiss>
+    </race>
+    <tradeTags>
+      <li>AnimalCommon</li>
+      <li>AnimalPet</li>
+      <li>AnimalFighter</li>
+    </tradeTags>
+  </ThingDef>
+  <PawnKindDef ParentName="AnimalKindBase">
+    <defName>SCCaucasianshepherd</defName>
+    <label>caucasian shepherd</label>
+    <labelPlural>caucasian shepherds</labelPlural>
+    <race>SCCaucasianshepherd</race>
+    <combatPower>65</combatPower>
+    <lifeStages>
+      <li>
+        <label>Caucasian Shepherd Puppy</label>
+        <labelPlural>Caucasian Shepherd Puppies</labelPlural>
+        <bodyGraphicData>
+          <texPath>Things/Cshepherd</texPath>
+          <drawSize>1.50</drawSize>
+          <color>(255,255,255)</color>
+          <shadowData>
+            <volume>(0.2, 0.1, 0.2)</volume>
+            <offset>(0,0,-0.2)</offset>
+          </shadowData>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Labrador/Dessicated_Labrador</texPath>
+          <drawSize>1.25</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+      <li>
+        <bodyGraphicData>
+          <texPath>Things/Cshepherd</texPath>
+          <drawSize>1.75</drawSize>
+          <color>(255,255,255)</color>
+          <shadowData>
+            <volume>(0.3, 0.3, 0.3)</volume>
+            <offset>(0,0,-0.3)</offset>
+          </shadowData>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Labrador/Dessicated_Labrador</texPath>
+          <drawSize>2</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+      <li>
+        <bodyGraphicData>
+          <texPath>Things/Cshepherd</texPath>
+          <drawSize>2.25</drawSize>
+          <color>(255,255,255)</color>
+          <shadowData>
+            <volume>(0.4, 0.4, 0.4)</volume>
+            <offset>(0,0,-0.2)</offset>
+          </shadowData>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Labrador/Dessicated_Labrador</texPath>
+          <drawSize>2.5</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+    </lifeStages>
+  </PawnKindDef>
+  <!--Irish Wolfhound
+  <ThingDef ParentName="AnimalThingBase" ADogSaidBody="LegsTail">
+    <defName>IrishWolfhound</defName>
+    <label>irish wolfhound</label>
+    <description>Another of the ancient breeds, some say they existed as early as 7000 B.C. (Before Crash). Used to hunt large predators that threaten livestock. Unfortunately short lifespans haven't prevented these creatures from finding a niche in modern-day colonies.</description>
+    <statBases>
+      <MoveSpeed>6.5</MoveSpeed>
+      <ComfyTemperatureMin>-25</ComfyTemperatureMin>
+      <MarketValue>300</MarketValue>
+    </statBases>
+    <tools>
+      <li>
+        <label>left claw</label>
+        <capacities>
+          <li>Scratch</li>
+        </capacities>
+        <power>10</power>
+        <cooldownTime>1.65</cooldownTime>
+        <linkedBodyPartsGroup>FrontLeftPaw</linkedBodyPartsGroup>
+      </li>
+      <li>
+        <label>right claw</label>
+        <capacities>
+          <li>Scratch</li>
+        </capacities>
+        <power>10</power>
+        <cooldownTime>1.65</cooldownTime>
+        <linkedBodyPartsGroup>FrontRightPaw</linkedBodyPartsGroup>
+      </li>
+      <li>
+        <capacities>
+          <li>Bite</li>
+        </capacities>
+        <power>13</power>
+        <cooldownTime>1.65</cooldownTime>
+        <linkedBodyPartsGroup>Teeth</linkedBodyPartsGroup>
+      </li>
+    </tools>
+    <race>
+      <body>QuadrupedAnimalWithPawsAndTail</body>
+      <petness>1</petness>
+      <herdAnimal>true</herdAnimal>
+      <baseBodySize>0.9</baseBodySize>
+      <baseHungerRate>0.5</baseHungerRate>
+      <baseHealthScale>1.05</baseHealthScale>
+      <foodType>OmnivoreAnimal, OvivoreAnimal</foodType>
+      <leatherDef>Leather_Dog</leatherDef>
+      <gestationPeriodDays>15.5</gestationPeriodDays>
+      <nameOnTameChance>1</nameOnTameChance>
+      <trainability>Advanced</trainability>
+      <wildness>0</wildness>
+      <nuzzleMtbHours>24</nuzzleMtbHours>
+      <litterSizeCurve>
+        <points>
+          <li>(1, 0)</li>
+          <li>(2, 1)</li>
+          <li>(6, 1.7)</li>
+          <li>(12, 0.7)</li>
+          <li>(12.5, 0)</li>
+        </points>
+      </litterSizeCurve>
+      <lifeExpectancy>8</lifeExpectancy>
+      <lifeStageAges>
+        <li>
+          <def>AnimalBaby</def>
+          <minAge>0</minAge>
+        </li>
+        <li>
+          <def>AnimalJuvenile</def>
+          <minAge>0.25</minAge>
+        </li>
+        <li>
+          <def>AnimalAdult</def>
+          <minAge>0.5</minAge>
+          <soundWounded>Pawn_Dog_Injured</soundWounded>
+          <soundDeath>Pawn_Dog_Death</soundDeath>
+          <soundCall>Pawn_Dog_Call</soundCall>
+          <soundAngry>Pawn_Dog_Angry</soundAngry>
+        </li>
+      </lifeStageAges>
+      <soundMeleeHitPawn>Pawn_Melee_SmallScratch_HitPawn</soundMeleeHitPawn>
+      <soundMeleeHitBuilding>Pawn_Melee_SmallScratch_HitBuilding</soundMeleeHitBuilding>
+      <soundMeleeMiss>Pawn_Melee_SmallScratch_Miss</soundMeleeMiss>
+    </race>
+    <tradeTags>
+      <li>AnimalCommon</li><li>AnimalPet</li>
+    </tradeTags>
+  </ThingDef>
+  <PawnKindDef ParentName="AnimalKindBase">
+    <defName>IrishWolfhound</defName>
+    <label>irish wolfhound</label>
+    <race>IrishWolfhound</race>
+    <combatPower>45</combatPower>
+    <lifeStages>
+      <li>
+	    <label>Irish Wolfhound Puppy</label>
+        <labelPlural>Irish Wolfhound Puppies</labelPlural>
+        <bodyGraphicData>
+          <texPath>Things/IrishWolfhound</texPath>
+          <drawSize>1.15</drawSize>
+          <color>(255,255,255)</color>
+		  <shadowData>
+            <volume>(0.2, 0.1, 0.2)</volume>
+            <offset>(0,0,-0.2)</offset>
+          </shadowData>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Labrador/Dessicated_Labrador</texPath>
+          <drawSize>1.25</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+	  <li>
+        <bodyGraphicData>
+          <texPath>Things/IrishWolfhound</texPath>
+          <drawSize>1.25</drawSize>
+          <color>(255,255,255)</color>
+          <shadowData>
+            <volume>(0.3, 0.3, 0.3)</volume>
+            <offset>(0,0,-0.3)</offset>
+          </shadowData>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Labrador/Dessicated_Labrador</texPath>
+          <drawSize>2</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+      <li>
+        <bodyGraphicData>
+          <texPath>Things/IrishWolfhound</texPath>
+          <drawSize>1.50</drawSize>
+          <color>(255,255,255)</color>
+          <shadowData>
+            <volume>(0.4, 0.4, 0.4)</volume>
+            <offset>(0,0,-0.2)</offset>
+          </shadowData>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Labrador/Dessicated_Labrador</texPath>
+          <drawSize>2.5</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+    </lifeStages>
+  </PawnKindDef>
+-->
+  <!--Saint Bernard-->
+  <ThingDef ParentName="AnimalThingBase" ADogSaidBody="LegsTail">
+    <defName>SCSaintbernard</defName>
+    <label>saint bernard</label>
+    <description>A large, kind dog common in cold, mountainous areas. Typically used in search and rescue, it's large enough to ride if the going gets rough.</description>
+    <statBases>
+      <MoveSpeed>5.2</MoveSpeed>
+      <ComfyTemperatureMin>-70</ComfyTemperatureMin>
+      <MarketValue>300</MarketValue>
+    </statBases>
+    <tools>
+      <li>
+        <label>left claw</label>
+        <capacities>
+          <li>Scratch</li>
+        </capacities>
+        <power>7</power>
+        <cooldownTime>1.65</cooldownTime>
+        <linkedBodyPartsGroup>FrontLeftPaw</linkedBodyPartsGroup>
+      </li>
+      <li>
+        <label>right claw</label>
+        <capacities>
+          <li>Scratch</li>
+        </capacities>
+        <power>7</power>
+        <cooldownTime>1.65</cooldownTime>
+        <linkedBodyPartsGroup>FrontRightPaw</linkedBodyPartsGroup>
+      </li>
+      <li>
+        <capacities>
+          <li>Bite</li>
+        </capacities>
+        <power>11</power>
+        <cooldownTime>1.65</cooldownTime>
+        <linkedBodyPartsGroup>Teeth</linkedBodyPartsGroup>
+        <surpriseAttack>
+          <extraMeleeDamages>
+            <li>
+              <def>Stun</def>
+              <amount>21</amount>
+            </li>
+          </extraMeleeDamages>
+        </surpriseAttack>
+      </li>
+      <li>
+        <label>head</label>
+        <capacities>
+          <li>Blunt</li>
+        </capacities>
+        <power>7</power>
+        <cooldownTime>1.65</cooldownTime>
+        <linkedBodyPartsGroup>HeadAttackTool</linkedBodyPartsGroup>
+        <chanceFactor>0.2</chanceFactor>
+      </li>
+    </tools>
+    <race>
+      <packAnimal>true</packAnimal>
+      <body>QuadrupedAnimalWithPawsAndTail</body>
+      <petness>1</petness>
+      <herdAnimal>true</herdAnimal>
+      <baseBodySize>1.1</baseBodySize>
+      <baseHungerRate>0.5</baseHungerRate>
+      <baseHealthScale>2</baseHealthScale>
+      <foodType>OmnivoreAnimal, OvivoreAnimal</foodType>
+      <leatherDef>Leather_Dog</leatherDef>
+      <gestationPeriodDays>22.5</gestationPeriodDays>
+      <nameOnTameChance>1</nameOnTameChance>
+      <trainability>Advanced</trainability>
+      <wildness>0</wildness>
+      <nuzzleMtbHours>24</nuzzleMtbHours>
+      <litterSizeCurve>
+        <points>
+          <li>(0.5, 0)</li>
+          <li>(1, 1)</li>
+          <li>(5, 1.7)</li>
+          <li>(10, 0.7)</li>
+          <li>(10.5, 0)</li>
+        </points>
+      </litterSizeCurve>
+      <lifeExpectancy>12</lifeExpectancy>
+      <lifeStageAges>
+        <li>
+          <def>AnimalBaby</def>
+          <minAge>0</minAge>
+        </li>
+        <li>
+          <def>AnimalJuvenile</def>
+          <minAge>0.25</minAge>
+        </li>
+        <li>
+          <def>AnimalAdult</def>
+          <minAge>0.5</minAge>
+          <soundWounded>Pawn_Dog_Injured</soundWounded>
+          <soundDeath>Pawn_Dog_Death</soundDeath>
+          <soundCall>Pawn_Dog_Call</soundCall>
+          <soundAngry>Pawn_Dog_Angry</soundAngry>
+        </li>
+      </lifeStageAges>
+      <soundMeleeHitPawn>Pawn_Melee_SmallScratch_HitPawn</soundMeleeHitPawn>
+      <soundMeleeHitBuilding>Pawn_Melee_SmallScratch_HitBuilding</soundMeleeHitBuilding>
+      <soundMeleeMiss>Pawn_Melee_SmallScratch_Miss</soundMeleeMiss>
+    </race>
+    <tradeTags>
+      <li>AnimalCommon</li>
+      <li>AnimalPet</li>
+      <li>AnimalFighter</li>
+    </tradeTags>
+  </ThingDef>
+  <PawnKindDef ParentName="AnimalKindBase">
+    <defName>SCSaintbernard</defName>
+    <label>saint bernard</label>
+    <labelPlural>saint bernards</labelPlural>
+    <race>SCSaintbernard</race>
+    <combatPower>65</combatPower>
+    <lifeStages>
+      <li>
+        <label>Saint Bernard Puppy</label>
+        <labelPlural>Saint Bernard Puppies</labelPlural>
+        <bodyGraphicData>
+          <texPath>Things/Stbernard</texPath>
+          <drawSize>1.50</drawSize>
+          <color>(255,255,255)</color>
+          <shadowData>
+            <volume>(0.2, 0.1, 0.2)</volume>
+            <offset>(0,0,-0.2)</offset>
+          </shadowData>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Labrador/Dessicated_Labrador</texPath>
+          <drawSize>1.25</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+      <li>
+        <bodyGraphicData>
+          <texPath>Things/Stbernard</texPath>
+          <drawSize>1.75</drawSize>
+          <color>(255,255,255)</color>
+          <shadowData>
+            <volume>(0.3, 0.3, 0.3)</volume>
+            <offset>(0,0,-0.3)</offset>
+          </shadowData>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Labrador/Dessicated_Labrador</texPath>
+          <drawSize>2</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+      <li>
+        <bodyGraphicData>
+          <texPath>Things/Stbernard</texPath>
+          <drawSize>2.00</drawSize>
+          <color>(255,255,255)</color>
+          <shadowData>
+            <volume>(0.4, 0.4, 0.4)</volume>
+            <offset>(0,0,-0.2)</offset>
+          </shadowData>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Labrador/Dessicated_Labrador</texPath>
+          <drawSize>2.5</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+    </lifeStages>
+  </PawnKindDef>
+</Defs>
