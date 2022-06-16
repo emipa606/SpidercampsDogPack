@@ -1,25 +1,16 @@
 # SpidercampsDogPack
 
-![Image](https://i.imgur.com/WAEzk68.png)
+![Image](https://i.imgur.com/buuPQel.png)
 
 Update of Spidercamps mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1256708879
 
 - Fixed the pack-texture names
 
-![Image](https://i.imgur.com/7Gzt3Rg.png)
+![Image](https://i.imgur.com/pufA0kM.png)
 
-
-[table]
-    [tr]
-        [td]https://invite.gg/Mlie]![Image](https://i.imgur.com/zdzzBrc.png)
-[/td]
-        [td]https://github.com/emipa606/SpidercampsDogPack]![Image](https://i.imgur.com/kTkpTOE.png)
-[/td]
-    [/tr]
-[/table]
 	
-![Image](https://i.imgur.com/NOW7jU1.png)
+![Image](https://i.imgur.com/Z4GOv8H.png)
 
 Includes all Spidercamp dog releases. Will be updated with additional breeds as they are released.
 
@@ -64,11 +55,11 @@ Includes all Spidercamp dog releases. Will be updated with additional breeds as 
         Revolus claps back at loneliness and discomfort with this mod which lets dogs sleep in beds just like they deserve.[/strike] Not updated but can be achieved with the https://steamcommunity.com/sharedfiles/filedetails/?id=1966744871]Invisible Animal Beds-mod instead.
 
         https://steamcommunity.com/sharedfiles/filedetails/?id=2441132298] Dogs Mate
-        As if the first two weren&apos;t enough, Revolus hits us with a third instant classic which lets different dog breeds breed and have puppies. The liters will be half mom&apos;s breed, half dad&apos;s breed. 
+        As if the first two weren't enough, Revolus hits us with a third instant classic which lets different dog breeds breed and have puppies. The liters will be half mom's breed, half dad's breed. 
 
 
 	**A DOG SAID**
-        https://steamcommunity.com/sharedfiles/filedetails/?id=1550059802] A Dog Said Patch, kindly made by @Cypress (I haven&apos;t tested this functionality in a few releases. If it&apos;s broken and someone wants to fix it, I&apos;ll happily take your fixes and upload here.)
+        https://steamcommunity.com/sharedfiles/filedetails/?id=1550059802] A Dog Said Patch, kindly made by @Cypress (I haven't tested this functionality in a few releases. If it's broken and someone wants to fix it, I'll happily take your fixes and upload here.)
 
 	**Use as battle mount or as a mount in caravans - Giddy-Up by roolo:**
 	http://steamcommunity.com/sharedfiles/filedetails/?id=1216999901] Giddy-Up Core	
@@ -77,30 +68,30 @@ Includes all Spidercamp dog releases. Will be updated with additional breeds as 
 
 ----------------------------------------------------------
 
-If you subscribe to this release you don&apos;t need to subscribe to the individual breed releases. If you were previously using the individual breed mods, you can substitute this one in to a current save and disable the individual subscriptions.
+If you subscribe to this release you don't need to subscribe to the individual breed releases. If you were previously using the individual breed mods, you can substitute this one in to a current save and disable the individual subscriptions.
 
 **For instance** - You have the following enabled:
 Collie
 Golden Retriver
 
-You subscribe to Spidercamp&apos;s Dog Pack.
+You subscribe to Spidercamp's Dog Pack.
 
 You disable 
 Collie
 Golden Retriver
 
 You enable 
-Spidercamp&apos;s Dog Pack
+Spidercamp's Dog Pack
 
 ---------------------------------------------------------------------
 **If you encounter any bugs:**
 
-Please note - this mod is about as close to the vanilla game as you can get. Many of the bugs reported in the comments cannot be recreated when using vanilla + this mod only. Before commenting about a bug, please test with only this mod enabled and see if you&apos;re able to recreate. Any bugs that exist in the vanilla version will carry over to this mod. 
+Please note - this mod is about as close to the vanilla game as you can get. Many of the bugs reported in the comments cannot be recreated when using vanilla + this mod only. Before commenting about a bug, please test with only this mod enabled and see if you're able to recreate. Any bugs that exist in the vanilla version will carry over to this mod. 
 
 B18 version available here: https://www.dropbox.com/sh/eb11z2nnebknko5/AAB3Quyx8V11DPv_OlF4s1wTa?dl=0
 B19 version available here: https://www.dropbox.com/sh/ck625r0tl4cmcuo/AAD_rcm_WSlJYR_rKND_azJXa?dl=0
 
-![Image](https://i.imgur.com/Rs6T6cr.png)
+![Image](https://i.imgur.com/PwoNOj4.png)
 
 
 
@@ -110,6 +101,7 @@ B19 version available here: https://www.dropbox.com/sh/ck625r0tl4cmcuo/AAD_rcm_W
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
+
 
 
 

@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Miniature Dachshund -->
+  <SCMiniatureDachshund.label>Zwergdackel</SCMiniatureDachshund.label>
+  <SCMiniatureDachshund.description>Als liebenswerte Miniaturausgabe des Standard-Dackels wurden diese komisch geformten Hunde entwickelt, um bei der Schädlingsbekämpfung in herrschaftlichen Anlagen zu helfen. Sie haben sich schnell in die Herzen selbst der hartgesottensten Gutsverwalter gegraben.</SCMiniatureDachshund.description>
+  <SCMiniatureDachshund.tools.0.label>linke Klaue</SCMiniatureDachshund.tools.0.label>
+  <SCMiniatureDachshund.tools.1.label>rechte Klaue</SCMiniatureDachshund.tools.1.label>
+  <!-- Miniature Schnauzer -->
+  <SCSchnauzer.label>Zwergschnauzer</SCSchnauzer.label>
+  <SCSchnauzer.description>Eine Rasse, die typischerweise für die Jagd auf kleine Nagetiere gehalten wird. Kleiner Hund mit großem Biss. Nicht für kleine Kinder geeignet.</SCSchnauzer.description>
+  <SCSchnauzer.tools.0.label>linke Klaue</SCSchnauzer.tools.0.label>
+  <SCSchnauzer.tools.1.label>rechte Klaue</SCSchnauzer.tools.1.label>
+  <!-- Pug -->
+  <SCPug.label>Mops</SCPug.label>
+  <SCPug.description>Möpse sind eine beliebte Rasse bei Königshäusern und gelten als humorvolle und familienfreundliche Begleiter.</SCPug.description>
+  <SCPug.tools.0.label>linke Klaue</SCPug.tools.0.label>
+  <SCPug.tools.1.label>rechte Klaue</SCPug.tools.1.label>
+  <!-- Welsh Corgi -->
+  <SCWelshCorgi.label>Welsh Corgi</SCWelshCorgi.label>
+  <SCWelshCorgi.description>Der Welsh Corgi ist bekannt dafür, dass er die Lieblingsrasse der ältesten Königin der Welt ist. Er ist ein temperamentvoller, unabhängiger Begleiter mit einer Vorliebe für Schwierigkeiten.
+	
+	Zum Gedenken an Nugget - den süßesten, schrillsten und süßigkeitengierigsten Hund, der je durch die Galaxis getrabt ist</SCWelshCorgi.description>
+  <SCWelshCorgi.tools.0.label>linke Klaue</SCWelshCorgi.tools.0.label>
+  <SCWelshCorgi.tools.1.label>rechte Klaue</SCWelshCorgi.tools.1.label>
+  <!-- Afghan Hound -->
+  <SCAfghanHound.label>Afghanischer Windhund</SCAfghanHound.label>
+  <SCAfghanHound.description>Ein uralter Jagdhund, der aus Wüsten in fernen Ländern stammt. Die meisten Windhunde können ihre Abstammung auf diese majestätischen Kreaturen zurückführen. Leider ist ihre Intelligenz nicht so beeindruckend wie ihr Aussehen.</SCAfghanHound.description>
+  <SCAfghanHound.tools.0.label>linke Klaue</SCAfghanHound.tools.0.label>
+  <SCAfghanHound.tools.1.label>rechte Klaue</SCAfghanHound.tools.1.label>
+  <!-- Border Collie -->
+  <SCBorderCollie.label>Border Collie</SCBorderCollie.label>
+  <SCBorderCollie.description>Ein energischer Hund, der für seine Loyalität geschätzt wird.</SCBorderCollie.description>
+  <SCBorderCollie.tools.0.label>linke Klaue</SCBorderCollie.tools.0.label>
+  <SCBorderCollie.tools.1.label>rechte Klaue</SCBorderCollie.tools.1.label>
+  <!-- Bull Terrier -->
+  <SCBullTerrier.label>Bullterrier</SCBullTerrier.label>
+  <SCBullTerrier.description>Ein energischer Hund, der für seine Loyalität geschätzt wird.</SCBullTerrier.description>
+  <SCBullTerrier.tools.0.label>left claw</SCBullTerrier.tools.0.label>
+  <SCBullTerrier.tools.1.label>right claw</SCBullTerrier.tools.1.label>
+  <!-- chow chow -->
+  <SCChowchow.label>Chow-Chow</SCChowchow.label>
+  <SCChowchow.description>Eine alte Rasse, die für ihr flauschiges Fell und ihren kräftigen Biss bekannt ist. Sie ist ein treuer Begleiter und ein furchterregender Gegner.</SCChowchow.description>
+  <SCChowchow.tools.0.label>linke Klaue</SCChowchow.tools.0.label>
+  <SCChowchow.tools.1.label>rechte Klaue</SCChowchow.tools.1.label>
+  <SCChowchow.tools.3.label>Kopf</SCChowchow.tools.3.label>
+  <!-- collie -->
+  <SCCollie.label>Collie</SCCollie.label>
+  <SCCollie.description>The most beautiful dog in the galaxy. A valued pet known for its loyalty and bravery. They grow special attachments to their human counterparts and are commonly found underfoot. Collies were popularized after a particularly special merle named Bleu won Man's Best Friend In the Rim 3 years running.</SCCollie.description>
+  <SCCollie.tools.0.label>linke Klaue</SCCollie.tools.0.label>
+  <SCCollie.tools.1.label>rechte Klaue</SCCollie.tools.1.label>
+  <SCCollie.tools.3.label>Kopf</SCCollie.tools.3.label>
+  <!-- Doberman -->
+  <SCDoberman.label>Dobermann</SCDoberman.label>
+  <SCDoberman.description>Sie sind bei ihren Besitzern für ihr liebenswürdiges Wesen und ihre schrullige Persönlichkeit bekannt, beschützen ihre Herrchen und Frauchen aber auch sehr gut und eignen sich hervorragend als Begleiter in gefährlichen Gegenden.</SCDoberman.description>
+  <SCDoberman.tools.0.label>linke Klaue</SCDoberman.tools.0.label>
+  <SCDoberman.tools.1.label>rechte Klaue</SCDoberman.tools.1.label>
+  <SCDoberman.tools.3.label>Kopf</SCDoberman.tools.3.label>
+  <!-- Golden Retriever -->
+  <SCGoldenRetriever.label>Golden Retriever</SCGoldenRetriever.label>
+  <SCGoldenRetriever.description>Ein schöner Hund, der für seine Treue geschätzt wird.</SCGoldenRetriever.description>
+  <SCGoldenRetriever.tools.0.label>linke Klaue</SCGoldenRetriever.tools.0.label>
+  <SCGoldenRetriever.tools.1.label>rechte Klaue</SCGoldenRetriever.tools.1.label>
+  <!-- Greyhound -->
+  <SCGreyhound.label>Greyhound</SCGreyhound.label>
+  <SCGreyhound.description>Diese beliebten Windhunde sind weithin für ihre Schnelligkeit bekannt. Wenn sie sich von der Jagd zurückgezogen haben, sind sie erstaunlich gute Stubenhocker.</SCGreyhound.description>
+  <SCGreyhound.tools.0.label>linke Klaue</SCGreyhound.tools.0.label>
+  <SCGreyhound.tools.1.label>rechte Klaue</SCGreyhound.tools.1.label>
+  <!-- Old English Sheepdog -->
+  <SCOldEnglishSheepdog.label>Bobtail</SCOldEnglishSheepdog.label>
+  <SCOldEnglishSheepdog.description>Sie ist eine hervorragende Ergänzung zu einem Gebiet mit unberührten, flauschigen Schafen.</SCOldEnglishSheepdog.description>
+  <SCOldEnglishSheepdog.tools.0.label>linke Klaue</SCOldEnglishSheepdog.tools.0.label>
+  <SCOldEnglishSheepdog.tools.1.label>rechte Klaue</SCOldEnglishSheepdog.tools.1.label>
+  <!-- Standard Poodle -->
+  <SCStandardPoodle.label>Großpudel</SCStandardPoodle.label>
+  <SCStandardPoodle.description>Viele glauben, dass dieser Hund nur glamourös ist, aber der Standardpudel ist einer der intelligentesten Hunde der Galaxis. Sie sind sehr gut trainierbar und eignen sich als Wachhunde.</SCStandardPoodle.description>
+  <SCStandardPoodle.tools.0.label>linke Klaue</SCStandardPoodle.tools.0.label>
+  <SCStandardPoodle.tools.1.label>rechte Klaue</SCStandardPoodle.tools.1.label>
+  <!-- Borzoi -->
+  <SCBorzoi.label>Barsoi</SCBorzoi.label>
+  <SCBorzoi.description>Diese großen Hunde sind den Windhunden in ihrer Persönlichkeit und ihren Fähigkeiten sehr ähnlich. Sie sind am einfachsten durch ihre Größe und Färbung zu unterscheiden. Sie sind sehr sanft, aber auch sehr unabhängig.</SCBorzoi.description>
+  <SCBorzoi.tools.0.label>linke Klaue</SCBorzoi.tools.0.label>
+  <SCBorzoi.tools.1.label>rechte Klaue</SCBorzoi.tools.1.label>
+  <!-- bull mastiff -->
+  <SCBullmastiff.label>Bullmastiff</SCBullmastiff.label>
+  <SCBullmastiff.description>Ein zuverlässiger und mutiger Begleiter, der von Rim-Planet-Ranchern zum Schutz ihres Vermögens gezüchtet wurde. Ausgezeichneter Begleiter für die Jagd auf Großwild.</SCBullmastiff.description>
+  <SCBullmastiff.tools.0.label>linke Klaue</SCBullmastiff.tools.0.label>
+  <SCBullmastiff.tools.1.label>rechte Klaue</SCBullmastiff.tools.1.label>
+  <SCBullmastiff.tools.3.label>Kopf</SCBullmastiff.tools.3.label>
+  <!-- Caucasian shepherd -->
+  <SCCaucasianshepherd.label>Kaukasischer Owtscharka</SCCaucasianshepherd.label>
+  <SCCaucasianshepherd.description>Dieser massive Hund, der ursprünglich zur Bärenjagd gezüchtet wurde, ist eine furchterregende Bereicherung für jede Kolonie.</SCCaucasianshepherd.description>
+  <SCCaucasianshepherd.tools.0.label>linke Klaue</SCCaucasianshepherd.tools.0.label>
+  <SCCaucasianshepherd.tools.1.label>rechte Klaue</SCCaucasianshepherd.tools.1.label>
+  <SCCaucasianshepherd.tools.3.label>Kopf</SCCaucasianshepherd.tools.3.label>
+  <!-- Saint Bernard -->
+  <SCSaintbernard.label>Bernhardiner</SCSaintbernard.label>
+  <SCSaintbernard.description>Ein großer, freundlicher Hund, der in kalten, bergigen Gebieten verbreitet ist. Er wird in der Regel für Such- und Rettungseinsätze verwendet und ist groß genug, um mitzukommen, wenn es schwierig wird.</SCSaintbernard.description>
+  <SCSaintbernard.tools.0.label>linke Klaue</SCSaintbernard.tools.0.label>
+  <SCSaintbernard.tools.1.label>rechte Klaue</SCSaintbernard.tools.1.label>
+  <SCSaintbernard.tools.3.label>Kopf</SCSaintbernard.tools.3.label>
+</LanguageData>

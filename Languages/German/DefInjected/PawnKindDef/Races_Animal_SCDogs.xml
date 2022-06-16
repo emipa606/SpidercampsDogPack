@@ -1,0 +1,453 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Miniature Dachshund -->
+  <SCMiniatureDachshund.label>Zwergdackel</SCMiniatureDachshund.label>
+  <SCMiniatureDachshund.labelPlural>Zwergdackel</SCMiniatureDachshund.labelPlural>
+  <SCMiniatureDachshund.lifeStages.0.label>Zwergdackelwelpe</SCMiniatureDachshund.lifeStages.0.label>
+  <SCMiniatureDachshund.lifeStages.0.labelPlural>Zwergdackelwelpen</SCMiniatureDachshund.lifeStages.0.labelPlural>
+  <SCMiniatureDachshund.lifeStages.0.labelMale>Zwergdackelwelpe</SCMiniatureDachshund.lifeStages.0.labelMale>
+  <SCMiniatureDachshund.lifeStages.0.labelMalePlural>Zwergdackelwelpen</SCMiniatureDachshund.lifeStages.0.labelMalePlural>
+  <SCMiniatureDachshund.lifeStages.0.labelFemale>Zwergdackelwelpe</SCMiniatureDachshund.lifeStages.0.labelFemale>
+  <SCMiniatureDachshund.lifeStages.0.labelFemalePlural>Zwergdackelwelpen</SCMiniatureDachshund.lifeStages.0.labelFemalePlural>
+  <SCMiniatureDachshund.lifeStages.1.label>Zwergdackel</SCMiniatureDachshund.lifeStages.1.label>
+  <SCMiniatureDachshund.lifeStages.1.labelPlural>Zwergdackel</SCMiniatureDachshund.lifeStages.1.labelPlural>
+  <SCMiniatureDachshund.lifeStages.1.labelMale>Zwergdackel</SCMiniatureDachshund.lifeStages.1.labelMale>
+  <SCMiniatureDachshund.lifeStages.1.labelMalePlural>Zwergdackel</SCMiniatureDachshund.lifeStages.1.labelMalePlural>
+  <SCMiniatureDachshund.lifeStages.1.labelFemale>Zwergdackel</SCMiniatureDachshund.lifeStages.1.labelFemale>
+  <SCMiniatureDachshund.lifeStages.1.labelFemalePlural>Zwergdackel</SCMiniatureDachshund.lifeStages.1.labelFemalePlural>
+  <SCMiniatureDachshund.lifeStages.2.label>Zwergdackel</SCMiniatureDachshund.lifeStages.2.label>
+  <SCMiniatureDachshund.lifeStages.2.labelPlural>Zwergdackel</SCMiniatureDachshund.lifeStages.2.labelPlural>
+  <SCMiniatureDachshund.lifeStages.2.labelMale>Zwergdackel</SCMiniatureDachshund.lifeStages.2.labelMale>
+  <SCMiniatureDachshund.lifeStages.2.labelMalePlural>Zwergdackel</SCMiniatureDachshund.lifeStages.2.labelMalePlural>
+  <SCMiniatureDachshund.lifeStages.2.labelFemale>Zwergdackel</SCMiniatureDachshund.lifeStages.2.labelFemale>
+  <SCMiniatureDachshund.lifeStages.2.labelFemalePlural>Zwergdackel</SCMiniatureDachshund.lifeStages.2.labelFemalePlural>
+  <SCMiniatureDachshund.labelMale>Zwergdackel</SCMiniatureDachshund.labelMale>
+  <SCMiniatureDachshund.labelMalePlural>Zwergdackel</SCMiniatureDachshund.labelMalePlural>
+  <SCMiniatureDachshund.labelFemale>Zwergdackel</SCMiniatureDachshund.labelFemale>
+  <SCMiniatureDachshund.labelFemalePlural>Zwergdackel</SCMiniatureDachshund.labelFemalePlural>
+  <!-- Miniature Schnauzer -->
+  <SCSchnauzer.label>Zwergschnauzer</SCSchnauzer.label>
+  <SCSchnauzer.labelPlural>Zwergschnauzer</SCSchnauzer.labelPlural>
+  <SCSchnauzer.lifeStages.0.label>Zwergschnauzerwelpe</SCSchnauzer.lifeStages.0.label>
+  <SCSchnauzer.lifeStages.0.labelPlural>Zwergschnauzerwelpen</SCSchnauzer.lifeStages.0.labelPlural>
+  <SCSchnauzer.lifeStages.0.labelMale>Zwergschnauzerwelpe</SCSchnauzer.lifeStages.0.labelMale>
+  <SCSchnauzer.lifeStages.0.labelMalePlural>Zwergschnauzerwelpen</SCSchnauzer.lifeStages.0.labelMalePlural>
+  <SCSchnauzer.lifeStages.0.labelFemale>Zwergschnauzerwelpe</SCSchnauzer.lifeStages.0.labelFemale>
+  <SCSchnauzer.lifeStages.0.labelFemalePlural>Zwergschnauzerwelpen</SCSchnauzer.lifeStages.0.labelFemalePlural>
+  <SCSchnauzer.lifeStages.1.label>Zwergschnauzer</SCSchnauzer.lifeStages.1.label>
+  <SCSchnauzer.lifeStages.1.labelPlural>Zwergschnauzer</SCSchnauzer.lifeStages.1.labelPlural>
+  <SCSchnauzer.lifeStages.1.labelMale>Zwergschnauzer</SCSchnauzer.lifeStages.1.labelMale>
+  <SCSchnauzer.lifeStages.1.labelMalePlural>Zwergschnauzer</SCSchnauzer.lifeStages.1.labelMalePlural>
+  <SCSchnauzer.lifeStages.1.labelFemale>Zwergschnauzer</SCSchnauzer.lifeStages.1.labelFemale>
+  <SCSchnauzer.lifeStages.1.labelFemalePlural>Zwergschnauzer</SCSchnauzer.lifeStages.1.labelFemalePlural>
+  <SCSchnauzer.lifeStages.2.label>Zwergschnauzer</SCSchnauzer.lifeStages.2.label>
+  <SCSchnauzer.lifeStages.2.labelPlural>Zwergschnauzer</SCSchnauzer.lifeStages.2.labelPlural>
+  <SCSchnauzer.lifeStages.2.labelMale>Zwergschnauzer</SCSchnauzer.lifeStages.2.labelMale>
+  <SCSchnauzer.lifeStages.2.labelMalePlural>Zwergschnauzer</SCSchnauzer.lifeStages.2.labelMalePlural>
+  <SCSchnauzer.lifeStages.2.labelFemale>Zwergschnauzer</SCSchnauzer.lifeStages.2.labelFemale>
+  <SCSchnauzer.lifeStages.2.labelFemalePlural>Zwergschnauzer</SCSchnauzer.lifeStages.2.labelFemalePlural>
+  <SCSchnauzer.labelMale>Zwergschnauzer</SCSchnauzer.labelMale>
+  <SCSchnauzer.labelMalePlural>Zwergschnauzer</SCSchnauzer.labelMalePlural>
+  <SCSchnauzer.labelFemale>Zwergschnauzer</SCSchnauzer.labelFemale>
+  <SCSchnauzer.labelFemalePlural>Zwergschnauzer</SCSchnauzer.labelFemalePlural>
+  <!-- Pug -->
+  <SCPug.label>Mops</SCPug.label>
+  <SCPug.labelPlural>Möpse</SCPug.labelPlural>
+  <SCPug.lifeStages.0.label>Mopswelpe</SCPug.lifeStages.0.label>
+  <SCPug.lifeStages.0.labelPlural>Mopswelpen</SCPug.lifeStages.0.labelPlural>
+  <SCPug.lifeStages.0.labelMale>Mopswelpe</SCPug.lifeStages.0.labelMale>
+  <SCPug.lifeStages.0.labelMalePlural>Mopswelpen</SCPug.lifeStages.0.labelMalePlural>
+  <SCPug.lifeStages.0.labelFemale>Mopswelpe</SCPug.lifeStages.0.labelFemale>
+  <SCPug.lifeStages.0.labelFemalePlural>Mopswelpen</SCPug.lifeStages.0.labelFemalePlural>
+  <SCPug.lifeStages.1.label>Mops</SCPug.lifeStages.1.label>
+  <SCPug.lifeStages.1.labelPlural>Möpse</SCPug.lifeStages.1.labelPlural>
+  <SCPug.lifeStages.1.labelMale>Mops</SCPug.lifeStages.1.labelMale>
+  <SCPug.lifeStages.1.labelMalePlural>Möpse</SCPug.lifeStages.1.labelMalePlural>
+  <SCPug.lifeStages.1.labelFemale>Mops</SCPug.lifeStages.1.labelFemale>
+  <SCPug.lifeStages.1.labelFemalePlural>Möpse</SCPug.lifeStages.1.labelFemalePlural>
+  <SCPug.lifeStages.2.label>Mops</SCPug.lifeStages.2.label>
+  <SCPug.lifeStages.2.labelPlural>Möpse</SCPug.lifeStages.2.labelPlural>
+  <SCPug.lifeStages.2.labelMale>Mops</SCPug.lifeStages.2.labelMale>
+  <SCPug.lifeStages.2.labelMalePlural>Möpse</SCPug.lifeStages.2.labelMalePlural>
+  <SCPug.lifeStages.2.labelFemale>Mops</SCPug.lifeStages.2.labelFemale>
+  <SCPug.lifeStages.2.labelFemalePlural>Möpse</SCPug.lifeStages.2.labelFemalePlural>
+  <SCPug.labelMale>Mops</SCPug.labelMale>
+  <SCPug.labelMalePlural>Möpse</SCPug.labelMalePlural>
+  <SCPug.labelFemale>Mops</SCPug.labelFemale>
+  <SCPug.labelFemalePlural>Möpse</SCPug.labelFemalePlural>
+  <!-- Welsh Corgi -->
+  <SCWelshCorgi.label>Welsh Corgi</SCWelshCorgi.label>
+  <SCWelshCorgi.labelPlural>Welsh Corgwn</SCWelshCorgi.labelPlural>
+  <SCWelshCorgi.lifeStages.0.label>Welsh Corgi Welpe</SCWelshCorgi.lifeStages.0.label>
+  <SCWelshCorgi.lifeStages.0.labelPlural>Welsh Corgi Welpen</SCWelshCorgi.lifeStages.0.labelPlural>
+  <SCWelshCorgi.lifeStages.0.labelMale>Welsh Corgi Welpe</SCWelshCorgi.lifeStages.0.labelMale>
+  <SCWelshCorgi.lifeStages.0.labelMalePlural>Welsh Corgi Welpen</SCWelshCorgi.lifeStages.0.labelMalePlural>
+  <SCWelshCorgi.lifeStages.0.labelFemale>Welsh Corgi Welpe</SCWelshCorgi.lifeStages.0.labelFemale>
+  <SCWelshCorgi.lifeStages.0.labelFemalePlural>Welsh Corgi Welpen</SCWelshCorgi.lifeStages.0.labelFemalePlural>
+  <SCWelshCorgi.lifeStages.1.label>Welsh Corgi</SCWelshCorgi.lifeStages.1.label>
+  <SCWelshCorgi.lifeStages.1.labelPlural>Welsh Corgwn</SCWelshCorgi.lifeStages.1.labelPlural>
+  <SCWelshCorgi.lifeStages.1.labelMale>Welsh Corgi</SCWelshCorgi.lifeStages.1.labelMale>
+  <SCWelshCorgi.lifeStages.1.labelMalePlural>Welsh Corgwn</SCWelshCorgi.lifeStages.1.labelMalePlural>
+  <SCWelshCorgi.lifeStages.1.labelFemale>Welsh Corgi</SCWelshCorgi.lifeStages.1.labelFemale>
+  <SCWelshCorgi.lifeStages.1.labelFemalePlural>Welsh Corgwn</SCWelshCorgi.lifeStages.1.labelFemalePlural>
+  <SCWelshCorgi.lifeStages.2.label>Welsh Corgi</SCWelshCorgi.lifeStages.2.label>
+  <SCWelshCorgi.lifeStages.2.labelPlural>Welsh Corgwn</SCWelshCorgi.lifeStages.2.labelPlural>
+  <SCWelshCorgi.lifeStages.2.labelMale>Welsh Corgi</SCWelshCorgi.lifeStages.2.labelMale>
+  <SCWelshCorgi.lifeStages.2.labelMalePlural>Welsh Corgwn</SCWelshCorgi.lifeStages.2.labelMalePlural>
+  <SCWelshCorgi.lifeStages.2.labelFemale>Welsh Corgi</SCWelshCorgi.lifeStages.2.labelFemale>
+  <SCWelshCorgi.lifeStages.2.labelFemalePlural>Welsh Corgwn</SCWelshCorgi.lifeStages.2.labelFemalePlural>
+  <SCWelshCorgi.labelMale>Welsh Corgi</SCWelshCorgi.labelMale>
+  <SCWelshCorgi.labelMalePlural>Welsh Corgwn</SCWelshCorgi.labelMalePlural>
+  <SCWelshCorgi.labelFemale>Welsh Corgi</SCWelshCorgi.labelFemale>
+  <SCWelshCorgi.labelFemalePlural>Welsh Corgwn</SCWelshCorgi.labelFemalePlural>
+  <!-- Afghan Hound -->
+  <SCAfghanHound.label>Afghanischer Windhund</SCAfghanHound.label>
+  <SCAfghanHound.labelPlural>Afghanische Windhunde</SCAfghanHound.labelPlural>
+  <SCAfghanHound.lifeStages.0.label>Afghanischer Windhund Welpe</SCAfghanHound.lifeStages.0.label>
+  <SCAfghanHound.lifeStages.0.labelPlural>Afghanische Windhund Welpen</SCAfghanHound.lifeStages.0.labelPlural>
+  <SCAfghanHound.lifeStages.0.labelMale>Afghanischer Windhund Welpe</SCAfghanHound.lifeStages.0.labelMale>
+  <SCAfghanHound.lifeStages.0.labelMalePlural>Afghanische Windhund Welpen</SCAfghanHound.lifeStages.0.labelMalePlural>
+  <SCAfghanHound.lifeStages.0.labelFemale>Afghanischer Windhund Welpe</SCAfghanHound.lifeStages.0.labelFemale>
+  <SCAfghanHound.lifeStages.0.labelFemalePlural>Afghanische Windhund Welpen</SCAfghanHound.lifeStages.0.labelFemalePlural>
+  <SCAfghanHound.lifeStages.1.label>Afghanischer Windhund</SCAfghanHound.lifeStages.1.label>
+  <SCAfghanHound.lifeStages.1.labelPlural>Afghanische Windhunde</SCAfghanHound.lifeStages.1.labelPlural>
+  <SCAfghanHound.lifeStages.1.labelMale>Afghanischer Windhund</SCAfghanHound.lifeStages.1.labelMale>
+  <SCAfghanHound.lifeStages.1.labelMalePlural>Afghanische Windhunde</SCAfghanHound.lifeStages.1.labelMalePlural>
+  <SCAfghanHound.lifeStages.1.labelFemale>Afghanischer Windhund</SCAfghanHound.lifeStages.1.labelFemale>
+  <SCAfghanHound.lifeStages.1.labelFemalePlural>Afghanische Windhunde</SCAfghanHound.lifeStages.1.labelFemalePlural>
+  <SCAfghanHound.lifeStages.2.label>Afghanischer Windhund</SCAfghanHound.lifeStages.2.label>
+  <SCAfghanHound.lifeStages.2.labelPlural>Afghanische Windhunde</SCAfghanHound.lifeStages.2.labelPlural>
+  <SCAfghanHound.lifeStages.2.labelMale>Afghanischer Windhund</SCAfghanHound.lifeStages.2.labelMale>
+  <SCAfghanHound.lifeStages.2.labelMalePlural>Afghanische Windhunde</SCAfghanHound.lifeStages.2.labelMalePlural>
+  <SCAfghanHound.lifeStages.2.labelFemale>Afghanischer Windhund</SCAfghanHound.lifeStages.2.labelFemale>
+  <SCAfghanHound.lifeStages.2.labelFemalePlural>Afghanische Windhunde</SCAfghanHound.lifeStages.2.labelFemalePlural>
+  <SCAfghanHound.labelMale>Afghanischer Windhund</SCAfghanHound.labelMale>
+  <SCAfghanHound.labelMalePlural>Afghanische Windhunde</SCAfghanHound.labelMalePlural>
+  <SCAfghanHound.labelFemale>Afghanischer Windhund</SCAfghanHound.labelFemale>
+  <SCAfghanHound.labelFemalePlural>Afghanische Windhunde</SCAfghanHound.labelFemalePlural>
+  <!-- Border Collie -->
+  <SCBorderCollie.label>Border Collie</SCBorderCollie.label>
+  <SCBorderCollie.labelPlural>Border Collies</SCBorderCollie.labelPlural>
+  <SCBorderCollie.lifeStages.0.label>Border Colliew Welpe</SCBorderCollie.lifeStages.0.label>
+  <SCBorderCollie.lifeStages.0.labelPlural>Border Colliew Welpen</SCBorderCollie.lifeStages.0.labelPlural>
+  <SCBorderCollie.lifeStages.0.labelMale>Border Colliew Welpe</SCBorderCollie.lifeStages.0.labelMale>
+  <SCBorderCollie.lifeStages.0.labelMalePlural>Border Colliew Welpen</SCBorderCollie.lifeStages.0.labelMalePlural>
+  <SCBorderCollie.lifeStages.0.labelFemale>Border Colliew Welpe</SCBorderCollie.lifeStages.0.labelFemale>
+  <SCBorderCollie.lifeStages.0.labelFemalePlural>Border Colliew Welpen</SCBorderCollie.lifeStages.0.labelFemalePlural>
+  <SCBorderCollie.lifeStages.1.label>Border Collie</SCBorderCollie.lifeStages.1.label>
+  <SCBorderCollie.lifeStages.1.labelPlural>Border Collies</SCBorderCollie.lifeStages.1.labelPlural>
+  <SCBorderCollie.lifeStages.1.labelMale>Border Collie</SCBorderCollie.lifeStages.1.labelMale>
+  <SCBorderCollie.lifeStages.1.labelMalePlural>Border Collies</SCBorderCollie.lifeStages.1.labelMalePlural>
+  <SCBorderCollie.lifeStages.1.labelFemale>Border Collie</SCBorderCollie.lifeStages.1.labelFemale>
+  <SCBorderCollie.lifeStages.1.labelFemalePlural>Border Collies</SCBorderCollie.lifeStages.1.labelFemalePlural>
+  <SCBorderCollie.lifeStages.2.label>Border Collie</SCBorderCollie.lifeStages.2.label>
+  <SCBorderCollie.lifeStages.2.labelPlural>Border Collies</SCBorderCollie.lifeStages.2.labelPlural>
+  <SCBorderCollie.lifeStages.2.labelMale>Border Collie</SCBorderCollie.lifeStages.2.labelMale>
+  <SCBorderCollie.lifeStages.2.labelMalePlural>Border Collies</SCBorderCollie.lifeStages.2.labelMalePlural>
+  <SCBorderCollie.lifeStages.2.labelFemale>Border Collie</SCBorderCollie.lifeStages.2.labelFemale>
+  <SCBorderCollie.lifeStages.2.labelFemalePlural>Border Collies</SCBorderCollie.lifeStages.2.labelFemalePlural>
+  <SCBorderCollie.labelMale>Border Collie</SCBorderCollie.labelMale>
+  <SCBorderCollie.labelMalePlural>Border Collies</SCBorderCollie.labelMalePlural>
+  <SCBorderCollie.labelFemale>Border Collie</SCBorderCollie.labelFemale>
+  <SCBorderCollie.labelFemalePlural>Border Collies</SCBorderCollie.labelFemalePlural>
+  <!-- Bull Terrier -->
+  <SCBullTerrier.label>Bullterrier</SCBullTerrier.label>
+  <SCBullTerrier.labelPlural>Bullterrier</SCBullTerrier.labelPlural>
+  <SCBullTerrier.lifeStages.0.label>Bullterrierwelpe</SCBullTerrier.lifeStages.0.label>
+  <SCBullTerrier.lifeStages.0.labelPlural>Bullterrierwelpen</SCBullTerrier.lifeStages.0.labelPlural>
+  <SCBullTerrier.lifeStages.0.labelMale>Bullterrierwelpe</SCBullTerrier.lifeStages.0.labelMale>
+  <SCBullTerrier.lifeStages.0.labelMalePlural>Bullterrierwelpen</SCBullTerrier.lifeStages.0.labelMalePlural>
+  <SCBullTerrier.lifeStages.0.labelFemale>Bullterrierwelpe</SCBullTerrier.lifeStages.0.labelFemale>
+  <SCBullTerrier.lifeStages.0.labelFemalePlural>Bullterrierwelpen</SCBullTerrier.lifeStages.0.labelFemalePlural>
+  <SCBullTerrier.lifeStages.1.label>Bullterrier</SCBullTerrier.lifeStages.1.label>
+  <SCBullTerrier.lifeStages.1.labelPlural>Bullterrier</SCBullTerrier.lifeStages.1.labelPlural>
+  <SCBullTerrier.lifeStages.1.labelMale>Bullterrier</SCBullTerrier.lifeStages.1.labelMale>
+  <SCBullTerrier.lifeStages.1.labelMalePlural>Bullterrier</SCBullTerrier.lifeStages.1.labelMalePlural>
+  <SCBullTerrier.lifeStages.1.labelFemale>Bullterrier</SCBullTerrier.lifeStages.1.labelFemale>
+  <SCBullTerrier.lifeStages.1.labelFemalePlural>Bullterrier</SCBullTerrier.lifeStages.1.labelFemalePlural>
+  <SCBullTerrier.lifeStages.2.label>Bullterrier</SCBullTerrier.lifeStages.2.label>
+  <SCBullTerrier.lifeStages.2.labelPlural>Bullterrier</SCBullTerrier.lifeStages.2.labelPlural>
+  <SCBullTerrier.lifeStages.2.labelMale>Bullterrier</SCBullTerrier.lifeStages.2.labelMale>
+  <SCBullTerrier.lifeStages.2.labelMalePlural>Bullterrier</SCBullTerrier.lifeStages.2.labelMalePlural>
+  <SCBullTerrier.lifeStages.2.labelFemale>Bullterrier</SCBullTerrier.lifeStages.2.labelFemale>
+  <SCBullTerrier.lifeStages.2.labelFemalePlural>Bullterrier</SCBullTerrier.lifeStages.2.labelFemalePlural>
+  <SCBullTerrier.labelMale>Bullterrier</SCBullTerrier.labelMale>
+  <SCBullTerrier.labelMalePlural>Bullterrier</SCBullTerrier.labelMalePlural>
+  <SCBullTerrier.labelFemale>Bullterrier</SCBullTerrier.labelFemale>
+  <SCBullTerrier.labelFemalePlural>Bullterrier</SCBullTerrier.labelFemalePlural>
+  <!-- chow chow -->
+  <SCChowchow.label>Chow-Chow</SCChowchow.label>
+  <SCChowchow.labelPlural>Chow-Chows</SCChowchow.labelPlural>
+  <SCChowchow.lifeStages.0.label>Chow-Chow Welpe</SCChowchow.lifeStages.0.label>
+  <SCChowchow.lifeStages.0.labelPlural>Chow-Chow Welpen</SCChowchow.lifeStages.0.labelPlural>
+  <SCChowchow.lifeStages.0.labelMale>Chow-Chow Welpe</SCChowchow.lifeStages.0.labelMale>
+  <SCChowchow.lifeStages.0.labelMalePlural>Chow-Chow Welpen</SCChowchow.lifeStages.0.labelMalePlural>
+  <SCChowchow.lifeStages.0.labelFemale>Chow-Chow Welpe</SCChowchow.lifeStages.0.labelFemale>
+  <SCChowchow.lifeStages.0.labelFemalePlural>Chow-Chow Welpen</SCChowchow.lifeStages.0.labelFemalePlural>
+  <SCChowchow.lifeStages.1.label>Chow-Chow</SCChowchow.lifeStages.1.label>
+  <SCChowchow.lifeStages.1.labelPlural>Chow-Chows</SCChowchow.lifeStages.1.labelPlural>
+  <SCChowchow.lifeStages.1.labelMale>Chow-Chow</SCChowchow.lifeStages.1.labelMale>
+  <SCChowchow.lifeStages.1.labelMalePlural>Chow-Chows</SCChowchow.lifeStages.1.labelMalePlural>
+  <SCChowchow.lifeStages.1.labelFemale>Chow-Chow</SCChowchow.lifeStages.1.labelFemale>
+  <SCChowchow.lifeStages.1.labelFemalePlural>Chow-Chows</SCChowchow.lifeStages.1.labelFemalePlural>
+  <SCChowchow.lifeStages.2.label>Chow-Chow</SCChowchow.lifeStages.2.label>
+  <SCChowchow.lifeStages.2.labelPlural>Chow-Chows</SCChowchow.lifeStages.2.labelPlural>
+  <SCChowchow.lifeStages.2.labelMale>Chow-Chow</SCChowchow.lifeStages.2.labelMale>
+  <SCChowchow.lifeStages.2.labelMalePlural>Chow-Chows</SCChowchow.lifeStages.2.labelMalePlural>
+  <SCChowchow.lifeStages.2.labelFemale>Chow-Chow</SCChowchow.lifeStages.2.labelFemale>
+  <SCChowchow.lifeStages.2.labelFemalePlural>Chow-Chows</SCChowchow.lifeStages.2.labelFemalePlural>
+  <SCChowchow.labelMale>Chow-Chow</SCChowchow.labelMale>
+  <SCChowchow.labelMalePlural>Chow-Chows</SCChowchow.labelMalePlural>
+  <SCChowchow.labelFemale>Chow-Chow</SCChowchow.labelFemale>
+  <SCChowchow.labelFemalePlural>Chow-Chows</SCChowchow.labelFemalePlural>
+  <!-- collie -->
+  <SCCollie.label>Collie</SCCollie.label>
+  <SCCollie.labelPlural>Collies</SCCollie.labelPlural>
+  <SCCollie.lifeStages.0.label>Colliewelpe</SCCollie.lifeStages.0.label>
+  <SCCollie.lifeStages.0.labelPlural>Colliewelpen</SCCollie.lifeStages.0.labelPlural>
+  <SCCollie.lifeStages.0.labelMale>Colliewelpe</SCCollie.lifeStages.0.labelMale>
+  <SCCollie.lifeStages.0.labelMalePlural>Colliewelpen</SCCollie.lifeStages.0.labelMalePlural>
+  <SCCollie.lifeStages.0.labelFemale>Colliewelpe</SCCollie.lifeStages.0.labelFemale>
+  <SCCollie.lifeStages.0.labelFemalePlural>Colliewelpen</SCCollie.lifeStages.0.labelFemalePlural>
+  <SCCollie.lifeStages.1.label>Collie</SCCollie.lifeStages.1.label>
+  <SCCollie.lifeStages.1.labelPlural>Collies</SCCollie.lifeStages.1.labelPlural>
+  <SCCollie.lifeStages.1.labelMale>Collie</SCCollie.lifeStages.1.labelMale>
+  <SCCollie.lifeStages.1.labelMalePlural>Collies</SCCollie.lifeStages.1.labelMalePlural>
+  <SCCollie.lifeStages.1.labelFemale>Collie</SCCollie.lifeStages.1.labelFemale>
+  <SCCollie.lifeStages.1.labelFemalePlural>Collies</SCCollie.lifeStages.1.labelFemalePlural>
+  <SCCollie.lifeStages.2.label>Collie</SCCollie.lifeStages.2.label>
+  <SCCollie.lifeStages.2.labelPlural>Collies</SCCollie.lifeStages.2.labelPlural>
+  <SCCollie.lifeStages.2.labelMale>Collie</SCCollie.lifeStages.2.labelMale>
+  <SCCollie.lifeStages.2.labelMalePlural>Collies</SCCollie.lifeStages.2.labelMalePlural>
+  <SCCollie.lifeStages.2.labelFemale>Collie</SCCollie.lifeStages.2.labelFemale>
+  <SCCollie.lifeStages.2.labelFemalePlural>Collies</SCCollie.lifeStages.2.labelFemalePlural>
+  <SCCollie.labelMale>Collie</SCCollie.labelMale>
+  <SCCollie.labelMalePlural>Collies</SCCollie.labelMalePlural>
+  <SCCollie.labelFemale>Collie</SCCollie.labelFemale>
+  <SCCollie.labelFemalePlural>Collies</SCCollie.labelFemalePlural>
+  <!-- Doberman -->
+  <SCDoberman.label>Dobermann</SCDoberman.label>
+  <SCDoberman.labelPlural>Dobermänner</SCDoberman.labelPlural>
+  <SCDoberman.lifeStages.0.label>Dobermannwelpe</SCDoberman.lifeStages.0.label>
+  <SCDoberman.lifeStages.0.labelPlural>Dobermannwelpen</SCDoberman.lifeStages.0.labelPlural>
+  <SCDoberman.lifeStages.0.labelMale>Dobermannwelpe</SCDoberman.lifeStages.0.labelMale>
+  <SCDoberman.lifeStages.0.labelMalePlural>Dobermannwelpen</SCDoberman.lifeStages.0.labelMalePlural>
+  <SCDoberman.lifeStages.0.labelFemale>Dobermannwelpe</SCDoberman.lifeStages.0.labelFemale>
+  <SCDoberman.lifeStages.0.labelFemalePlural>Dobermannwelpen</SCDoberman.lifeStages.0.labelFemalePlural>
+  <SCDoberman.lifeStages.1.label>Dobermann</SCDoberman.lifeStages.1.label>
+  <SCDoberman.lifeStages.1.labelPlural>Dobermänner</SCDoberman.lifeStages.1.labelPlural>
+  <SCDoberman.lifeStages.1.labelMale>Dobermann</SCDoberman.lifeStages.1.labelMale>
+  <SCDoberman.lifeStages.1.labelMalePlural>Dobermänner</SCDoberman.lifeStages.1.labelMalePlural>
+  <SCDoberman.lifeStages.1.labelFemale>Dobermann</SCDoberman.lifeStages.1.labelFemale>
+  <SCDoberman.lifeStages.1.labelFemalePlural>Dobermänner</SCDoberman.lifeStages.1.labelFemalePlural>
+  <SCDoberman.lifeStages.2.label>Dobermann</SCDoberman.lifeStages.2.label>
+  <SCDoberman.lifeStages.2.labelPlural>Dobermänner</SCDoberman.lifeStages.2.labelPlural>
+  <SCDoberman.lifeStages.2.labelMale>Dobermann</SCDoberman.lifeStages.2.labelMale>
+  <SCDoberman.lifeStages.2.labelMalePlural>Dobermänner</SCDoberman.lifeStages.2.labelMalePlural>
+  <SCDoberman.lifeStages.2.labelFemale>Dobermann</SCDoberman.lifeStages.2.labelFemale>
+  <SCDoberman.lifeStages.2.labelFemalePlural>Dobermänner</SCDoberman.lifeStages.2.labelFemalePlural>
+  <SCDoberman.labelMale>Dobermann</SCDoberman.labelMale>
+  <SCDoberman.labelMalePlural>Dobermänner</SCDoberman.labelMalePlural>
+  <SCDoberman.labelFemale>Dobermann</SCDoberman.labelFemale>
+  <SCDoberman.labelFemalePlural>Dobermänner</SCDoberman.labelFemalePlural>
+  <!-- Golden Retriever -->
+  <SCGoldenRetriever.label>Golden Retriever</SCGoldenRetriever.label>
+  <SCGoldenRetriever.labelPlural>Golden Retriever</SCGoldenRetriever.labelPlural>
+  <SCGoldenRetriever.lifeStages.0.label>Golden Retriever Welpe</SCGoldenRetriever.lifeStages.0.label>
+  <SCGoldenRetriever.lifeStages.0.labelPlural>Golden Retriever Welpen</SCGoldenRetriever.lifeStages.0.labelPlural>
+  <SCGoldenRetriever.lifeStages.0.labelMale>Golden Retriever Welpe</SCGoldenRetriever.lifeStages.0.labelMale>
+  <SCGoldenRetriever.lifeStages.0.labelMalePlural>Golden Retriever Welpen</SCGoldenRetriever.lifeStages.0.labelMalePlural>
+  <SCGoldenRetriever.lifeStages.0.labelFemale>Golden Retriever Welpe</SCGoldenRetriever.lifeStages.0.labelFemale>
+  <SCGoldenRetriever.lifeStages.0.labelFemalePlural>Golden Retriever Welpen</SCGoldenRetriever.lifeStages.0.labelFemalePlural>
+  <SCGoldenRetriever.lifeStages.1.label>Golden Retriever</SCGoldenRetriever.lifeStages.1.label>
+  <SCGoldenRetriever.lifeStages.1.labelPlural>Golden Retriever</SCGoldenRetriever.lifeStages.1.labelPlural>
+  <SCGoldenRetriever.lifeStages.1.labelMale>Golden Retriever</SCGoldenRetriever.lifeStages.1.labelMale>
+  <SCGoldenRetriever.lifeStages.1.labelMalePlural>Golden Retriever</SCGoldenRetriever.lifeStages.1.labelMalePlural>
+  <SCGoldenRetriever.lifeStages.1.labelFemale>Golden Retriever</SCGoldenRetriever.lifeStages.1.labelFemale>
+  <SCGoldenRetriever.lifeStages.1.labelFemalePlural>Golden Retriever</SCGoldenRetriever.lifeStages.1.labelFemalePlural>
+  <SCGoldenRetriever.lifeStages.2.label>Golden Retriever</SCGoldenRetriever.lifeStages.2.label>
+  <SCGoldenRetriever.lifeStages.2.labelPlural>Golden Retriever</SCGoldenRetriever.lifeStages.2.labelPlural>
+  <SCGoldenRetriever.lifeStages.2.labelMale>Golden Retriever</SCGoldenRetriever.lifeStages.2.labelMale>
+  <SCGoldenRetriever.lifeStages.2.labelMalePlural>Golden Retriever</SCGoldenRetriever.lifeStages.2.labelMalePlural>
+  <SCGoldenRetriever.lifeStages.2.labelFemale>Golden Retriever</SCGoldenRetriever.lifeStages.2.labelFemale>
+  <SCGoldenRetriever.lifeStages.2.labelFemalePlural>Golden Retriever</SCGoldenRetriever.lifeStages.2.labelFemalePlural>
+  <SCGoldenRetriever.labelMale>Golden Retriever</SCGoldenRetriever.labelMale>
+  <SCGoldenRetriever.labelMalePlural>Golden Retriever</SCGoldenRetriever.labelMalePlural>
+  <SCGoldenRetriever.labelFemale>Golden Retriever</SCGoldenRetriever.labelFemale>
+  <SCGoldenRetriever.labelFemalePlural>Golden Retriever</SCGoldenRetriever.labelFemalePlural>
+  <!-- Greyhound -->
+  <SCGreyhound.label>Greyhound</SCGreyhound.label>
+  <SCGreyhound.labelPlural>Greyhounds</SCGreyhound.labelPlural>
+  <SCGreyhound.lifeStages.0.label>Greyhoundwelpe</SCGreyhound.lifeStages.0.label>
+  <SCGreyhound.lifeStages.0.labelPlural>Greyhoundwelpen</SCGreyhound.lifeStages.0.labelPlural>
+  <SCGreyhound.lifeStages.0.labelMale>Greyhoundwelpe</SCGreyhound.lifeStages.0.labelMale>
+  <SCGreyhound.lifeStages.0.labelMalePlural>Greyhoundwelpen</SCGreyhound.lifeStages.0.labelMalePlural>
+  <SCGreyhound.lifeStages.0.labelFemale>Greyhoundwelpe</SCGreyhound.lifeStages.0.labelFemale>
+  <SCGreyhound.lifeStages.0.labelFemalePlural>Greyhoundwelpen</SCGreyhound.lifeStages.0.labelFemalePlural>
+  <SCGreyhound.lifeStages.1.label>Greyhound</SCGreyhound.lifeStages.1.label>
+  <SCGreyhound.lifeStages.1.labelPlural>Greyhounds</SCGreyhound.lifeStages.1.labelPlural>
+  <SCGreyhound.lifeStages.1.labelMale>Greyhound</SCGreyhound.lifeStages.1.labelMale>
+  <SCGreyhound.lifeStages.1.labelMalePlural>Greyhounds</SCGreyhound.lifeStages.1.labelMalePlural>
+  <SCGreyhound.lifeStages.1.labelFemale>Greyhound</SCGreyhound.lifeStages.1.labelFemale>
+  <SCGreyhound.lifeStages.1.labelFemalePlural>Greyhounds</SCGreyhound.lifeStages.1.labelFemalePlural>
+  <SCGreyhound.lifeStages.2.label>Greyhound</SCGreyhound.lifeStages.2.label>
+  <SCGreyhound.lifeStages.2.labelPlural>Greyhounds</SCGreyhound.lifeStages.2.labelPlural>
+  <SCGreyhound.lifeStages.2.labelMale>Greyhound</SCGreyhound.lifeStages.2.labelMale>
+  <SCGreyhound.lifeStages.2.labelMalePlural>Greyhounds</SCGreyhound.lifeStages.2.labelMalePlural>
+  <SCGreyhound.lifeStages.2.labelFemale>Greyhound</SCGreyhound.lifeStages.2.labelFemale>
+  <SCGreyhound.lifeStages.2.labelFemalePlural>Greyhounds</SCGreyhound.lifeStages.2.labelFemalePlural>
+  <SCGreyhound.labelMale>Greyhound</SCGreyhound.labelMale>
+  <SCGreyhound.labelMalePlural>Greyhounds</SCGreyhound.labelMalePlural>
+  <SCGreyhound.labelFemale>Greyhound</SCGreyhound.labelFemale>
+  <SCGreyhound.labelFemalePlural>Greyhounds</SCGreyhound.labelFemalePlural>
+  <!-- Old English Sheepdog -->
+  <SCOldEnglishSheepdog.label>Bobtail</SCOldEnglishSheepdog.label>
+  <SCOldEnglishSheepdog.labelPlural>Bobtails</SCOldEnglishSheepdog.labelPlural>
+  <SCOldEnglishSheepdog.lifeStages.0.label>Bobtailwelpe</SCOldEnglishSheepdog.lifeStages.0.label>
+  <SCOldEnglishSheepdog.lifeStages.0.labelPlural>Bobtailwelpen</SCOldEnglishSheepdog.lifeStages.0.labelPlural>
+  <SCOldEnglishSheepdog.lifeStages.0.labelMale>Bobtailwelpe</SCOldEnglishSheepdog.lifeStages.0.labelMale>
+  <SCOldEnglishSheepdog.lifeStages.0.labelMalePlural>Bobtailwelpen</SCOldEnglishSheepdog.lifeStages.0.labelMalePlural>
+  <SCOldEnglishSheepdog.lifeStages.0.labelFemale>Bobtailwelpe</SCOldEnglishSheepdog.lifeStages.0.labelFemale>
+  <SCOldEnglishSheepdog.lifeStages.0.labelFemalePlural>Bobtailwelpen</SCOldEnglishSheepdog.lifeStages.0.labelFemalePlural>
+  <SCOldEnglishSheepdog.lifeStages.1.label>Bobtail</SCOldEnglishSheepdog.lifeStages.1.label>
+  <SCOldEnglishSheepdog.lifeStages.1.labelPlural>Bobtails</SCOldEnglishSheepdog.lifeStages.1.labelPlural>
+  <SCOldEnglishSheepdog.lifeStages.1.labelMale>Bobtail</SCOldEnglishSheepdog.lifeStages.1.labelMale>
+  <SCOldEnglishSheepdog.lifeStages.1.labelMalePlural>Bobtails</SCOldEnglishSheepdog.lifeStages.1.labelMalePlural>
+  <SCOldEnglishSheepdog.lifeStages.1.labelFemale>Bobtail</SCOldEnglishSheepdog.lifeStages.1.labelFemale>
+  <SCOldEnglishSheepdog.lifeStages.1.labelFemalePlural>Bobtails</SCOldEnglishSheepdog.lifeStages.1.labelFemalePlural>
+  <SCOldEnglishSheepdog.lifeStages.2.label>Bobtail</SCOldEnglishSheepdog.lifeStages.2.label>
+  <SCOldEnglishSheepdog.lifeStages.2.labelPlural>Bobtails</SCOldEnglishSheepdog.lifeStages.2.labelPlural>
+  <SCOldEnglishSheepdog.lifeStages.2.labelMale>Bobtail</SCOldEnglishSheepdog.lifeStages.2.labelMale>
+  <SCOldEnglishSheepdog.lifeStages.2.labelMalePlural>Bobtails</SCOldEnglishSheepdog.lifeStages.2.labelMalePlural>
+  <SCOldEnglishSheepdog.lifeStages.2.labelFemale>Bobtail</SCOldEnglishSheepdog.lifeStages.2.labelFemale>
+  <SCOldEnglishSheepdog.lifeStages.2.labelFemalePlural>Bobtails</SCOldEnglishSheepdog.lifeStages.2.labelFemalePlural>
+  <SCOldEnglishSheepdog.labelMale>Bobtail</SCOldEnglishSheepdog.labelMale>
+  <SCOldEnglishSheepdog.labelMalePlural>Bobtails</SCOldEnglishSheepdog.labelMalePlural>
+  <SCOldEnglishSheepdog.labelFemale>Bobtail</SCOldEnglishSheepdog.labelFemale>
+  <SCOldEnglishSheepdog.labelFemalePlural>Bobtails</SCOldEnglishSheepdog.labelFemalePlural>
+  <!-- Standard Poodle -->
+  <SCStandardPoodle.label>Großpudel</SCStandardPoodle.label>
+  <SCStandardPoodle.labelPlural>Großpudel</SCStandardPoodle.labelPlural>
+  <SCStandardPoodle.lifeStages.0.label>Großpudelwelpe</SCStandardPoodle.lifeStages.0.label>
+  <SCStandardPoodle.lifeStages.0.labelPlural>Großpudelwelpen</SCStandardPoodle.lifeStages.0.labelPlural>
+  <SCStandardPoodle.lifeStages.0.labelMale>Großpudelwelpe</SCStandardPoodle.lifeStages.0.labelMale>
+  <SCStandardPoodle.lifeStages.0.labelMalePlural>Großpudelwelpen</SCStandardPoodle.lifeStages.0.labelMalePlural>
+  <SCStandardPoodle.lifeStages.0.labelFemale>Großpudelwelpe</SCStandardPoodle.lifeStages.0.labelFemale>
+  <SCStandardPoodle.lifeStages.0.labelFemalePlural>Großpudelwelpen</SCStandardPoodle.lifeStages.0.labelFemalePlural>
+  <SCStandardPoodle.lifeStages.1.label>Großpudel</SCStandardPoodle.lifeStages.1.label>
+  <SCStandardPoodle.lifeStages.1.labelPlural>Großpudel</SCStandardPoodle.lifeStages.1.labelPlural>
+  <SCStandardPoodle.lifeStages.1.labelMale>Großpudel</SCStandardPoodle.lifeStages.1.labelMale>
+  <SCStandardPoodle.lifeStages.1.labelMalePlural>Großpudel</SCStandardPoodle.lifeStages.1.labelMalePlural>
+  <SCStandardPoodle.lifeStages.1.labelFemale>Großpudel</SCStandardPoodle.lifeStages.1.labelFemale>
+  <SCStandardPoodle.lifeStages.1.labelFemalePlural>Großpudel</SCStandardPoodle.lifeStages.1.labelFemalePlural>
+  <SCStandardPoodle.lifeStages.2.label>Großpudel</SCStandardPoodle.lifeStages.2.label>
+  <SCStandardPoodle.lifeStages.2.labelPlural>Großpudel</SCStandardPoodle.lifeStages.2.labelPlural>
+  <SCStandardPoodle.lifeStages.2.labelMale>Großpudel</SCStandardPoodle.lifeStages.2.labelMale>
+  <SCStandardPoodle.lifeStages.2.labelMalePlural>Großpudel</SCStandardPoodle.lifeStages.2.labelMalePlural>
+  <SCStandardPoodle.lifeStages.2.labelFemale>Großpudel</SCStandardPoodle.lifeStages.2.labelFemale>
+  <SCStandardPoodle.lifeStages.2.labelFemalePlural>Großpudel</SCStandardPoodle.lifeStages.2.labelFemalePlural>
+  <SCStandardPoodle.labelMale>Großpudel</SCStandardPoodle.labelMale>
+  <SCStandardPoodle.labelMalePlural>Großpudel</SCStandardPoodle.labelMalePlural>
+  <SCStandardPoodle.labelFemale>Großpudel</SCStandardPoodle.labelFemale>
+  <SCStandardPoodle.labelFemalePlural>Großpudel</SCStandardPoodle.labelFemalePlural>
+  <!-- Borzoi -->
+  <SCBorzoi.label>Barsoi</SCBorzoi.label>
+  <SCBorzoi.labelPlural>Barsois</SCBorzoi.labelPlural>
+  <SCBorzoi.lifeStages.0.label>Barsoiwelpe</SCBorzoi.lifeStages.0.label>
+  <SCBorzoi.lifeStages.0.labelPlural>Barsoiwelpen</SCBorzoi.lifeStages.0.labelPlural>
+  <SCBorzoi.lifeStages.0.labelMale>Barsoiwelpe</SCBorzoi.lifeStages.0.labelMale>
+  <SCBorzoi.lifeStages.0.labelMalePlural>Barsoiwelpen</SCBorzoi.lifeStages.0.labelMalePlural>
+  <SCBorzoi.lifeStages.0.labelFemale>Barsoiwelpe</SCBorzoi.lifeStages.0.labelFemale>
+  <SCBorzoi.lifeStages.0.labelFemalePlural>Barsoiwelpen</SCBorzoi.lifeStages.0.labelFemalePlural>
+  <SCBorzoi.lifeStages.1.label>Barsoi</SCBorzoi.lifeStages.1.label>
+  <SCBorzoi.lifeStages.1.labelPlural>Barsois</SCBorzoi.lifeStages.1.labelPlural>
+  <SCBorzoi.lifeStages.1.labelMale>Barsoi</SCBorzoi.lifeStages.1.labelMale>
+  <SCBorzoi.lifeStages.1.labelMalePlural>Barsois</SCBorzoi.lifeStages.1.labelMalePlural>
+  <SCBorzoi.lifeStages.1.labelFemale>Barsoi</SCBorzoi.lifeStages.1.labelFemale>
+  <SCBorzoi.lifeStages.1.labelFemalePlural>Barsois</SCBorzoi.lifeStages.1.labelFemalePlural>
+  <SCBorzoi.lifeStages.2.label>Barsoi</SCBorzoi.lifeStages.2.label>
+  <SCBorzoi.lifeStages.2.labelPlural>Barsois</SCBorzoi.lifeStages.2.labelPlural>
+  <SCBorzoi.lifeStages.2.labelMale>Barsoi</SCBorzoi.lifeStages.2.labelMale>
+  <SCBorzoi.lifeStages.2.labelMalePlural>Barsois</SCBorzoi.lifeStages.2.labelMalePlural>
+  <SCBorzoi.lifeStages.2.labelFemale>Barsoi</SCBorzoi.lifeStages.2.labelFemale>
+  <SCBorzoi.lifeStages.2.labelFemalePlural>Barsois</SCBorzoi.lifeStages.2.labelFemalePlural>
+  <SCBorzoi.labelMale>Barsoi</SCBorzoi.labelMale>
+  <SCBorzoi.labelMalePlural>Barsois</SCBorzoi.labelMalePlural>
+  <SCBorzoi.labelFemale>Barsoi</SCBorzoi.labelFemale>
+  <SCBorzoi.labelFemalePlural>Barsois</SCBorzoi.labelFemalePlural>
+  <!-- bull mastiff -->
+  <SCBullmastiff.label>Bullmastiff</SCBullmastiff.label>
+  <SCBullmastiff.labelPlural>Bullmastiffs</SCBullmastiff.labelPlural>
+  <SCBullmastiff.lifeStages.0.label>Bull Mastiff Puppy</SCBullmastiff.lifeStages.0.label>
+  <SCBullmastiff.lifeStages.0.labelPlural>Bull Mastiff Puppies</SCBullmastiff.lifeStages.0.labelPlural>
+  <SCBullmastiff.lifeStages.0.labelMale>male Bull Mastiff Puppy</SCBullmastiff.lifeStages.0.labelMale>
+  <SCBullmastiff.lifeStages.0.labelMalePlural>male Bull Mastiff Puppies</SCBullmastiff.lifeStages.0.labelMalePlural>
+  <SCBullmastiff.lifeStages.0.labelFemale>female Bull Mastiff Puppy</SCBullmastiff.lifeStages.0.labelFemale>
+  <SCBullmastiff.lifeStages.0.labelFemalePlural>female Bull Mastiff Puppies</SCBullmastiff.lifeStages.0.labelFemalePlural>
+  <SCBullmastiff.lifeStages.1.label>Bullmastiff</SCBullmastiff.lifeStages.1.label>
+  <SCBullmastiff.lifeStages.1.labelPlural>Bullmastiffs</SCBullmastiff.lifeStages.1.labelPlural>
+  <SCBullmastiff.lifeStages.1.labelMale>Bullmastiff</SCBullmastiff.lifeStages.1.labelMale>
+  <SCBullmastiff.lifeStages.1.labelMalePlural>Bullmastiffs</SCBullmastiff.lifeStages.1.labelMalePlural>
+  <SCBullmastiff.lifeStages.1.labelFemale>Bullmastiff</SCBullmastiff.lifeStages.1.labelFemale>
+  <SCBullmastiff.lifeStages.1.labelFemalePlural>Bullmastiffs</SCBullmastiff.lifeStages.1.labelFemalePlural>
+  <SCBullmastiff.lifeStages.2.label>Bullmastiff</SCBullmastiff.lifeStages.2.label>
+  <SCBullmastiff.lifeStages.2.labelPlural>Bullmastiffs</SCBullmastiff.lifeStages.2.labelPlural>
+  <SCBullmastiff.lifeStages.2.labelMale>Bullmastiff</SCBullmastiff.lifeStages.2.labelMale>
+  <SCBullmastiff.lifeStages.2.labelMalePlural>Bullmastiffs</SCBullmastiff.lifeStages.2.labelMalePlural>
+  <SCBullmastiff.lifeStages.2.labelFemale>Bullmastiff</SCBullmastiff.lifeStages.2.labelFemale>
+  <SCBullmastiff.lifeStages.2.labelFemalePlural>Bullmastiffs</SCBullmastiff.lifeStages.2.labelFemalePlural>
+  <SCBullmastiff.labelMale>Bullmastiff</SCBullmastiff.labelMale>
+  <SCBullmastiff.labelMalePlural>Bullmastiffs</SCBullmastiff.labelMalePlural>
+  <SCBullmastiff.labelFemale>Bullmastiff</SCBullmastiff.labelFemale>
+  <SCBullmastiff.labelFemalePlural>Bullmastiffs</SCBullmastiff.labelFemalePlural>
+  <!-- Caucasian shepherd -->
+  <SCCaucasianshepherd.label>Kaukasischer Owtscharka</SCCaucasianshepherd.label>
+  <SCCaucasianshepherd.labelPlural>Kaukasische Owtscharkas</SCCaucasianshepherd.labelPlural>
+  <SCCaucasianshepherd.lifeStages.0.label>Kaukasischer Owtscharka Welpe</SCCaucasianshepherd.lifeStages.0.label>
+  <SCCaucasianshepherd.lifeStages.0.labelPlural>Kaukasische Owtscharka Welpen</SCCaucasianshepherd.lifeStages.0.labelPlural>
+  <SCCaucasianshepherd.lifeStages.0.labelMale>Kaukasischer Owtscharka Welpe</SCCaucasianshepherd.lifeStages.0.labelMale>
+  <SCCaucasianshepherd.lifeStages.0.labelMalePlural>Kaukasische Owtscharka Welpen</SCCaucasianshepherd.lifeStages.0.labelMalePlural>
+  <SCCaucasianshepherd.lifeStages.0.labelFemale>Kaukasischer Owtscharka Welpe</SCCaucasianshepherd.lifeStages.0.labelFemale>
+  <SCCaucasianshepherd.lifeStages.0.labelFemalePlural>Kaukasische Owtscharka Welpen</SCCaucasianshepherd.lifeStages.0.labelFemalePlural>
+  <SCCaucasianshepherd.lifeStages.1.label>Kaukasischer Owtscharka</SCCaucasianshepherd.lifeStages.1.label>
+  <SCCaucasianshepherd.lifeStages.1.labelPlural>Kaukasische Owtscharkas</SCCaucasianshepherd.lifeStages.1.labelPlural>
+  <SCCaucasianshepherd.lifeStages.1.labelMale>Kaukasischer Owtscharka</SCCaucasianshepherd.lifeStages.1.labelMale>
+  <SCCaucasianshepherd.lifeStages.1.labelMalePlural>Kaukasische Owtscharkas</SCCaucasianshepherd.lifeStages.1.labelMalePlural>
+  <SCCaucasianshepherd.lifeStages.1.labelFemale>Kaukasischer Owtscharka</SCCaucasianshepherd.lifeStages.1.labelFemale>
+  <SCCaucasianshepherd.lifeStages.1.labelFemalePlural>Kaukasische Owtscharkas</SCCaucasianshepherd.lifeStages.1.labelFemalePlural>
+  <SCCaucasianshepherd.lifeStages.2.label>Kaukasischer Owtscharka</SCCaucasianshepherd.lifeStages.2.label>
+  <SCCaucasianshepherd.lifeStages.2.labelPlural>Kaukasische Owtscharkas</SCCaucasianshepherd.lifeStages.2.labelPlural>
+  <SCCaucasianshepherd.lifeStages.2.labelMale>Kaukasischer Owtscharka</SCCaucasianshepherd.lifeStages.2.labelMale>
+  <SCCaucasianshepherd.lifeStages.2.labelMalePlural>Kaukasische Owtscharkas</SCCaucasianshepherd.lifeStages.2.labelMalePlural>
+  <SCCaucasianshepherd.lifeStages.2.labelFemale>Kaukasischer Owtscharka</SCCaucasianshepherd.lifeStages.2.labelFemale>
+  <SCCaucasianshepherd.lifeStages.2.labelFemalePlural>Kaukasische Owtscharkas</SCCaucasianshepherd.lifeStages.2.labelFemalePlural>
+  <SCCaucasianshepherd.labelMale>Kaukasischer Owtscharka</SCCaucasianshepherd.labelMale>
+  <SCCaucasianshepherd.labelMalePlural>Kaukasische Owtscharkas</SCCaucasianshepherd.labelMalePlural>
+  <SCCaucasianshepherd.labelFemale>Kaukasischer Owtscharka</SCCaucasianshepherd.labelFemale>
+  <SCCaucasianshepherd.labelFemalePlural>Kaukasische Owtscharkas</SCCaucasianshepherd.labelFemalePlural>
+  <!-- Saint Bernard -->
+  <SCSaintbernard.label>Bernhardiner</SCSaintbernard.label>
+  <SCSaintbernard.labelPlural>Bernhardiner</SCSaintbernard.labelPlural>
+  <SCSaintbernard.lifeStages.0.label>Bernhardinerwelpe</SCSaintbernard.lifeStages.0.label>
+  <SCSaintbernard.lifeStages.0.labelPlural>Bernhardinerwelpen</SCSaintbernard.lifeStages.0.labelPlural>
+  <SCSaintbernard.lifeStages.0.labelMale>Bernhardinerwelpe</SCSaintbernard.lifeStages.0.labelMale>
+  <SCSaintbernard.lifeStages.0.labelMalePlural>Bernhardinerwelpen</SCSaintbernard.lifeStages.0.labelMalePlural>
+  <SCSaintbernard.lifeStages.0.labelFemale>Bernhardinerwelpe</SCSaintbernard.lifeStages.0.labelFemale>
+  <SCSaintbernard.lifeStages.0.labelFemalePlural>Bernhardinerwelpen</SCSaintbernard.lifeStages.0.labelFemalePlural>
+  <SCSaintbernard.lifeStages.1.label>Bernhardiner</SCSaintbernard.lifeStages.1.label>
+  <SCSaintbernard.lifeStages.1.labelPlural>Bernhardiner</SCSaintbernard.lifeStages.1.labelPlural>
+  <SCSaintbernard.lifeStages.1.labelMale>Bernhardiner</SCSaintbernard.lifeStages.1.labelMale>
+  <SCSaintbernard.lifeStages.1.labelMalePlural>Bernhardiner</SCSaintbernard.lifeStages.1.labelMalePlural>
+  <SCSaintbernard.lifeStages.1.labelFemale>Bernhardiner</SCSaintbernard.lifeStages.1.labelFemale>
+  <SCSaintbernard.lifeStages.1.labelFemalePlural>Bernhardiner</SCSaintbernard.lifeStages.1.labelFemalePlural>
+  <SCSaintbernard.lifeStages.2.label>Bernhardiner</SCSaintbernard.lifeStages.2.label>
+  <SCSaintbernard.lifeStages.2.labelPlural>Bernhardiner</SCSaintbernard.lifeStages.2.labelPlural>
+  <SCSaintbernard.lifeStages.2.labelMale>Bernhardiner</SCSaintbernard.lifeStages.2.labelMale>
+  <SCSaintbernard.lifeStages.2.labelMalePlural>Bernhardiner</SCSaintbernard.lifeStages.2.labelMalePlural>
+  <SCSaintbernard.lifeStages.2.labelFemale>Bernhardiner</SCSaintbernard.lifeStages.2.labelFemale>
+  <SCSaintbernard.lifeStages.2.labelFemalePlural>Bernhardiner</SCSaintbernard.lifeStages.2.labelFemalePlural>
+  <SCSaintbernard.labelMale>Bernhardiner</SCSaintbernard.labelMale>
+  <SCSaintbernard.labelMalePlural>Bernhardiner</SCSaintbernard.labelMalePlural>
+  <SCSaintbernard.labelFemale>Bernhardiner</SCSaintbernard.labelFemale>
+  <SCSaintbernard.labelFemalePlural>Bernhardiner</SCSaintbernard.labelFemalePlural>
+</LanguageData>

@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Miniature Dachshund -->
+  <MiniatureDachshund.label>Zwergdackel</MiniatureDachshund.label>
+  <MiniatureDachshund.description>Als liebenswerte Miniaturausgabe des Standard-Dackels wurden diese komisch geformten Hunde entwickelt, um bei der Schädlingsbekämpfung in herrschaftlichen Anlagen zu helfen. Sie haben sich schnell in die Herzen selbst der hartgesottensten Gutsverwalter gegraben.</MiniatureDachshund.description>
+  <MiniatureDachshund.tools.0.label>linke Klaue</MiniatureDachshund.tools.0.label>
+  <MiniatureDachshund.tools.1.label>rechte Klaue</MiniatureDachshund.tools.1.label>
+  <!-- Miniature Schnauzer -->
+  <Schnauzer.label>Zwergschnauzer</Schnauzer.label>
+  <Schnauzer.description>Eine Rasse, die typischerweise für die Jagd auf kleine Nagetiere gehalten wird. Kleiner Hund mit großem Biss. Nicht für kleine Kinder geeignet.</Schnauzer.description>
+  <Schnauzer.tools.0.label>linke Klaue</Schnauzer.tools.0.label>
+  <Schnauzer.tools.1.label>rechte Klaue</Schnauzer.tools.1.label>
+  <!-- Pug -->
+  <Pug.label>Mops</Pug.label>
+  <Pug.description>Möpse sind eine beliebte Rasse bei Königshäusern und gelten als humorvolle und familienfreundliche Begleiter.</Pug.description>
+  <Pug.tools.0.label>linke Klaue</Pug.tools.0.label>
+  <Pug.tools.1.label>rechte Klaue</Pug.tools.1.label>
+  <!-- Welsh Corgi -->
+  <WelshCorgi.label>welsh corgi</WelshCorgi.label>
+  <WelshCorgi.description>Der Welsh Corgi ist bekannt dafür, dass er die Lieblingsrasse der ältesten Königin der Welt ist. Er ist ein temperamentvoller, unabhängiger Begleiter mit einer Vorliebe für Schwierigkeiten.
+	
+	Zum Gedenken an Nugget - den süßesten, schrillsten und süßigkeitengierigsten Hund, der je durch die Galaxis getrabt ist.</WelshCorgi.description>
+  <WelshCorgi.tools.0.label>linke Klaue</WelshCorgi.tools.0.label>
+  <WelshCorgi.tools.1.label>rechte Klaue</WelshCorgi.tools.1.label>
+  <!-- Afghan Hound -->
+  <AfghanHound.label>Afghanischer Windhund</AfghanHound.label>
+  <AfghanHound.description>Ein uralter Jagdhund, der aus Wüsten in fernen Ländern stammt. Die meisten Windhunde können ihre Abstammung auf diese majestätischen Kreaturen zurückführen. Leider ist ihre Intelligenz nicht so beeindruckend wie ihr Aussehen.</AfghanHound.description>
+  <AfghanHound.tools.0.label>linke Klaue</AfghanHound.tools.0.label>
+  <AfghanHound.tools.1.label>rechte Klaue</AfghanHound.tools.1.label>
+  <!-- Border Collie -->
+  <BorderCollie.label>Border Collie</BorderCollie.label>
+  <BorderCollie.description>Ein energischer Hund, der für seine Loyalität geschätzt wird.</BorderCollie.description>
+  <BorderCollie.tools.0.label>linke Klaue</BorderCollie.tools.0.label>
+  <BorderCollie.tools.1.label>rechte Klaue</BorderCollie.tools.1.label>
+  <!-- Bull Terrier -->
+  <BullTerrier.label>Bullterrier</BullTerrier.label>
+  <BullTerrier.description>Ein energischer Hund, der für seine Loyalität geschätzt wird.</BullTerrier.description>
+  <BullTerrier.tools.0.label>linke Klaue</BullTerrier.tools.0.label>
+  <BullTerrier.tools.1.label>rechte Klaue</BullTerrier.tools.1.label>
+  <!-- chow chow -->
+  <Chowchow.label>Chow-Chow</Chowchow.label>
+  <Chowchow.description>Eine alte Rasse, die für ihr flauschiges Fell und ihren kräftigen Biss bekannt ist. Sie ist ein treuer Begleiter und ein furchterregender Gegner.</Chowchow.description>
+  <Chowchow.tools.0.label>linke Klaue</Chowchow.tools.0.label>
+  <Chowchow.tools.1.label>recht Klaue</Chowchow.tools.1.label>
+  <Chowchow.tools.3.label>Kopf</Chowchow.tools.3.label>
+  <!-- collie -->
+  <Collie.label>Collie</Collie.label>
+  <Collie.description>Der schönste Hund auf dem Rim. Ein geschätztes Haustier, das für seine Widerstandsfähigkeit bei kaltem Wetter bekannt ist.Der schönste Hund der Galaxis. Ein geschätztes Haustier, bekannt für seine Loyalität und Tapferkeit. Sie entwickeln eine besondere Bindung zu ihren menschlichen Artgenossen und sind häufig unter ihren Pfoten zu finden. Collies wurden populär, nachdem ein ganz besonderer Merle namens Bleu 3 Jahre in Folge den Preis "Man's Best Friend In the Rim" gewonnen hatte.</Collie.description>
+  <Collie.tools.0.label>linke Klaue</Collie.tools.0.label>
+  <Collie.tools.1.label>rechte Klaue</Collie.tools.1.label>
+  <Collie.tools.3.label>Kopf</Collie.tools.3.label>
+  <!-- Doberman -->
+  <Doberman.label>Dobermann</Doberman.label>
+  <Doberman.description>Sie sind bei ihren Besitzern für ihr liebenswürdiges Wesen und ihre schrullige Persönlichkeit bekannt, beschützen ihre Herrchen und Frauchen aber auch sehr gut und eignen sich hervorragend als Begleiter in gefährlichen Gegenden.</Doberman.description>
+  <Doberman.tools.0.label>linke Klaue</Doberman.tools.0.label>
+  <Doberman.tools.1.label>rechte Klaue</Doberman.tools.1.label>
+  <Doberman.tools.3.label>Kopf</Doberman.tools.3.label>
+  <!-- Golden Retriever -->
+  <GoldenRetriever.label>Golden Retriever</GoldenRetriever.label>
+  <GoldenRetriever.description>Ein schöner Hund, der für seine Treue geschätzt wird.</GoldenRetriever.description>
+  <GoldenRetriever.tools.0.label>linke Klaue</GoldenRetriever.tools.0.label>
+  <GoldenRetriever.tools.1.label>rechte Klaue</GoldenRetriever.tools.1.label>
+  <!-- Greyhound -->
+  <Greyhound.label>Greyhound</Greyhound.label>
+  <Greyhound.description>Diese beliebten Windhunde sind weithin für ihre Schnelligkeit bekannt. Wenn sie sich von der Jagd zurückgezogen haben, sind sie erstaunlich gute Stubenhocker.</Greyhound.description>
+  <Greyhound.tools.0.label>linke Klaue</Greyhound.tools.0.label>
+  <Greyhound.tools.1.label>rechte Klaue</Greyhound.tools.1.label>
+  <!-- Old English Sheepdog -->
+  <OldEnglishSheepdog.label>Bobtail</OldEnglishSheepdog.label>
+  <OldEnglishSheepdog.description>Sie ist eine hervorragende Ergänzung zu einem Gebiet mit unberührten, flauschigen Schafen.</OldEnglishSheepdog.description>
+  <OldEnglishSheepdog.tools.0.label>linke Klaue</OldEnglishSheepdog.tools.0.label>
+  <OldEnglishSheepdog.tools.1.label>rechte Klaue</OldEnglishSheepdog.tools.1.label>
+  <!-- Standard Poodle -->
+  <StandardPoodle.label>Großpudel</StandardPoodle.label>
+  <StandardPoodle.description>Viele glauben, dass dieser Hund nur glamourös ist, aber der Standardpudel ist einer der intelligentesten Hunde der Galaxis. Sie sind sehr gut trainierbar und eignen sich als Wachhunde.</StandardPoodle.description>
+  <StandardPoodle.tools.0.label>linke Klaue</StandardPoodle.tools.0.label>
+  <StandardPoodle.tools.1.label>rechte Klaue</StandardPoodle.tools.1.label>
+  <!-- Borzoi -->
+  <Borzoi.label>Barsoi</Borzoi.label>
+  <Borzoi.description>Diese großen Hunde sind den Windhunden in ihrer Persönlichkeit und ihren Fähigkeiten sehr ähnlich. Sie sind am einfachsten durch ihre Größe und Färbung zu unterscheiden. Sie sind sehr sanft, aber auch sehr unabhängig.</Borzoi.description>
+  <Borzoi.tools.0.label>linke Klaue</Borzoi.tools.0.label>
+  <Borzoi.tools.1.label>rechte Klaue</Borzoi.tools.1.label>
+  <!-- bull mastiff -->
+  <Bullmastiff.label>Bullmastiff</Bullmastiff.label>
+  <Bullmastiff.description>Ein zuverlässiger und mutiger Begleiter, der von Rim-Planet-Ranchern zum Schutz ihres Vermögens gezüchtet wurde. Ausgezeichneter Begleiter für die Jagd auf Großwild.</Bullmastiff.description>
+  <Bullmastiff.tools.0.label>linke Klaue</Bullmastiff.tools.0.label>
+  <Bullmastiff.tools.1.label>rechte Klaue</Bullmastiff.tools.1.label>
+  <Bullmastiff.tools.3.label>Kopf</Bullmastiff.tools.3.label>
+  <!-- Caucasian shepherd -->
+  <Caucasianshepherd.label>Kaukasischer Owtscharka</Caucasianshepherd.label>
+  <Caucasianshepherd.description>Dieser massive Hund, der ursprünglich zur Bärenjagd gezüchtet wurde, ist eine furchterregende Bereicherung für jede Kolonie.</Caucasianshepherd.description>
+  <Caucasianshepherd.tools.0.label>linke Klaue</Caucasianshepherd.tools.0.label>
+  <Caucasianshepherd.tools.1.label>rechte Klaue</Caucasianshepherd.tools.1.label>
+  <Caucasianshepherd.tools.3.label>Kopf</Caucasianshepherd.tools.3.label>
+  <!-- Saint Bernard -->
+  <Saintbernard.label>Bernhardiner</Saintbernard.label>
+  <Saintbernard.description>Ein großer, freundlicher Hund, der in kalten, bergigen Gebieten verbreitet ist. Er wird in der Regel für Such- und Rettungseinsätze verwendet und ist groß genug, um mitzukommen, wenn es schwierig wird.</Saintbernard.description>
+  <Saintbernard.tools.0.label>linke Klaue</Saintbernard.tools.0.label>
+  <Saintbernard.tools.1.label>rechte Klaue</Saintbernard.tools.1.label>
+  <Saintbernard.tools.3.label>Kopf</Saintbernard.tools.3.label>
+</LanguageData>
