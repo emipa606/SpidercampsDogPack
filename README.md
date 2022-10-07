@@ -6,6 +6,7 @@ Update of Spidercamps mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1256708879
 
 - Fixed the pack-texture names
+- Added German translation, thank you Katinka!
 
 ![Image](https://i.imgur.com/pufA0kM.png)
 
