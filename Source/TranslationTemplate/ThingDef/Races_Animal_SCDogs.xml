@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: afghan hound -->
+  <SCAfghanHound.label>afghan hound</SCAfghanHound.label>
+  <!-- EN: An ancient hound originating from deserts in far-away lands. The majority of sighthounds can trace their linage back to these majestic creatures. Sadly, their intelligence is not as awe-inspiring as their appearance. -->
+  <SCAfghanHound.description>An ancient hound originating from deserts in far-away lands. The majority of sighthounds can trace their linage back to these majestic creatures. Sadly, their intelligence is not as awe-inspiring as their appearance.</SCAfghanHound.description>
+  <!-- EN: left claw -->
+  <SCAfghanHound.tools.left_claw.label>left claw</SCAfghanHound.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <SCAfghanHound.tools.right_claw.label>right claw</SCAfghanHound.tools.right_claw.label>
+  <!-- EN: border collie -->
+  <SCBorderCollie.label>border collie</SCBorderCollie.label>
+  <!-- EN: An energetic dog valued for it's loyalty. -->
+  <SCBorderCollie.description>An energetic dog valued for it's loyalty.</SCBorderCollie.description>
+  <!-- EN: left claw -->
+  <SCBorderCollie.tools.left_claw.label>left claw</SCBorderCollie.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <SCBorderCollie.tools.right_claw.label>right claw</SCBorderCollie.tools.right_claw.label>
+  <!-- EN: borzoi -->
+  <SCBorzoi.label>borzoi</SCBorzoi.label>
+  <!-- EN: These large dogs are very similar to greyhounds in personality and ability. They are differentiated most easily by their size and coloring. They are very gentle but independent. -->
+  <SCBorzoi.description>These large dogs are very similar to greyhounds in personality and ability. They are differentiated most easily by their size and coloring. They are very gentle but independent.</SCBorzoi.description>
+  <!-- EN: left claw -->
+  <SCBorzoi.tools.left_claw.label>left claw</SCBorzoi.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <SCBorzoi.tools.right_claw.label>right claw</SCBorzoi.tools.right_claw.label>
+  <!-- EN: bull mastiff -->
+  <SCBullmastiff.label>bull mastiff</SCBullmastiff.label>
+  <!-- EN: A reliable and courageous companion bred for asset protection by rim planet ranchers. Excellent companion for hunting large game. -->
+  <SCBullmastiff.description>A reliable and courageous companion bred for asset protection by rim planet ranchers. Excellent companion for hunting large game.</SCBullmastiff.description>
+  <!-- EN: left claw -->
+  <SCBullmastiff.tools.left_claw.label>left claw</SCBullmastiff.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <SCBullmastiff.tools.right_claw.label>right claw</SCBullmastiff.tools.right_claw.label>
+  <!-- EN: head -->
+  <SCBullmastiff.tools.head.label>head</SCBullmastiff.tools.head.label>
+  <!-- EN: bull terrier -->
+  <SCBullTerrier.label>bull terrier</SCBullTerrier.label>
+  <!-- EN: An energetic dog valued for it's loyalty. -->
+  <SCBullTerrier.description>An energetic dog valued for it's loyalty.</SCBullTerrier.description>
+  <!-- EN: left claw -->
+  <SCBullTerrier.tools.left_claw.label>left claw</SCBullTerrier.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <SCBullTerrier.tools.right_claw.label>right claw</SCBullTerrier.tools.right_claw.label>
+  <!-- EN: caucasian shepherd -->
+  <SCCaucasianshepherd.label>caucasian shepherd</SCCaucasianshepherd.label>
+  <!-- EN: A massive dog originally bred to hunt bears, this canine makes an intimidating addition to any colony. -->
+  <SCCaucasianshepherd.description>A massive dog originally bred to hunt bears, this canine makes an intimidating addition to any colony.</SCCaucasianshepherd.description>
+  <!-- EN: left claw -->
+  <SCCaucasianshepherd.tools.left_claw.label>left claw</SCCaucasianshepherd.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <SCCaucasianshepherd.tools.right_claw.label>right claw</SCCaucasianshepherd.tools.right_claw.label>
+  <!-- EN: head -->
+  <SCCaucasianshepherd.tools.head.label>head</SCCaucasianshepherd.tools.head.label>
+  <!-- EN: chow chow -->
+  <SCChowchow.label>chow chow</SCChowchow.label>
+  <!-- EN: An ancient breed known for their fluffy coats and powerful bite. Makes a loyal companion and a formidable foe. -->
+  <SCChowchow.description>An ancient breed known for their fluffy coats and powerful bite. Makes a loyal companion and a formidable foe.</SCChowchow.description>
+  <!-- EN: left claw -->
+  <SCChowchow.tools.left_claw.label>left claw</SCChowchow.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <SCChowchow.tools.right_claw.label>right claw</SCChowchow.tools.right_claw.label>
+  <!-- EN: head -->
+  <SCChowchow.tools.head.label>head</SCChowchow.tools.head.label>
+  <!-- EN: collie -->
+  <SCCollie.label>collie</SCCollie.label>
+  <!-- EN: The most beautiful dog in the galaxy. A valued pet known for its loyalty and bravery. They grow special attachments to their human counterparts and are commonly found underfoot. Collies were popularized after a particularly special merle named Bleu won Man's Best Friend In the Rim 3 years running. -->
+  <SCCollie.description>The most beautiful dog in the galaxy. A valued pet known for its loyalty and bravery. They grow special attachments to their human counterparts and are commonly found underfoot. Collies were popularized after a particularly special merle named Bleu won Man's Best Friend In the Rim 3 years running.</SCCollie.description>
+  <!-- EN: left claw -->
+  <SCCollie.tools.left_claw.label>left claw</SCCollie.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <SCCollie.tools.right_claw.label>right claw</SCCollie.tools.right_claw.label>
+  <!-- EN: head -->
+  <SCCollie.tools.head.label>head</SCCollie.tools.head.label>
+  <!-- EN: doberman -->
+  <SCDoberman.label>doberman</SCDoberman.label>
+  <!-- EN: Known to their owners for their kind nature and goofy personalities, they are fiercely protective of their masters and make excellent escorts in dangerous areas. -->
+  <SCDoberman.description>Known to their owners for their kind nature and goofy personalities, they are fiercely protective of their masters and make excellent escorts in dangerous areas.</SCDoberman.description>
+  <!-- EN: left claw -->
+  <SCDoberman.tools.left_claw.label>left claw</SCDoberman.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <SCDoberman.tools.right_claw.label>right claw</SCDoberman.tools.right_claw.label>
+  <!-- EN: head -->
+  <SCDoberman.tools.head.label>head</SCDoberman.tools.head.label>
+  <!-- EN: golden retriever -->
+  <SCGoldenRetriever.label>golden retriever</SCGoldenRetriever.label>
+  <!-- EN: A beautiful dog valued for its loyalty. -->
+  <SCGoldenRetriever.description>A beautiful dog valued for its loyalty.</SCGoldenRetriever.description>
+  <!-- EN: left claw -->
+  <SCGoldenRetriever.tools.left_claw.label>left claw</SCGoldenRetriever.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <SCGoldenRetriever.tools.right_claw.label>right claw</SCGoldenRetriever.tools.right_claw.label>
+  <!-- EN: greyhound -->
+  <SCGreyhound.label>greyhound</SCGreyhound.label>
+  <!-- EN: These popular sighthounds are widely known for their speed. When they are retired from fieldwork they make surprisingly adept couch potatoes. -->
+  <SCGreyhound.description>These popular sighthounds are widely known for their speed. When they are retired from fieldwork they make surprisingly adept couch potatoes.</SCGreyhound.description>
+  <!-- EN: left claw -->
+  <SCGreyhound.tools.left_claw.label>left claw</SCGreyhound.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <SCGreyhound.tools.right_claw.label>right claw</SCGreyhound.tools.right_claw.label>
+  <!-- EN: miniature dachshund -->
+  <SCMiniatureDachshund.label>miniature dachshund</SCMiniatureDachshund.label>
+  <!-- EN: An adorable miniature of the standard Dachshund, these comically shaped dogs were developed to assist in pest control on stately grounds. They quickly dug their place into the hearts of even the most steely and rugged groundskeepers. -->
+  <SCMiniatureDachshund.description>An adorable miniature of the standard Dachshund, these comically shaped dogs were developed to assist in pest control on stately grounds. They quickly dug their place into the hearts of even the most steely and rugged groundskeepers.</SCMiniatureDachshund.description>
+  <!-- EN: left claw -->
+  <SCMiniatureDachshund.tools.left_claw.label>left claw</SCMiniatureDachshund.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <SCMiniatureDachshund.tools.right_claw.label>right claw</SCMiniatureDachshund.tools.right_claw.label>
+  <!-- EN: head -->
+  <SCMiniatureDachshund.tools.head.label>head</SCMiniatureDachshund.tools.head.label>
+  <!-- EN: old english sheepdog -->
+  <SCOldEnglishSheepdog.label>old english sheepdog</SCOldEnglishSheepdog.label>
+  <!-- EN: Makes an excellent complement to a field of pristine, fluffy sheep. -->
+  <SCOldEnglishSheepdog.description>Makes an excellent complement to a field of pristine, fluffy sheep.</SCOldEnglishSheepdog.description>
+  <!-- EN: left claw -->
+  <SCOldEnglishSheepdog.tools.left_claw.label>left claw</SCOldEnglishSheepdog.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <SCOldEnglishSheepdog.tools.right_claw.label>right claw</SCOldEnglishSheepdog.tools.right_claw.label>
+  <!-- EN: pug -->
+  <SCPug.label>pug</SCPug.label>
+  <!-- EN: A popular breed with royalty, pugs are humorous and family-friendly companions. -->
+  <SCPug.description>A popular breed with royalty, pugs are humorous and family-friendly companions.</SCPug.description>
+  <!-- EN: left claw -->
+  <SCPug.tools.left_claw.label>left claw</SCPug.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <SCPug.tools.right_claw.label>right claw</SCPug.tools.right_claw.label>
+  <!-- EN: saint bernard -->
+  <SCSaintbernard.label>saint bernard</SCSaintbernard.label>
+  <!-- EN: A large, kind dog common in cold, mountainous areas. Typically used in search and rescue, it's large enough to ride if the going gets rough. -->
+  <SCSaintbernard.description>A large, kind dog common in cold, mountainous areas. Typically used in search and rescue, it's large enough to ride if the going gets rough.</SCSaintbernard.description>
+  <!-- EN: left claw -->
+  <SCSaintbernard.tools.left_claw.label>left claw</SCSaintbernard.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <SCSaintbernard.tools.right_claw.label>right claw</SCSaintbernard.tools.right_claw.label>
+  <!-- EN: head -->
+  <SCSaintbernard.tools.head.label>head</SCSaintbernard.tools.head.label>
+  <!-- EN: miniature schnauzer -->
+  <SCSchnauzer.label>miniature schnauzer</SCSchnauzer.label>
+  <!-- EN: A breed typically kept for hunting small rodents. Small dog with a big bite. Not recommended for small children. -->
+  <SCSchnauzer.description>A breed typically kept for hunting small rodents. Small dog with a big bite. Not recommended for small children.</SCSchnauzer.description>
+  <!-- EN: left claw -->
+  <SCSchnauzer.tools.left_claw.label>left claw</SCSchnauzer.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <SCSchnauzer.tools.right_claw.label>right claw</SCSchnauzer.tools.right_claw.label>
+  <!-- EN: standard poodle -->
+  <SCStandardPoodle.label>standard poodle</SCStandardPoodle.label>
+  <!-- EN: Many believe this dog is all glamor no guts, but standard poodles are one of the most intelligent dogs in the galaxy. Highly trainable and make suitable alert dogs. -->
+  <SCStandardPoodle.description>Many believe this dog is all glamor no guts, but standard poodles are one of the most intelligent dogs in the galaxy. Highly trainable and make suitable alert dogs.</SCStandardPoodle.description>
+  <!-- EN: left claw -->
+  <SCStandardPoodle.tools.left_claw.label>left claw</SCStandardPoodle.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <SCStandardPoodle.tools.right_claw.label>right claw</SCStandardPoodle.tools.right_claw.label>
+  <!-- EN: welsh corgi -->
+  <SCWelshCorgi.label>welsh corgi</SCWelshCorgi.label>
+  <!-- EN: Known for being the favorite breed of the oldest queen on record, the Welsh Corgi makes a spunky, independent companion with an affinity for finding trouble.\n	\n	In memory of Nugget - the sweetest, orneriest, candy-thievingest dog to ever trot the galaxy. -->
+  <SCWelshCorgi.description>Known for being the favorite breed of the oldest queen on record, the Welsh Corgi makes a spunky, independent companion with an affinity for finding trouble.
+	
+	In memory of Nugget - the sweetest, orneriest, candy-thievingest dog to ever trot the galaxy.</SCWelshCorgi.description>
+  <!-- EN: left claw -->
+  <SCWelshCorgi.tools.left_claw.label>left claw</SCWelshCorgi.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <SCWelshCorgi.tools.right_claw.label>right claw</SCWelshCorgi.tools.right_claw.label>
+</LanguageData>

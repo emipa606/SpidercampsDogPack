@@ -1,0 +1,94 @@
+ManifestFileVersion: 0
+CRC: 2691705624
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 26f869e58123429d4c8d7ea69f0a6b31
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 26f869e58123429d4c8d7ea69f0a6b31
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Data/Mlie.SpidercampsDogPack/Textures/Things/Chowchow_north.png
+- Assets/Data/Mlie.SpidercampsDogPack/Textures/Things/Golden_south.png
+- Assets/Data/Mlie.SpidercampsDogPack/Textures/Things/StbernardPack_north.png
+- Assets/Data/Mlie.SpidercampsDogPack/Textures/Things/MastiffPack_south.png
+- Assets/Data/Mlie.SpidercampsDogPack/Textures/Things/BorderCollie_east.png
+- Assets/Data/Mlie.SpidercampsDogPack/Textures/Things/Greyhound_north.png
+- Assets/Data/Mlie.SpidercampsDogPack/Textures/Things/Collie_north.png
+- Assets/Data/Mlie.SpidercampsDogPack/Textures/Things/Collie_south.png
+- Assets/Data/Mlie.SpidercampsDogPack/Textures/Things/Poodle_east.png
+- Assets/Data/Mlie.SpidercampsDogPack/Textures/Things/CollieTri_east.png
+- Assets/Data/Mlie.SpidercampsDogPack/Textures/Things/Borzoi_south.png
+- Assets/Data/Mlie.SpidercampsDogPack/Textures/Things/MastiffPack_north.png
+- Assets/Data/Mlie.SpidercampsDogPack/Textures/Things/MiniatureDachshund_north.png
+- Assets/Data/Mlie.SpidercampsDogPack/Textures/Things/CshepherdPack_south.PNG
+- Assets/Data/Mlie.SpidercampsDogPack/Textures/Things/CollieMerle_north.png
+- Assets/Data/Mlie.SpidercampsDogPack/Textures/Things/Greyhound_east.png
+- Assets/Data/Mlie.SpidercampsDogPack/Textures/Things/BorderCollie_south.png
+- Assets/Data/Mlie.SpidercampsDogPack/Textures/Things/StbernardPack_south.png
+- Assets/Data/Mlie.SpidercampsDogPack/Textures/Things/Pug_east.png
+- Assets/Data/Mlie.SpidercampsDogPack/Textures/Things/Collie_east.png
+- Assets/Data/Mlie.SpidercampsDogPack/Textures/Things/Sheepdog_south.png
+- Assets/Data/Mlie.SpidercampsDogPack/Textures/Things/AfghanHound_east.png
+- Assets/Data/Mlie.SpidercampsDogPack/Textures/Things/Newfoundland_north.png
+- Assets/Data/Mlie.SpidercampsDogPack/Textures/Things/Pug_north.png
+- Assets/Data/Mlie.SpidercampsDogPack/Textures/Things/Stbernard_north.png
+- Assets/Data/Mlie.SpidercampsDogPack/Textures/Things/Doberman_north.png
+- Assets/Data/Mlie.SpidercampsDogPack/Textures/Things/Stbernard_east.png
+- Assets/Data/Mlie.SpidercampsDogPack/Textures/Things/Mastiff_east.png
+- Assets/Data/Mlie.SpidercampsDogPack/Textures/Things/Doberman_south.png
+- Assets/Data/Mlie.SpidercampsDogPack/Textures/Things/BullTerrier_south.png
+- Assets/Data/Mlie.SpidercampsDogPack/Textures/Things/Greyhound_south.png
+- Assets/Data/Mlie.SpidercampsDogPack/Textures/Things/Borzoi_east.png
+- Assets/Data/Mlie.SpidercampsDogPack/Textures/Things/Mastiff_north.png
+- Assets/Data/Mlie.SpidercampsDogPack/Textures/Things/Mastiff_south.png
+- Assets/Data/Mlie.SpidercampsDogPack/Textures/Things/Golden_east.png
+- Assets/Data/Mlie.SpidercampsDogPack/Textures/Things/BullTerrier_north.png
+- Assets/Data/Mlie.SpidercampsDogPack/Textures/Things/WelshCorgi_east.png
+- Assets/Data/Mlie.SpidercampsDogPack/Textures/Things/CollieTri_south.png
+- Assets/Data/Mlie.SpidercampsDogPack/Textures/Things/CollieMerle_east.png
+- Assets/Data/Mlie.SpidercampsDogPack/Textures/Things/CollieWhite_north.png
+- Assets/Data/Mlie.SpidercampsDogPack/Textures/Things/Newfoundland_south.png
+- Assets/Data/Mlie.SpidercampsDogPack/Textures/Things/Chowchow_south.png
+- Assets/Data/Mlie.SpidercampsDogPack/Textures/Things/Golden_north.png
+- Assets/Data/Mlie.SpidercampsDogPack/Textures/Things/Cshepherd_north.PNG
+- Assets/Data/Mlie.SpidercampsDogPack/Textures/Things/Cshepherd_east.PNG
+- Assets/Data/Mlie.SpidercampsDogPack/Textures/Things/MastiffPack_east.png
+- Assets/Data/Mlie.SpidercampsDogPack/Textures/Things/Pug_south.png
+- Assets/Data/Mlie.SpidercampsDogPack/Textures/Things/Newfoundland_east.png
+- Assets/Data/Mlie.SpidercampsDogPack/Textures/Things/Chowchow_east.png
+- Assets/Data/Mlie.SpidercampsDogPack/Textures/Things/MiniatureDachshund_south.png
+- Assets/Data/Mlie.SpidercampsDogPack/Textures/Things/Poodle_north.png
+- Assets/Data/Mlie.SpidercampsDogPack/Textures/Things/Borzoi_north.png
+- Assets/Data/Mlie.SpidercampsDogPack/Textures/Things/Sheepdog_east.png
+- Assets/Data/Mlie.SpidercampsDogPack/Textures/Things/Stbernard_south.png
+- Assets/Data/Mlie.SpidercampsDogPack/Textures/Things/CollieTri_north.png
+- Assets/Data/Mlie.SpidercampsDogPack/Textures/Things/MiniatureDachshund_east.png
+- Assets/Data/Mlie.SpidercampsDogPack/Textures/Things/Poodle_south.png
+- Assets/Data/Mlie.SpidercampsDogPack/Textures/Things/AfghanHound_north.png
+- Assets/Data/Mlie.SpidercampsDogPack/Textures/Things/CollieWhite_south.png
+- Assets/Data/Mlie.SpidercampsDogPack/Textures/Things/StbernardPack_east.png
+- Assets/Data/Mlie.SpidercampsDogPack/Textures/Things/CshepherdPack_east.PNG
+- Assets/Data/Mlie.SpidercampsDogPack/Textures/Things/BullTerrier_east.png
+- Assets/Data/Mlie.SpidercampsDogPack/Textures/Things/WelshCorgi_south.png
+- Assets/Data/Mlie.SpidercampsDogPack/Textures/Things/Schnauzer_east.png
+- Assets/Data/Mlie.SpidercampsDogPack/Textures/Things/Cshepherd_south.PNG
+- Assets/Data/Mlie.SpidercampsDogPack/Textures/Things/CollieWhite_east.png
+- Assets/Data/Mlie.SpidercampsDogPack/Textures/Things/AfghanHound_south.png
+- Assets/Data/Mlie.SpidercampsDogPack/Textures/Things/WelshCorgi_north.png
+- Assets/Data/Mlie.SpidercampsDogPack/Textures/Things/Sheepdog_north.png
+- Assets/Data/Mlie.SpidercampsDogPack/Textures/Things/Doberman_east.png
+- Assets/Data/Mlie.SpidercampsDogPack/Textures/Things/Schnauzer_south.png
+- Assets/Data/Mlie.SpidercampsDogPack/Textures/Things/CollieMerle_south.png
+- Assets/Data/Mlie.SpidercampsDogPack/Textures/Things/BorderCollie_north.png
+- Assets/Data/Mlie.SpidercampsDogPack/Textures/Things/CshepherdPack_north.PNG
+- Assets/Data/Mlie.SpidercampsDogPack/Textures/Things/Schnauzer_north.png
+Dependencies: []

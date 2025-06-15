@@ -154,6 +154,7 @@
       <MoveSpeed>5.2</MoveSpeed>
       <ComfyTemperatureMin>-10</ComfyTemperatureMin>
       <MarketValue>300</MarketValue>
+      <Wildness>0</Wildness>
     </statBases>
     <tools>
       <li>
@@ -207,7 +208,6 @@
       <gestationPeriodDays>15</gestationPeriodDays>
       <nameOnTameChance>1</nameOnTameChance>
       <trainability>Advanced</trainability>
-      <wildness>0</wildness>
       <nuzzleMtbHours>24</nuzzleMtbHours>
       <soundEating>PredatorSmall_Eat</soundEating>
       <litterSizeCurve>
@@ -312,6 +312,7 @@
       <MoveSpeed>5.2</MoveSpeed>
       <ComfyTemperatureMin>-20</ComfyTemperatureMin>
       <MarketValue>300</MarketValue>
+      <Wildness>0</Wildness>
     </statBases>
     <tools>
       <li>
@@ -354,7 +355,6 @@
       <gestationPeriodDays>15</gestationPeriodDays>
       <nameOnTameChance>1</nameOnTameChance>
       <trainability>Advanced</trainability>
-      <wildness>0</wildness>
       <nuzzleMtbHours>24</nuzzleMtbHours>
       <soundEating>PredatorSmall_Eat</soundEating>
       <litterSizeCurve>
@@ -459,6 +459,7 @@
       <MoveSpeed>4.2</MoveSpeed>
       <ComfyTemperatureMin>-20</ComfyTemperatureMin>
       <MarketValue>300</MarketValue>
+      <Wildness>0</Wildness>
     </statBases>
     <tools>
       <li>
@@ -501,7 +502,6 @@
       <gestationPeriodDays>15</gestationPeriodDays>
       <nameOnTameChance>1</nameOnTameChance>
       <trainability>Advanced</trainability>
-      <wildness>0</wildness>
       <nuzzleMtbHours>24</nuzzleMtbHours>
       <soundEating>PredatorSmall_Eat</soundEating>
       <litterSizeCurve>
@@ -608,6 +608,7 @@
       <MoveSpeed>5.2</MoveSpeed>
       <ComfyTemperatureMin>-20</ComfyTemperatureMin>
       <MarketValue>300</MarketValue>
+      <Wildness>0</Wildness>
     </statBases>
     <tools>
       <li>
@@ -650,7 +651,6 @@
       <gestationPeriodDays>15</gestationPeriodDays>
       <nameOnTameChance>1</nameOnTameChance>
       <trainability>Advanced</trainability>
-      <wildness>0</wildness>
       <nuzzleMtbHours>24</nuzzleMtbHours>
       <soundEating>PredatorSmall_Eat</soundEating>
       <litterSizeCurve>
@@ -756,6 +756,7 @@
       <MoveSpeed>7.0</MoveSpeed>
       <ComfyTemperatureMin>-30</ComfyTemperatureMin>
       <MarketValue>300</MarketValue>
+      <Wildness>0</Wildness>
     </statBases>
     <tools>
       <li>
@@ -798,7 +799,6 @@
       <gestationPeriodDays>22.5</gestationPeriodDays>
       <nameOnTameChance>1</nameOnTameChance>
       <trainability>Advanced</trainability>
-      <wildness>0</wildness>
       <nuzzleMtbHours>24</nuzzleMtbHours>
       <soundEating>PredatorSmall_Eat</soundEating>
       <litterSizeCurve>
@@ -903,6 +903,7 @@
       <MoveSpeed>5.2</MoveSpeed>
       <ComfyTemperatureMin>-25</ComfyTemperatureMin>
       <MarketValue>300</MarketValue>
+      <Wildness>0</Wildness>
     </statBases>
     <tools>
       <li>
@@ -945,7 +946,6 @@
       <gestationPeriodDays>15.5</gestationPeriodDays>
       <nameOnTameChance>1</nameOnTameChance>
       <trainability>Advanced</trainability>
-      <wildness>0</wildness>
       <nuzzleMtbHours>24</nuzzleMtbHours>
       <soundEating>PredatorSmall_Eat</soundEating>
       <litterSizeCurve>
@@ -1050,6 +1050,7 @@
       <MoveSpeed>5.2</MoveSpeed>
       <ComfyTemperatureMin>-25</ComfyTemperatureMin>
       <MarketValue>300</MarketValue>
+      <Wildness>0</Wildness>
     </statBases>
     <tools>
       <li>
@@ -1092,7 +1093,6 @@
       <gestationPeriodDays>15.5</gestationPeriodDays>
       <nameOnTameChance>1</nameOnTameChance>
       <trainability>Advanced</trainability>
-      <wildness>0</wildness>
       <nuzzleMtbHours>24</nuzzleMtbHours>
       <soundEating>PredatorSmall_Eat</soundEating>
       <litterSizeCurve>
@@ -1197,6 +1197,7 @@
       <MoveSpeed>5.2</MoveSpeed>
       <ComfyTemperatureMin>-50</ComfyTemperatureMin>
       <MarketValue>300</MarketValue>
+      <Wildness>0</Wildness>
     </statBases>
     <tools>
       <li>
@@ -1257,7 +1258,6 @@
       <gestationPeriodDays>22.5</gestationPeriodDays>
       <nameOnTameChance>1</nameOnTameChance>
       <trainability>Advanced</trainability>
-      <wildness>0</wildness>
       <nuzzleMtbHours>24</nuzzleMtbHours>
       <soundEating>PredatorSmall_Eat</soundEating>
       <litterSizeCurve>
@@ -1363,6 +1363,7 @@
       <MoveSpeed>5.2</MoveSpeed>
       <ComfyTemperatureMin>-50</ComfyTemperatureMin>
       <MarketValue>300</MarketValue>
+      <Wildness>0</Wildness>
     </statBases>
     <tools>
       <li>
@@ -1415,7 +1416,6 @@
       <gestationPeriodDays>22.5</gestationPeriodDays>
       <nameOnTameChance>1</nameOnTameChance>
       <trainability>Advanced</trainability>
-      <wildness>0</wildness>
       <nuzzleMtbHours>24</nuzzleMtbHours>
       <soundEating>PredatorSmall_Eat</soundEating>
       <litterSizeCurve>
@@ -1531,6 +1531,7 @@
       <MoveSpeed>5.2</MoveSpeed>
       <ComfyTemperatureMin>-50</ComfyTemperatureMin>
       <MarketValue>300</MarketValue>
+      <Wildness>0</Wildness>
     </statBases>
     <tools>
       <li>
@@ -1591,7 +1592,6 @@
       <gestationPeriodDays>22.5</gestationPeriodDays>
       <nameOnTameChance>1</nameOnTameChance>
       <trainability>Advanced</trainability>
-      <wildness>0</wildness>
       <nuzzleMtbHours>24</nuzzleMtbHours>
       <soundEating>PredatorSmall_Eat</soundEating>
       <litterSizeCurve>
@@ -1697,6 +1697,7 @@
       <MoveSpeed>5.2</MoveSpeed>
       <ComfyTemperatureMin>-30</ComfyTemperatureMin>
       <MarketValue>300</MarketValue>
+      <Wildness>0</Wildness>
     </statBases>
     <tools>
       <li>
@@ -1739,7 +1740,6 @@
       <gestationPeriodDays>22.5</gestationPeriodDays>
       <nameOnTameChance>1</nameOnTameChance>
       <trainability>Advanced</trainability>
-      <wildness>0</wildness>
       <nuzzleMtbHours>24</nuzzleMtbHours>
       <soundEating>PredatorSmall_Eat</soundEating>
       <litterSizeCurve>
@@ -1844,6 +1844,7 @@
       <MoveSpeed>7.0</MoveSpeed>
       <ComfyTemperatureMin>-30</ComfyTemperatureMin>
       <MarketValue>300</MarketValue>
+      <Wildness>0</Wildness>
     </statBases>
     <tools>
       <li>
@@ -1886,7 +1887,6 @@
       <gestationPeriodDays>22.5</gestationPeriodDays>
       <nameOnTameChance>1</nameOnTameChance>
       <trainability>Advanced</trainability>
-      <wildness>0</wildness>
       <nuzzleMtbHours>24</nuzzleMtbHours>
       <soundEating>PredatorSmall_Eat</soundEating>
       <litterSizeCurve>
@@ -1991,6 +1991,7 @@
       <MoveSpeed>5.0</MoveSpeed>
       <ComfyTemperatureMin>-30</ComfyTemperatureMin>
       <MarketValue>300</MarketValue>
+      <Wildness>0</Wildness>
     </statBases>
     <tools>
       <li>
@@ -2033,7 +2034,6 @@
       <gestationPeriodDays>22.5</gestationPeriodDays>
       <nameOnTameChance>1</nameOnTameChance>
       <trainability>Advanced</trainability>
-      <wildness>0</wildness>
       <nuzzleMtbHours>24</nuzzleMtbHours>
       <soundEating>PredatorSmall_Eat</soundEating>
       <litterSizeCurve>
@@ -2138,6 +2138,7 @@
       <MoveSpeed>5.0</MoveSpeed>
       <ComfyTemperatureMin>-30</ComfyTemperatureMin>
       <MarketValue>300</MarketValue>
+      <Wildness>0</Wildness>
     </statBases>
     <tools>
       <li>
@@ -2180,7 +2181,6 @@
       <gestationPeriodDays>22.5</gestationPeriodDays>
       <nameOnTameChance>1</nameOnTameChance>
       <trainability>Advanced</trainability>
-      <wildness>0</wildness>
       <nuzzleMtbHours>24</nuzzleMtbHours>
       <soundEating>PredatorSmall_Eat</soundEating>
       <litterSizeCurve>
@@ -2286,6 +2286,7 @@
       <MoveSpeed>6.5</MoveSpeed>
       <ComfyTemperatureMin>-25</ComfyTemperatureMin>
       <MarketValue>300</MarketValue>
+      <Wildness>0</Wildness>
     </statBases>
     <tools>
       <li>
@@ -2328,7 +2329,6 @@
       <gestationPeriodDays>15.5</gestationPeriodDays>
       <nameOnTameChance>1</nameOnTameChance>
       <trainability>Advanced</trainability>
-      <wildness>0</wildness>
       <nuzzleMtbHours>24</nuzzleMtbHours>
       <soundEating>PredatorSmall_Eat</soundEating>
       <litterSizeCurve>
@@ -2433,6 +2433,7 @@
       <MoveSpeed>5.2</MoveSpeed>
       <ComfyTemperatureMin>-50</ComfyTemperatureMin>
       <MarketValue>300</MarketValue>
+      <Wildness>.25</Wildness>
     </statBases>
     <tools>
       <li>
@@ -2494,7 +2495,6 @@
       <gestationPeriodDays>22.5</gestationPeriodDays>
       <nameOnTameChance>1</nameOnTameChance>
       <trainability>Advanced</trainability>
-      <wildness>.25</wildness>
       <nuzzleMtbHours>24</nuzzleMtbHours>
       <soundEating>PredatorSmall_Eat</soundEating>
       <litterSizeCurve>
@@ -2600,6 +2600,7 @@
       <MoveSpeed>5.2</MoveSpeed>
       <ComfyTemperatureMin>-70</ComfyTemperatureMin>
       <MarketValue>300</MarketValue>
+      <Wildness>.25</Wildness>
     </statBases>
     <tools>
       <li>
@@ -2661,7 +2662,6 @@
       <gestationPeriodDays>22.5</gestationPeriodDays>
       <nameOnTameChance>1</nameOnTameChance>
       <trainability>Advanced</trainability>
-      <wildness>.25</wildness>
       <nuzzleMtbHours>24</nuzzleMtbHours>
       <soundEating>PredatorSmall_Eat</soundEating>
       <litterSizeCurve>
@@ -2911,6 +2911,7 @@
       <MoveSpeed>5.2</MoveSpeed>
       <ComfyTemperatureMin>-70</ComfyTemperatureMin>
       <MarketValue>300</MarketValue>
+      <Wildness>0</Wildness>
     </statBases>
     <tools>
       <li>
@@ -2972,7 +2973,6 @@
       <gestationPeriodDays>22.5</gestationPeriodDays>
       <nameOnTameChance>1</nameOnTameChance>
       <trainability>Advanced</trainability>
-      <wildness>0</wildness>
       <nuzzleMtbHours>24</nuzzleMtbHours>
       <soundEating>PredatorSmall_Eat</soundEating>
       <litterSizeCurve>
