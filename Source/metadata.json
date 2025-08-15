@@ -3,7 +3,13 @@
   "CanAdd": "0",
   "CanRemove": "2",
   "PreviewVersion": "1.6",
-  "LastXmlCleaning": "2025-06-15T21:18:33.6991845+02:00",
+  "LastXmlCleaning": "2025-08-15T20:46:18.5695029+02:00",
   "SocialImageSet": true,
-  "SearchTags": "dog breeds"
+  "SearchTags": "dog breeds",
+  "Patches": false,
+  "Defs": true,
+  "Assemblies": false,
+  "LinesOfCode": 0,
+  "LinesOfXML": 105621,
+  "CodeBaseSize": 79
 }

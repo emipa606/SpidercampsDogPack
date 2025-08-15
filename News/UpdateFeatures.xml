@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<HugsLib.UpdateFeatureDef Abstract="true" Name="SpidercampsDogPack_UpdateFeatureBase">
+		<modNameReadable>SpidercampsDogPack</modNameReadable>
+		<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2453077534</linkUrl>
+	</HugsLib.UpdateFeatureDef>
+	<HugsLib.UpdateFeatureDef ParentName="SpidercampsDogPack_UpdateFeatureBase">
+		<defName>SpidercampsDogPack_1_6_0</defName>
+		<assemblyVersion>1.6.0</assemblyVersion>
+		<content>This mod will not be further updated, please use Stray Dogs (rescued) by 76561198065946042 instead.</content>
+	</HugsLib.UpdateFeatureDef>
+</Defs>
+

@@ -1,4 +1,4 @@
-# [Spidercamp's Dog Pack (Continued)](https://steamcommunity.com/sharedfiles/filedetails/?id=2453077534)
+# [[Depricated] Spidercamp's Dog Pack (Continued)](https://steamcommunity.com/sharedfiles/filedetails/?id=2453077534)
 
 ![Image](https://i.imgur.com/buuPQel.png)
 
@@ -9,7 +9,9 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1256708879
 - Added German translation, thank you Katinka!
 - Check out the [Spidercamp's Dog Pack - Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=2923173574) by Halituis Amaricanous for more detailed textures!
 
-![Image](https://i.imgur.com/pufA0kM.png)
+![Image](https://i.imgur.com/3npT60J.png)
+
+This mod has been replaced by [Stray Dogs (rescued)](https://steamcommunity.com/sharedfiles/filedetails/?id=3549460027) by 76561198065946042
 	
 ![Image](https://i.imgur.com/Z4GOv8H.png)
 
@@ -98,7 +100,7 @@ B19 version available here: https://www.dropbox.com/sh/ck625r0tl4cmcuo/AAD_rcm_W
 
 -  See if the the error persists if you just have this mod and its requirements active.
 -  If not, try adding your other mods until it happens again.
--  Post your error-log using [HugsLib](https://steamcommunity.com/workshop/filedetails/?id=818773962) or the standalone [Uploader](https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404) and command Ctrl+F12
+-  Post your error-log using the [Log Uploader](https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404) or the standalone [Uploader](https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404) and command Ctrl+F12
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.

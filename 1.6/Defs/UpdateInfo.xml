@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<TabulaRasa.UpdateDef Abstract="true" Name="SpidercampsDogPack_UpdateInfoBase">
+		<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2453077534</linkUrl>
+		<banner>UpdateInfo/SpidercampsDogPack</banner>
+	</TabulaRasa.UpdateDef>
+	<TabulaRasa.UpdateDef ParentName="SpidercampsDogPack_UpdateInfoBase" MayRequire="neronix17.toolbox">
+		<defName>SpidercampsDogPack_1_6_0</defName>
+		<date>2025/8/15</date>
+		<content>This mod will not be further updated, please use Stray Dogs (rescued) by 76561198065946042 instead.</content>
+	</TabulaRasa.UpdateDef>
+</Defs>
+
